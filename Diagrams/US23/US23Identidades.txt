@@ -1,0 +1,6 @@
+Administrador
+Enfermera
+Medico
+PAciente
+Facturador
+Empleado

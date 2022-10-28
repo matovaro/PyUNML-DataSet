@@ -1,0 +1,45 @@
+-Listado de Entidades:
+
+Contenido
+Huella Dactilar
+Perfil
+Usuario
+Música
+Video
+Metadato
+Etiqueta
+Secuencia
+Miniatura
+Información
+Segmento
+Elemento
+Evento
+Noticia
+Producto
+Logotipo
+Marca
+Imagen
+Mapa Geográfico
+Monumento
+Voz Automática
+Tema
+Audio
+Activo
+Científico
+Snapshot Serengeti
+Especie
+Atributo
+Animal
+Plancton
+Tamaño
+Worm Watch Lab
+Hora
+Artefacto
+Objeto
+Archivo
+Ballena
+Texto
+Voluntario
+Zoonibot
+Sujeto
+Proyecto          

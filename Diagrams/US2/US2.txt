@@ -1,0 +1,58 @@
+Como usuario público, deseo buscar información para poder obtener información disponible públicamente sobre propiedades, servicios del condado, procesos y otra información general.
+Como candidato potencial, quiero investigar los requisitos y seleccionar un servicio, de modo que pueda encontrar el servicio relevante y / o el tipo de aplicación para iniciar a través del portal en línea.
+Como solicitante, deseo solicitar asistencia previa a la solicitud para poder recibir una respuesta a una solicitud de reunión o información que sea el resultado de la asistencia previa a la solicitud.
+Como cliente, deseo crear una cuenta de usuario del portal del cliente, para poder iniciar sesión en el portal del cliente y realizar transacciones que primero requieran autenticación de usuario.
+Como solicitante, quiero enviar una solicitud para poder proporcionar mi información, planes y / o documentos para iniciar una transacción con el condado.
+Como solicitante, deseo presentar documentación de respaldo para poder cumplir con los requisitos de documentación de mi solicitud.
+Como solicitante, deseo pagar la tarifa para poder satisfacer el cargo pendiente asociado con el servicio solicitado o recibido del condado.
+Como solicitante, quiero verificar el estado de una transacción, para poder comprender dónde se encuentra el suministro de mi servicio en el proceso, como información relacionada con los niveles de servicio, tarifas, revisión del plan, permiso o resultados de inspección.
+Como solicitante, deseo modificar mi solicitud para poder cambiar correctamente la información en una solicitud.
+Como miembro del personal, deseo realizar una revisión de integridad para poder validar cuando una solicitud esté completa y sea elegible para una revisión técnica adicional.
+Como miembro del personal, quiero registrar una nota interna, para poder compartir información con otros miembros del personal que colaboran en el registro.
+Como miembro del personal, quiero asignar una solicitud para una revisión detallada, de modo que pueda revisar el cumplimiento y posteriormente aprobarla o denegarla.
+Como miembro del personal, quiero aplicar una retención para poder evitar el progreso a través del flujo de trabajo u otras acciones en el sistema hasta que se resuelva el problema.
+Como miembro del personal, quiero eliminar una retención, para poder permitir la progresión a través del flujo de trabajo u otras acciones en el sistema ahora que el problema se ha resuelto.
+Como miembro del personal, deseo enviar una respuesta formal al solicitante para poder cumplir con las responsabilidades de comunicación y registros.
+Como miembro del personal, quiero realizar un seguimiento de los borradores de las propuestas, para poder preservar el historial de los borradores de las declaraciones de propuestas enviadas por el solicitante.
+Como miembro del personal, quiero administrar las ofertas aprobadas, para poder garantizar el cumplimiento y la satisfacción de la oferta en el futuro.
+Como miembro del personal, deseo administrar las ordenanzas para poder mantener información precisa sobre las ordenanzas en el sistema.
+Como miembro del personal, quiero programar una reunión, para poder reunir a las partes requeridas en una fecha / hora específica para abordar un problema.
+Como miembro del personal, quiero indicar una solicitud con un estado de Acción final. Para que pueda terminarlo.
+Como miembro del personal de planificación, deseo realizar y realizar un seguimiento de las enmiendas al plan y los estudios de planificación, de modo que pueda registrar el trabajo en proceso, los resultados y la información basada en la ubicación relacionada con los planes.
+Como miembro del personal de planificación, quiero generar informes relacionados con la planificación, para poder acceder, analizar y / o exportar la información necesaria en el formato que solicité.
+Como miembro del personal de planificación, deseo evaluar la coherencia con el plan integral, para poder completar la revisión requerida de un conjunto de planes y / o aplicación.
+Como miembro del personal, quiero realizar una revisión del personal, para poder validar el cumplimiento de una solicitud con la Ordenanza de zonificación e impactar la aprobación / denegación de la solicitud en consecuencia.
+Como miembro del personal de zonificación, deseo procesar las solicitudes de información de zonificación para poder capturar mi respuesta a la solicitud en el sistema y también enviar una comunicación desde el sistema al solicitante.
+Como miembro del personal de zonificación, deseo emitir los permisos relacionados con la zonificación para poder satisfacer la solicitud de servicio de un solicitante que haya demostrado ser elegible y que cumpla con la Ordenanza de zonificación.
+Como miembro del personal, quiero desarrollar un informe del personal para poder publicar y distribuir el informe de acuerdo con las reglas comerciales.
+Como miembro del personal, quiero administrar los calendarios de audiencias para poder realizar un seguimiento de las actividades relacionadas con la audición y las fechas de vencimiento.
+Como miembro del personal, deseo asignar una fecha de audiencia para poder presentar la solicitud al órgano de gobierno correspondiente dentro de los plazos establecidos por las reglas y procedimientos pertinentes del condado.
+Como miembro del personal, quiero administrar declaraciones juradas para poder asegurar el cumplimiento de los requisitos antes de la audiencia.
+Como solicitante, quiero cumplir con los requisitos de audiencia, para poder asegurarme de que todos los requisitos previos a la audiencia se cumplan a tiempo para la audiencia.
+Como miembro del personal, quiero prepararme y apoyar la ejecución de la audiencia, de modo que pueda asegurarme de que se cumplan todos los requisitos previos a la audiencia y que el personal y el solicitante estén listos para la audiencia.
+Como miembro del personal, quiero capturar una decisión de audiencia para poder hacer cumplir el sistema.
+Como miembro del personal, deseo procesar las apelaciones para poder realizar un seguimiento del resultado y registrar el impacto en los registros pertinentes.
+Como miembro del personal de revisión de planes, deseo asignar planes para revisión, de modo que pueda asegurarme de que los planes se hayan asignado al revisor de planes correspondiente.
+Como supervisor del personal de revisión del plan, quiero administrar la carga de trabajo del revisor del plan, de modo que pueda monitorear y ajustar de manera efectiva la carga de trabajo según sea necesario y asegurar que se cumplan los niveles de servicio.
+Como solicitante, deseo solicitar una reunión de revisión del plan para poder reunirme con el personal de revisión del plan con respecto a la revisión del plan.
+Como miembro del personal de revisión del plan, deseo llevar a cabo con éxito una reunión de revisión del plan con el solicitante y registrar el resultado para poder escucharlo nuevamente.
+Como miembro del personal de revisión de planes, deseo revisar los planes para poder revisarlos para verificar su cumplimiento y aprobar, reprobar o rechazar los planes y registrar las condiciones, autorizaciones o correcciones necesarias por parte del solicitante.
+Como solicitante, deseo volver a enviar los planes para poder revisar los planes revisados.
+Como miembro del personal de revisión del plan, deseo revisar las modificaciones del código enviadas por el solicitante para poder revisar la solicitud y, si se aprueba, asociarla con el proyecto correspondiente.
+Como miembro del personal de revisión del plan, quiero hacer un seguimiento de la finalización de las revisiones del plan requeridas, para poder asegurarme de que se completen todas las tareas de revisión del plan, que se hayan enviado los resultados al solicitante y que se inicien los pasos posteriores, como una revisión o pago final. para la emisión de permisos.
+Como miembro del personal de desarrollo, quiero emitir un permiso relacionado con el desarrollo, para poder otorgar la solicitud al solicitante para comenzar a trabajar.
+Como miembro del personal, quiero administrar los bonos, para poder realizar un seguimiento y administrar los bonos durante todo el ciclo de vida del proyecto hasta su lanzamiento.
+Como solicitante, quiero completar el proyecto de desarrollo de edificios, para poder recibir cualquier fianza publicada y / u obtener una ocupación.
+Como solicitante, quiero completar el proyecto de desarrollo de edificios, para poder recibir cualquier fianza publicada y / u obtener una ocupación.
+Como cliente, deseo solicitar una inspección, de modo que se asigne un inspector del condado para que realice una inspección de mi proyecto.
+Como miembro del personal de inspección, deseo crear una inspección para poder programar y asignar la inspección.
+Como supervisor del personal de inspección, quiero asignar inspecciones para poder asegurarme de que el inspector apropiado reciba el trabajo.
+Como supervisor de inspección, quiero administrar la carga de trabajo del inspector para poder cumplir con los requisitos de calidad y nivel de servicio.
+Como inspector, deseo realizar inspecciones para poder validar el cumplimiento del cliente con el código y las regulaciones y proporcionar los resultados de la inspección al cliente.
+Como miembro del personal de cumplimiento, deseo emitir un aviso de infracción para poder proporcionar una comunicación formal a la parte responsable.
+Como miembro del personal, deseo buscar información sobre la propiedad para poder obtener todos los propietarios, permisos y solicitudes actuales e históricos asociados.
+Como miembro del personal, necesito que se me notifique cuando cambien los atributos geoespaciales, para poder asegurarme de que estoy revisando el permiso / solicitud con los datos más actualizados y los estándares apropiados.
+Como miembro del personal del condado, quiero crear una consulta / informe personalizado fuera de la funcionalidad común de consulta / informe, para poder cumplir con una solicitud.
+Como miembro del personal, quiero crear cada unidad de condominio, para poder asociarla a la parcela secundaria y la dirección después de que los condominios se registren en el sistema.
+Como miembro del personal técnico, quiero actualizar GIS Property Management, para poder actualizar correctamente el Pin de parcela transaccional para hacer referencia a la capa GIS donde existe el Pin de parcela dividida o fusionada.
+Como miembro del personal, deseo enviar o publicar citaciones y multas para poder enviar correctamente el documento de notificación de infracción al propietario y registrar información sobre la acción.

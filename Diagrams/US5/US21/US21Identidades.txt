@@ -1,0 +1,12 @@
+Externo
+Personal_biblioteca
+Admin
+Soporte
+Administracion
+Admin_activos
+Admin_extension
+Estudiante
+Curador_datos
+Usuario
+Educador_extension
+Admin_DB_IR

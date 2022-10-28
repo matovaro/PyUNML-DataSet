@@ -1,0 +1,97 @@
+Como miembro del sitio, quiero describirme en mi propia página de una manera semiestructurada, para que otros puedan aprender sobre mí.
+Como miembro del sitio, quiero completar una solicitud para convertirme en Practicante certificado de Scrum, para poder obtener esa designación.
+Como practicante, quiero incluir detalles adicionales sobre mí en mi página de perfil, para poder mostrar mi experiencia.
+Como miembro del sitio, quiero completar una solicitud para convertirme en Certified Scrum Trainer, para poder impartir cursos de CSM y CSPO y certificar a otros.
+Como capacitador, quiero incluir detalles adicionales sobre mí en mi página de perfil, para que otros puedan aprender sobre mí y decidir si soy el capacitador adecuado para ellos.
+Como practicante, quiero escribir un artículo para el sitio con un pequeño gráfico que muestra el estado de mi CSP o CST, para que otros conozcan mis certificaciones al leer.
+Como capacitador, quiero enumerar mis próximas clases en mi perfil e incluir un enlace a una página detallada sobre cada una, para que los posibles asistentes puedan encontrar mis cursos.
+Como miembro del sitio, quiero ver los perfiles de otros miembros, para poder encontrar a otros con los que me gustaría conectarme.
+Como miembro del sitio, quiero buscar perfiles basados ??en algunos campos, para poder encontrar otros con los que me gustaría conectarme.
+Como miembro del sitio, quiero marcar mi perfil como privado, en cuyo caso solo aparecerá mi nombre, para que nadie pueda aprender cosas sobre mí que no quiero compartir.
+Como miembro del sitio, quiero marcar mi dirección de correo electrónico como privada incluso si el resto de mi perfil no lo es, para que nadie pueda contactarme.
+Como miembro del sitio, quiero enviar un correo electrónico a cualquier miembro a través de un formulario, para que podamos conectarnos.
+Como administrador del sitio, quiero leer las solicitudes de práctica y capacitación y aprobarlas o rechazarlas, de modo que solo los solicitantes que califiquen puedan convertirse en CSP o CST.
+Como administrador del sitio, quiero editar el perfil de cualquier miembro del sitio para poder corregir los problemas de los miembros.
+Como visitante del sitio, quiero leer las noticias actuales en la página de inicio, para estar al día con las noticias ágiles.
+Como visitante del sitio, quiero acceder a noticias antiguas que ya no están en la página de inicio, para poder acceder a cosas que recuerdo del pasado o que otros me mencionan.
+Como visitante del sitio, deseo enviar noticias por correo electrónico al editor, para que puedan ser consideradas para su publicación.
+Como editor de un sitio, quiero establecer las siguientes fechas en una noticia: Fecha de inicio de publicación, Fecha de noticia anterior, Fecha de finalización de publicación, para que los artículos se publiquen en las fechas adecuadas.
+Como miembro del sitio, quiero suscribirme a un canal RSS de noticias, para estar informado de manera suficiente y sencilla.
+Como editor de un sitio, quiero asignar números de prioridad a las noticias, para poder indicar qué artículos quiero que aparezcan de manera más prominente en el sitio.
+Como visitante del sitio, quiero ver una lista de todos los próximos cursos de certificación y puedo revisarlos si hay muchos, para poder elegir el mejor curso para mí.
+Como visitante del sitio, quiero ver una lista de todos los próximos Otros cursos y puedo revisarlos si es necesario, para poder elegir el mejor curso para mí.
+Como visitante del sitio, quiero ver una lista de todos los próximos eventos, para poder decidir si quiero asistir a alguno.
+Como capacitador, quiero crear un nuevo curso o evento, para que los visitantes del sitio puedan verlo.
+Como capacitador, quiero crear otro curso o evento. Se me cobra una tarifa de publicación por esa actividad, de modo que no enumere los eventos que realmente no tengo la intención de realizar.
+Como administrador del sitio, quiero crear otro curso o evento al que no se le cobre una tarifa de listado, para que Scrum Alliance no se cobre a sí mismo por los Scrum Gatherings que organiza.
+Como administrador del sitio, quiero establecer la tarifa de listado por Otro curso o evento, para que tengamos flexibilidad sobre qué cobrar en el futuro.
+Como capacitador, quiero actualizar uno de mis cursos o eventos existentes, para que refleje información precisa.
+Como capacitador, quiero eliminar uno de mis cursos o eventos, de modo que ya no aparezca en la lista si lo cancelo por algún motivo.
+Como formador, quiero copiar uno de mis cursos o eventos para poder crear uno nuevo.
+Como administrador del sitio, quiero eliminar cualquier curso o evento, para poder eliminar cosas que ya no ocurrirán.
+Como editor del sitio, quiero actualizar cualquier curso o evento, para poder arreglar cosas que el autor original no tiene.
+Como capacitador, quiero convertir un curso en un evento o un evento en un curso, para poder clasificar correctamente todo lo que se ingresó incorrectamente.
+Como visitante del sitio, quiero tener una opción de búsqueda avanzada que me permita completar un formulario de criterios de búsqueda, de modo que pueda encontrar rápidamente lo que estoy buscando.
+Como visitante del sitio, quiero ver un curso. Puedo hacer clic en el nombre del capacitador y acceder al perfil del capacitador, de modo que pueda leer más sobre un capacitador antes de inscribirme en un curso.
+Como visitante del sitio, quiero suscribirme a una fuente RSS de los próximos cursos y eventos, para estar al día sin tener que visitar el sitio.
+Como visitante del sitio, quiero leer las preguntas frecuentes para poder obtener respuestas rápidas.
+Como editor de un sitio, quiero mantener una sección de preguntas frecuentes, para que el soporte tenga menos preguntas de fácil respuesta.
+Como visitante del sitio, quiero hacer una búsqueda de texto completo de las preguntas frecuentes para poder encontrar una respuesta rápidamente.
+Como miembro del sitio, quiero descargar los archivos PDF de metodología y material de capacitación más recientes, para tenerlos.
+Como visitante, quiero descargar presentaciones, PDF, etc. en Scrum, para poder aprender de ellos o usarlos.
+Como miembro del sitio, quiero desplazarme por una lista de trabajos para poder ver si hay alguno que me interese.
+Como reclutador, quiero publicar un anuncio de búsqueda de ayuda para poder atraer candidatos.
+Como administrador del sitio, quiero aprobar cada anuncio de búsqueda de ayuda antes de que llegue al sitio, de modo que estemos seguros de la calidad de los trabajos que se enumeran.
+Como administrador del sitio, quiero que me envíen un correo electrónico cada vez que se envíe un trabajo, de modo que sea consciente de ello y pueda decidir si quiero publicarlo.
+Como miembro del sitio, quiero suscribirme a una fuente RSS de trabajos disponibles, para poder leerlos sin visitar el sitio.
+Como administrador del sitio, quiero editar y eliminar los anuncios de ayuda solicitada, para poder corregir pequeños problemas o asegurarme de que cada anuncio cumple con las pautas del sitio.
+Como administrador del sitio, quiero dejar de publicar trabajos en el sitio 30 días después de haber sido publicados, de modo que los trabajos que puedan haber sido ocupados no se incluyan en la lista cuando la parte contratante se olvide de regresar y eliminar el anuncio.
+Como reclutador, quiero poder extender un anuncio por otros 30 días visitando el sitio y actualizando la publicación, para que mi anuncio permanezca activo.
+Como anunciante, quiero que me envíen un recordatorio por correo electrónico siete días antes de que un anuncio esté a punto de caducar, para poder extenderlo.
+Como visitante del sitio, quiero leer un nuevo artículo en la página principal una vez a la semana, para estar al tanto de los últimos acontecimientos.
+Como editor del sitio, quiero incluir un adelanto con cada artículo, para que los visitantes del sitio puedan decidir si quieren leer el resto.
+Como miembro del sitio que ha leído un avance en la página principal, quiero leer el artículo completo para poder terminar los artículos que me atraigan.
+Como editor del sitio, quiero agregar un artículo al sitio, para que el sitio tenga mucho contenido.
+Como editor de un sitio, quiero establecer las fechas de inicio de publicación, la fecha del artículo anterior y las fechas de finalización de publicación de los artículos, de modo que los artículos aparezcan solo durante los períodos apropiados.
+Como editor de un sitio, quiero poder designar si alguna vez aparece o no en la página de inicio, de modo que el mejor contenido se destaque de manera más prominente.
+Como editor del sitio, quiero tener un buen control sobre cómo se publica el artículo, para que los artículos sean visualmente atractivos.
+Como visitante del sitio, quiero hacer clic en el enlace del avance del artículo para llevarme directamente al cuerpo del artículo. no a otra configuración de teaser, para que pueda terminar fácilmente el artículo.
+Como editor de un sitio, quiero poder indicar si un artículo está disponible públicamente o solo para miembros, de modo que los visitantes estén incentivados a convertirse en miembros.
+Como visitante del sitio, quiero poder leer algunos de sus artículos, para poder aprender sin antes unirme al sitio.
+Como miembro del sitio, quiero tener acceso completo a todos los artículos, de modo que sea un beneficio ser miembro.
+Como visitante del sitio, quiero hacer una búsqueda de texto completo del cuerpo del artículo, el título y el nombre del autor, para poder encontrar lo que quiero.
+Como visitante del sitio, quiero suscribirme a una fuente RSS de artículos, para poder leerlos sin visitar el sitio.
+Como visitante del sitio, quiero publicar comentarios sobre artículos para que otros puedan leerlos.
+Como editor de un sitio, quiero tener un área destacada en la página de inicio donde pueda poner anuncios especiales, no necesariamente noticias o artículos, para poder darles una exposición adicional.
+Como editor de un sitio, quiero tener cierta flexibilidad en cuanto a dónde aparecen las cosas, de modo que pueda acomodar diferentes tipos de contenido.
+Como capacitador, quiero que los próximos cursos sean lo que quiero que los visitantes noten, para que se registren y haya un beneficio en mi membresía.
+Como visitante del sitio, quiero ver contenido nuevo cuando entro al sitio, para volver más a menudo.
+Como visitante del sitio, quiero tener artículos que me interesen y que sean fáciles de encontrar, de modo que venga al sitio en busca de noticias y aprendizaje ágiles.
+Como visitante del sitio, quiero saber tan pronto como visite qué demonios es Scrum y por qué necesita una alianza, para no rebotar inmediatamente fuera de la página.
+Como visitante del sitio, quiero saber mientras miro alrededor de la página de inicio qué diablos es un CSM y por qué querría ser uno, para poder leer más.
+Como visitante del sitio, quiero poder volver a la página de inicio rápida y fácilmente, para no perderme navegando.
+Como visitante del sitio, quiero ver una lista de los elementos más populares del sitio, de modo que sea más probable que lea el contenido más importante o mejor.
+Como capacitador, quiero estar seguro de que nadie puede enviar las mismas respuestas varias veces y sesgar mis resultados, de modo que mis calificaciones sean precisas.
+Como formador, quiero que se me notifique sobre los resultados de las encuestas sobre mis clases, para poder leerlas.
+Como administrador del sitio, quiero ver los resultados de cada entrenador y los promedios de la clase, para poder identificar los valores atípicos o los posibles problemas.
+Como visitante del sitio, quiero ver la calificación de un capacitador, de modo que elijo un curso de un capacitador apropiado.
+Como capacitador, quiero mostrar mi calificación en mi página de perfil, para que los visitantes del sitio puedan elegir sabiamente.
+Como visitante del sitio, quiero ver una sección del sitio web que me enseñe los conceptos básicos de lo que es Scrum, para que pueda aprender eso rápidamente.
+Como editor de un sitio, quiero crear el contenido de la sección What Is Scrum, para que esté disponible para los visitantes.
+Como visitante del sitio, quiero ver listas en el sitio de todos los Scrum Masters certificados, Practitioners, Trainers y Certified Scrum Product Owners.
+Como CSM, quiero que mi nombre aparezca en el registro sin convertirme en miembro del sitio, para que los empleadores u otras personas puedan verificar mi certificación.
+Como entrenador, quiero cargar un archivo de Excel en el sitio, para que los participantes del curso se agreguen a los registros de Scrum Alliance.
+Como administrador del sitio, quiero ver todas las clases en estado pendiente, para poder aprobar las que necesitan ser aprobadas.
+Como administrador del sitio, quiero trasladar a las personas en la clase de un capacitador de un estado pendiente al registro una vez que haya recibido el comprobante de pago del capacitador.
+Como CSM, quiero que me envíen un correo electrónico dándome la bienvenida a Scrum Alliance y con instrucciones para registrarme o activar mi membresía una vez que mi nombre se haya cargado en el registro.
+Como editor del sitio, quiero editar el contenido del correo electrónico que se envía automáticamente a los nuevos Scrum Masters y Product Owners certificados, de modo que no necesito involucrar a un programador en ediciones simples de correo electrónico.
+Como empresa, quiero unirme a Scrum Alliance pagando una tarifa de membresía corporativa, para poder mostrar el apoyo de la empresa a Scrum.
+Como patrocinador corporativo, quiero mostrar mi logo en una página de patrocinadores corporativos, para que otros vean el apoyo de la compañía a Scrum.
+Como patrocinador corporativo, quiero que mi logotipo aparezca aleatoriamente en la página de inicio, para que otros vean el apoyo de la compañía a Scrum.
+Como CSM, quiero que me cobren una tarifa una vez que se me apruebe el estado de Practitioner, para que se pueda activar mi estado de certificación.
+Como CST, quiero pagar una tarifa anual para que mi estado CST esté activo.
+Como administrador del sitio, quiero establecer las tarifas anuales para miembros, practicantes y capacitadores, de modo que las tarifas se puedan establecer sin involucrar a un programador.
+Como miembro, quiero recibir un recordatorio y un enlace para poder renovar mi membresía.
+Como miembro, quiero que el sistema me envíe por correo electrónico una nueva contraseña o un recordatorio de contraseña, ya que tengo problemas de memoria a corto plazo.
+Como entrenador, quiero leer información de relevancia solo para los entrenadores, para que Scrum Alliance pueda compartir información conmigo fácilmente.
+Como editor del sitio, quiero publicar información en una sección exclusiva para capacitadores, para que solo los capacitadores la vean.

@@ -1,0 +1,102 @@
+Como administrador del sistema, quiero ejecutar un script que instale el nodo Neurohub en un sistema operativo Ubuntu virgen.
+Como administrador del sistema, quiero ejecutar un script que pruebe para ver si una instalación de Neurohub está funcionando correctamente.
+Como ingeniero de versiones, quiero llamar a un script para ejecutar pruebas de aceptación en una instalación de Neurohub e informar los resultados.
+Como investigador, quiero ver los resultados de la prueba de aceptación, para poder entender qué tan completo está el nodo Neurohub actualmente.
+Como operador de resonancia magnética, quiero registrar digitalmente las respuestas que dan los sujetos al completar formularios en papel.
+Como usuario, quiero navegar hacia adelante y hacia atrás entre los libros de registro y las páginas del libro de registro sin tener que usar el botón de retroceso de mi navegador.
+Como administrador del laboratorio, quiero ponerle un tema a los gráficos / colores de la interfaz web.
+Como administrador de sistemas, quiero instalar las dependencias de Neurohub en una máquina Ubuntu 10.04 LTS usando las herramientas normales de administración de paquetes de Ubuntu.
+Como investigador, quiero crear una página de libro de registro para un experimento y adjuntar un archivo a esta página.
+Como investigador, quiero crear una página de libro de registro para un experimento y adjuntar un directorio que contenga varios archivos.
+Como investigador, quiero cargar archivos antes de adjuntarlos a una página del libro de registro.
+Como investigador, quiero cargar archivos antes de adjuntarlos a una página de libro de registro mediante la interfaz web.
+Como investigador, quiero cargar archivos antes de adjuntarlos a una página de libro de registro utilizando una unidad de red asignada.
+Como investigador, quiero adjuntar archivos actualmente no adjuntos a una página de libro de registro.
+Como investigador, quiero recibir una alerta de cualquier archivo sin adjuntar que esté en mi espacio de trabajo.
+Como investigador, quiero descargar archivos adjuntos a un experimento usando mi navegador web.
+Como investigador, quiero acceder a los archivos almacenados en mi espacio de trabajo de Neurohub, utilizando una unidad de red conectada a mi estación de trabajo.
+Como investigador, quiero crear una página de libro de registro.
+Como ingeniero de versiones, quiero configurar compilaciones nocturnas que realicen automáticamente una instalación de Neurohub en un sistema operativo virgen, ejecuten pruebas e informen resultados, sin requerir ninguna entrada / interacción manual.
+Como supervisor, quiero ver lo que estaban haciendo mis investigadores en una fecha o período de tiempo determinado.
+Como usuario, quiero subir archivos grandes de más de 1 GB de tamaño.
+Como usuario, quiero asignar etiquetas a los archivos que he subido.
+Como usuario, quiero asignar información personalizada a un archivo dependiendo de su tipo.
+Como usuario, quiero filtrar los archivos que obtengo de los resultados de búsqueda según su tipo.
+Como usuario, quiero usar las etiquetas que uso son parte de un vocabulario controlado.
+Como usuario, quiero que los archivos de datos cargados no sean modificables.
+Como usuario, quiero crear enlaces predicados entre archivos.
+Como usuario, quiero restringir lo que se puede ingresar a un campo de metadatos.
+Como usuario, quiero tener archivos que podría eliminar accidentalmente para poder restaurarlos.
+Como usuario, quiero volver a una versión anterior de un archivo cargado.
+Como usuario, quiero tener una forma visual de ver archivos particulares cargados durante un período de tiempo.
+Como usuario, quiero asociar archivos involucrados en un experimento.
+Como administrador del sistema, quiero tener un protocolo de respaldo administrado para el sistema.
+Como usuario, quiero ingresar metadatos / describir un protocolo de experimento antes de que se cree un archivo.
+Como administrador del laboratorio, quiero tener un mayor acceso al sistema para apoyar a los usuarios habituales.
+Como usuario, quiero vincular ejecuciones experimentales para crear un experimento.
+Como administrador de laboratorio, quiero crear plantillas de página con campos de metadatos personalizados.
+Como usuario, quiero capturar los mismos metadatos para cada archivo creado en una ejecución experimental.
+Como administrador de laboratorio, quiero una forma de gestionar las existencias de cepas de gusanos que esté integrada con Wormbase.
+Como usuario, quiero buscar y descargar protocolos experimentales legibles por humanos.
+Como usuario, quiero modificar o bifurcar un protocolo experimental, conservando el original.
+Como usuario, quiero ver cómo ha evolucionado un protocolo experimental a lo largo del tiempo.
+Como usuario, quiero crear un protocolo y asignar metadatos a cualquier ciervo.
+Como usuario, quiero demostrar definitivamente que creé una página en una fecha determinada.
+Como usuario, quiero gestionar las referencias / trabajos que he investigado.
+Como usuario, quiero buscar específicamente archivos en lugar de páginas del libro de registro.
+Como usuario, quiero limitar mi búsqueda a un conjunto particular de libros de registro.
+Como usuario, deseo limitar los resultados de mi búsqueda a una o más secciones del libro de registro de uno o más libros de registro.
+Como usuario, quiero descargar archivos directamente desde la página de resultados de búsqueda.
+Como usuario, quiero ver la procedencia de la página como parte de los resultados de búsqueda.
+Como usuario, quiero adjuntar varios archivos a la vez a una página del libro de registro.
+Como usuario, quiero descargar varios archivos de los resultados de búsqueda de una sola vez.
+Como usuario, quiero dibujar tablas usando etiquetas HTML como parte del contenido de una página de libro de registro.
+Como miembro del laboratorio, quiero ver eventos y reservas de equipos dentro del grupo.
+Como usuario, quiero almacenar videos de comportamiento de gusanos con una codificación que pueda ser analizada por el software de análisis de gusanos escrito por Christopher James.
+Como administrador del sistema, quiero migrar datos de una versión anterior de NeuroHub a la versión actual.
+Como usuario, quiero que el sistema también reenvíe noticias importantes a una lista de correo externa.
+Como usuario, quiero ver y actualizar un inventario de los equipos y consumibles que están presentes en el centro.
+Como usuario, quiero tener una hoja de cálculo alojada dentro de la página web de Neurohub, para poder editar y calcular los costos en colaboración con otros mientras trabajo en la propuesta.
+Como supervisor, quiero crear formularios de retroalimentación dentro de Neurohub, que mis estudiantes pueden completar y enviar, con el fin de proporcionarme retroalimentación sobre el curso al que asistieron.
+Como usuario, quiero tener la opción de decirle a Neurohub que envíe contenido publicado a mi cuenta de Twitter al mismo tiempo.
+Como usuario, quiero mantener privada una entrada del diario o compartirla con individuos en lugar de grupos.
+Como usuario, quiero que los detalles de la ejecución del flujo de trabajo se registren en un libro de registro de neurohub mientras se ejecuta un flujo de trabajo.
+Como usuario, quiero que mis Tweets de Twitter aparezcan en Neurohub, para que otros investigadores del centro puedan ver lo que estoy haciendo.
+Como usuario, quiero ver los calendarios compartidos del grupo a través de la página web de Neurohub Nodes, así como en mi dispositivo móvil.
+Como usuario, quiero sincronizar eventos creados en NeuroHub con un calendario basado en la web como Google Calendar.
+Como investigador, quiero tener la capacidad de insertar símbolos griegos en las entradas de mi diario.
+Como usuario, quiero tener la capacidad de mover varios archivos y reorganizarlos usando el navegador de archivos Neurohub mientras procesa datos.
+Como investigador, quiero señalar a mi cliente de Mendeley a un repositorio compartido de trabajos de investigación de todo el grupo y recibir notificaciones a través de Mendeley cuando se agrega contenido nuevo.
+Como investigador, quiero tener soporte electrónico para realizar un seguimiento de los conjuntos de datos que se utilizaron / generaron / modificaron como parte de un experimento en particular.
+Como usuario, quiero un mecanismo para compartir de forma electrónica artículos y notas con otros investigadores, para que podamos colaborar de forma eficaz.
+Como investigador, quiero tener servicios para respaldar la curación de datos a largo plazo, de modo que pueda estar seguro de que los datos no se 'perderán' con el paso del tiempo.
+Como investigador, quiero tener una visualización de la línea de tiempo de múltiples archivos de datos y sus imágenes asociadas, para poder comparar los datos tomados de experimentos en fechas particulares.
+Como investigador, quiero tener acceso remoto a mis datos para trabajar fuera del sitio, de modo que pueda seguir trabajando de manera efectiva mientras estoy fuera del laboratorio.
+Como investigador, quiero compartir reseñas posteriores al experimento con otros investigadores, para que otros puedan replicar más fácilmente mi trabajo.
+Como investigador, quiero recopilar datos como una biblioteca de datos, que luego pueden ser utilizados por uno o varios experimentos que se definen en una etapa posterior.
+Como investigador, quiero indicar dentro de mi libro de registro electrónico qué datos experimentales son buenos / malos, ocultar los datos incorrectos, pero mantenerlos en el sistema por si son útiles en el futuro.
+Como investigador, quiero tener el sistema para proporcionar metadatos estándar, que todos los investigadores del centro (y más allá) puedan usar, para que podamos comprender mejor los datos de los demás.
+Como investigador, quiero tener imágenes de fisiología que se anoten con metadatos estándar, de modo que mis datos se puedan buscar y comprender más tarde.
+Como investigador, quiero tener la capacidad de adjuntar metadatos estándar para observaciones de comportamiento (y videos), de modo que mis datos puedan ser buscados y entendidos más tarde.
+Como investigador, quiero tener la capacidad de adjuntar metadatos estándar para las respuestas a los medicamentos, de modo que mis datos puedan luego ser buscados y entendidos.
+Como investigador, quiero tener la capacidad de buscar imágenes de células usando metadatos estándar.
+Como investigador, quiero tener al menos algunos metadatos para que se inserten automáticamente cuando se agreguen nuevos datos al sistema.
+Como investigador, quiero tener la capacidad de adjuntar metadatos detallados a los datos y las entradas que creo.
+Como investigador, quiero tener la capacidad de seleccionar una plantilla parcialmente precargada que ya contenga metadatos comúnmente ingresados ??mientras agrego nuevos datos al sistema, para no perder el tiempo insertando repetidamente los mismos metadatos una y otra vez. para cada archivo individual o entrada del libro de registro.
+Como usuario, quiero estar seguro de que los metadatos existentes correspondientes al archivo no se pierdan al mover un archivo a una nueva ubicación.
+Como investigador, quiero tener la capacidad de formar vínculos entre objetos, por ejemplo, el Archivo A es un análisis del Archivo B, de modo que los datos se puedan buscar por tipo y por asociación.
+Como investigador, quiero tener la capacidad de localizar archivos de experimentos utilizando metadatos, independientemente de dónde se encuentren esos archivos.
+Como investigador, quiero tener todos los datos que he escrito en el VRE para que estén protegidos contra modificaciones o eliminaciones, de modo que los datos originales siempre puedan rastrearse hasta un experimento y un momento determinado.
+Como usuario, quiero tener la capacidad de mantener mis datos privados en el sistema y solo compartir los datos que considero que deben compartirse.
+Como investigador, quiero tener la capacidad de almacenar todas las entradas de un experimento para que se pueda verificar la procedencia de los resultados.
+Como investigador, quiero tener la capacidad de buscar archivos por tipo y formato de archivo.
+Como investigador, quiero tener la capacidad de cargar directorios y archivos de forma masiva con un mínimo esfuerzo.
+Como investigador, quiero asociar los metadatos al grupo en su conjunto en algún momento después de que se haya completado la carga masiva, de modo que tenga un período de tiempo para reflexionar sobre los valores adecuados para los metadatos.
+Como usuario, quiero tener la capacidad de cambiar el uso compartido y la propiedad de varios archivos.
+Como investigador, quiero tener la capacidad de restringir los datos que comparto a ciertos investigadores o grupos de investigadores.
+Como investigador, quiero tener la capacidad de localizar y acceder a los datos que los colegas desean compartir.
+Como investigador, quiero tener la capacidad de interactuar con un sistema de control de revisiones para poder realizar un seguimiento de los cambios en los archivos a lo largo del tiempo.
+Como JuniorResearcher, quiero tener la capacidad de recolectar conocimientos dentro del grupo, para poder aprender de investigadores más experimentados.
+Como investigador, quiero asegurar el acceso remoto al nodo Neurohub cuando trabajo fuera del laboratorio.
+Como investigador, quiero tener un repositorio a nivel de grupo para compartir artículos / reseñas / comentarios con otros investigadores.
+Como investigador, quiero tener los detalles del plan de flujo de trabajo, así como el historial de ejecución y los resultados registrados en Neurohub mientras ejecuto un flujo de trabajo.

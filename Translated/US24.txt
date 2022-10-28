@@ -1,0 +1,40 @@
+Como médico, quiero poder redactar recetas para pacientes.
+Como médico, quiero poder transferir automáticamente las recetas a los sistemas de información de las farmacias.
+Como paciente, quiero poder ver las recetas escritas por los médicos, para poder usarlas como referencia cuando visite la farmacia.
+Como farmacéutico, quiero poder ver las recetas que se han transferido, para saber qué necesitan los pacientes.
+Como paciente, quiero poder editar mi información personal en línea.
+Como administrador del sistema, quiero que todos los datos se almacenen en una base de datos central, para que haya menos discrepancias entre los departamentos.
+Como administrador del sistema, quiero que los registros médicos electrónicos (EMR) se integren con el nuevo sistema de gestión, de modo que haya una recopilación digital de la información médica de un paciente disponible.
+Como médico, quiero poder ver el historial médico del paciente  
+Como médico, quiero poder ver la información personal del paciente  
+Como enfermera, quiero poder ver el historial médico del paciente  
+Como enfermera, quiero poder ver la información personal del paciente  
+Como enfermera, quiero poder tomar notas de los pacientes.
+Como recepcionista, quiero poder ver el EMR de un paciente, de modo que tenga la información necesaria para contactar al paciente.
+Como recepcionista, quiero poder programar citas.
+Como paciente, quiero poder programar citas en línea en una computadora personal.
+Como médico, quiero que los dispositivos móviles se integren con los EMR, de modo que los datos recopilados por los dispositivos móviles se puedan almacenar en los EMR.
+Como paciente, quiero poder solicitar nuevas recetas a través de la programación de citas en línea.
+Como analista de sistemas, quiero que se recopilen datos clínicos para poder realizar tanto análisis prescriptivos como análisis predictivos.
+Como analista de sistemas, quiero tener acceso a los datos clínicos que recopilan los empleados del hospital, para poder realizar análisis prescriptivos y predictivos.
+Como analista de sistemas, quiero poder ver los datos sobre la tasa de ocupación de camas, para poder realizar análisis de los datos.
+Como analista de sistemas, quiero poder ver los datos sobre la programación de salas, para poder realizar análisis de los datos.
+Como analista de sistemas, quiero poder ver los horarios de los empleados, de modo que pueda usar el análisis predictivo para saber cuántos empleados se necesitan.
+Como administrador de sistemas, quiero que todos los datos que ven los analistas de sistemas sean anónimos, de modo que se garantice la seguridad del paciente.
+Como administrador del sistema, quiero que el nuevo sistema cumpla con los estándares GDPR, para asegurar que los datos dentro del sistema estén protegidos.
+Como médico, quiero que se excluya al paciente de ver cualquier información que no esté destinada a ser vista por él, para que no haya riesgos de seguridad.
+Como administrador del sistema, quiero poder restringir los componentes para que los pacientes no los vean, de modo que el paciente no tenga acceso a datos que no sean para ellos.
+Como administrador del sistema, quiero poder otorgar diferentes niveles de acceso a los usuarios del sistema de gestión, de modo que ciertas funcionalidades puedan ser excluidas de esos usuarios.
+Como paciente, quiero poder acceder a los componentes de la EMR que el hospital tiene previsto que vea.
+Como paciente, quiero poder ver los resultados de mi prueba una vez que hayan regresado del laboratorio.
+Como paciente, quiero poder acceder y ver mi EMR en un dispositivo móvil.
+Como paciente, quiero poder programar una cita en un dispositivo móvil.
+Como paciente, quiero poder solicitar nuevas recetas en un dispositivo móvil.
+Como paciente, quiero poder ver recetas en un dispositivo móvil.
+Como médico, quiero poder utilizar el sistema de gestión del hospital en un dispositivo móvil, para poder acceder al sistema sin importar mi ubicación actual.
+Como médico, quiero tener acceso a todas las funcionalidades en un dispositivo móvil al que también tengo acceso en una computadora personal.
+Como analista de sistemas, quiero que la fecha de inicio y finalización de las citas se registre en el sistema de gestión, para poder determinar la duración media de una cita.
+Como administrador del sistema, quiero que el sistema de gestión solo sea accesible para los usuarios a los que se les ha otorgado acceso, para que los datos del paciente no se filtren.
+Como administrador del sistema, quiero que el sistema de gestión tenga un sistema de inicio de sesión que solicite a los usuarios iniciar sesión en su cuenta privada.
+Como médico, quiero que los datos almacenados en los antiguos sistemas de gestión se transfieran al nuevo sistema de gestión central, para no perder ningún dato.
+Como enfermera, quiero que los datos almacenados en los sistemas de gestión antiguos se transfieran al nuevo sistema de gestión central, para no perder ningún dato.

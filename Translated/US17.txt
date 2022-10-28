@@ -1,0 +1,57 @@
+Como investigador, quiero poder ver una ayuda de búsqueda para una colección / recurso en particular.
+Como administrador de aplicaciones, quiero poder restablecer una contraseña de usuario para ellos.
+Como usuario, quiero cambios de backend para administrar listas de enumeración.
+Como archivero, quiero importar archivos EAD que fueron exportados por Archon.
+Como archivero, quiero asignar un identificador único de componente a un componente de recurso.
+Como usuario, quiero autenticarme usando LDAP.
+Como especialista en migración, quiero almacenar los ID de registro de origen de AT o Archon en cada registro de ASpace
+para respaldar las pruebas de integridad de la migración de datos.
+Como archivero, quiero asociar una cadena de identificación estándar con un encabezado de Asunto.
+Como archivero, quiero poder comprender que se produjo un error durante la importación y por qué podría haber ocurrido.
+Como archivero, quiero importar datos de accesiones en CSV.
+Como archivero, quiero importar recursos de registros MARCXML.
+Como usuario, quiero cambios frontend para administrar listas de enumeración.
+Como usuario autenticado, quiero tener acceso a enlaces a ayuda contextual.
+Como Archivero, quiero ver las Fechas y Extensiones mostradas en las vistas de lectura y edición de Accesiones y / o Recursos antes de la lista de Temas.
+Como archivero, quiero importar información del agente de los registros EAC-CPF.
+Como usuario, quiero que los cambios de backend admitan la carga de listas de valores de enumeración desde la base de datos.
+Como usuario, quiero cambios en el backend para actualizar de forma masiva un valor de enumeración a otro.
+Como archivero, quiero exportar registros de agentes como EAC-CPF.
+Como archivero, quiero importar solo información de agente y sujeto de los registros MARCXML.
+Como administrador de la aplicación, quiero asignar usuarios a una entrada de datos avanzada y asegurarme de que se apliquen los permisos adecuados.
+Como administrador de aplicaciones, quiero poder configurar la URL del centro de ayuda y las asignaciones de temas.
+Como usuario, quiero agregar propiedades adicionales para repositorios.
+Como archivero, quiero agregar notas a otros tipos de registros.
+Como administrador, quiero crear una nueva cuenta de usuario para otra persona.
+Como archivero, quiero agregar datos administrativos sobre la descripción del archivo y la búsqueda de datos relacionados con la ayuda a un recurso de nivel superior.
+Como archivero, quiero asignar un nivel de descripción a un recurso o componente de recurso y, opcionalmente, especificar otro valor si el nivel no está en una lista predefinida.
+Como desarrollador, quiero usar una configuración que no esté preempaquetada dentro de una versión construida de la aplicación.
+Como archivero, quiero importar archivos EAD que fueron exportados por Archivists 'Toolkit.
+Como administrador de sistemas, quiero poder controlar la ubicación de la base de datos de demostración y quiero que se realice una copia de seguridad.
+Como archivero, quiero buscar dentro de un repositorio de registros de recursos, accesiones y objetos digitales.
+Como archivero, quiero crear y editar un subregistro de Gestión de colecciones.
+Como archivero, quiero reorganizar la jerarquía de recursos y / o objetos digitales mediante la navegación basada en el teclado.
+Como archivero, quiero reorganizar la jerarquía de descripción de recursos arrastrando un objeto de archivo a una posición diferente en la jerarquía.
+Como Archivero, me gustaría indicar que un Agente es el creador o fuente o sujeto de una Adhesión o Recurso o Componente de Recurso.
+Como archivero, quiero exportar una descripción como EAD.
+Como archivero, quiero crear y editar registros de eventos.
+Como archivero, quiero administrar objetos digitales.
+Como archivero, quiero asociar una instancia con un recurso y / o componente de recurso.
+Como archivero, no quiero sobrescribir inadvertidamente los cambios de otra persona en un registro que estoy editando.
+Como archivero, quiero crear y editar declaraciones de gestión de derechos.
+Como archivero, quiero cargar un EAD para importar desde la aplicación frontend.
+Como archivero, quiero importar datos EAD.
+Como administrador de repositorio, quiero crear, actualizar y eliminar descripciones de archivo en mi repositorio.
+Como desarrollador, quiero desarrollar un importador personalizado.
+Como usuario de Basic Data Entry, deseo crear y actualizar información básica de descripción de archivo.
+Como administrador de repositorio, quiero crear, actualizar y eliminar cualquier registro en mi repositorio.
+Como usuario de ReadOnly, quiero ver descripciones de archivo en mi repositorio.
+Como administrador del sistema, quiero declarar que un usuario tiene el rol de administrador de repositorio para un repositorio determinado.
+Como archivero, quiero especificar la fuente para un formulario de nombre de un agente y agregar nuevas fuentes y editar las fuentes existentes.
+Como archivero, quiero crear y editar registros de agentes.
+Como archivero, quiero crear y editar un registro de recursos.
+Como Archivero, quiero asociar un registro de Materia con una descripción de Recurso.
+Como usuario, quiero autenticarme localmente.
+Como usuario, quiero poder iniciar sesión.
+Como archivero, quiero asociar una instancia con un contenedor.
+Como archivero, quiero asignar información de ubicación a un contenedor.

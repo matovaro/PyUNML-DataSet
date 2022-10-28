@@ -1,0 +1,73 @@
+Como miembro del equipo, quiero ver la primera versión beta en cloud.gov.
+Como desarrollador, quiero configurar el subdominio beta.nsf.gov para poder implementar un sitio beta en él.
+Como parte interesada, quiero tener una decisión sobre si el agregador de blogs puede funcionar o no para la versión beta, y si no, qué funcionará.
+Como empleado de NSF, quiero comprender el proceso de cambiar el plan de alojamiento de cloud.gov del prototipo al bajo FISMA.
+Como parte interesada, quiero ver los resultados de la investigación de usuarios, para poder determinar si el CMS es adecuado para mí.
+Como diseñador, quiero tener una nueva estructura de redes sociales para poder comenzar a implementar el diseño.
+Como miembro del equipo, quiero tener una lista priorizada de características y elementos de una futura página de elementos sociales, para poder trabajar con los ingenieros para determinar la viabilidad.
+Como miembro del equipo, quiero determinar una dirección de diseño para la página social beta, de modo que podamos implementar un sitio beta rápidamente sin pautas de marca establecidas.
+Como investigador de usuarios, quiero probar el plan de investigación de usuarios para asegurarme de que las entrevistas en persona sean efectivas y capturen la información correcta.
+Como investigador de usuarios, quiero tener el script de tareas OLPA finalizado, para poder comenzar a probar con usuarios internos.
+Como editor de contenido, quiero poder encontrar contenido fácilmente para poder editarlo.
+Como participante de la investigación, quiero asegurarme de que la apariencia del prototipo no distraiga del flujo de trabajo, para poder completar la entrevista del usuario.
+Como investigador de usuarios, quiero tener el prototipo de WIG, para poder finalizar el segundo script de tarea.
+Como usuario, quiero agregar un video a mi artículo.
+Como miembro del equipo, quiero reunirme con DIS / cloud.gov para poder determinar los requisitos de beta.nsf.gov ATO.
+Como investigador de usuarios, quiero tener una lista de candidatos de flujo de trabajo prioritarios que podamos probar, para asegurarme de que estamos capturando las áreas prioritarias.
+Como miembro del equipo, quiero comprender cómo debería verse el MVP, para poder comenzar a comprender las necesidades del flujo de trabajo en lo que respecta a cualquier decisión de CMS.
+Como administrador de NSF, quiero seguir la implementación de CMS para poder aprender a medida que se desarrolla el prototipo.
+Como miembro del equipo, quiero tener una hoja de ruta de adquisiciones actualizada, para poder planificar en consecuencia.
+Como empleado de NSF, quiero tener un documento de hoja de ruta actualizado, para poder ver las áreas priorizadas en las que centrarme durante los próximos meses y más allá.
+Como miembro del equipo, quiero comprender cómo el tiempo libre se superpone con los planes en torno a la investigación de usuarios.
+Como investigador, quiero desarrollar el protocolo de investigación de usuarios para los flujos de trabajo internos, de modo que podamos comenzar a probar con un prototipo de CMS.
+Como administrador de CMS, quiero tener roles para poder asignarlos a mis usuarios.
+Como empleado de NSF, quiero delimitar el universo de opciones de CMS e identificar / priorizar las consideraciones clave para llegar al siguiente paso.
+Como empleado de NSF, quiero tener un taller final para identificar lecciones y características clave para la decisión del sistema de gestión de contenido.
+Como SME de CMS, quiero ver el informe de flujo de trabajo del webmaster, para poder entender cómo esto podría afectar la dirección actual.
+Como empleado de NSF, quiero comprender el trabajo realizado, para poder entender cuándo y qué puedo usar más adelante.
+Como investigador, quiero reclutar para la última ronda de investigación de usuarios, para que podamos resumir nuestros hallazgos y sintetizar los resultados.
+Como investigador de usuarios, quiero seguir programando entrevistas para la hipótesis n. ° 1, de modo que pueda estar preparado para probar nuestro primer prototipo.
+Como empleado de NSF, quiero tener recomendaciones estratégicas de alto nivel para implementar junto con el nuevo CMS.
+Como empleado de NSF, quiero tener recomendaciones de planificación editorial, de modo que pueda comprender cómo podrían afectar a un CMS / presencia futura en la web.
+Como empleado de NSF, quiero saber cómo se desarrollan y mantienen las pautas de marca, para poder incorporarlas a lo largo del proyecto.
+Como gerente de reclutamiento web, quiero confirmar que el reclutador está configurado y funcionando correctamente en Science360.gov.
+Como empleado de NSF, quiero saber cómo se desarrollaron las direcciones de diseño visual, para poder tomar mejores decisiones de diseño en el futuro.
+Como miembro del equipo, quiero saber cuál es la primera hipótesis, para poder comenzar a desarrollar un prototipo para probar.
+Como diseñador de contenido, quiero desarrollar una mejor comprensión de los tipos de contenido y el plan editorial de NSF, para poder hacer recomendaciones más informadas en el futuro.
+Como miembro del equipo, quiero tener una estrategia de prototipo, de modo que entienda cómo obtendremos comprensión de las pruebas que impulsarán las recomendaciones.
+Como diseñador de contenido, quiero demostrar el valor del diseño de contenido centrado en el usuario para asegurarme de que sea una parte integral de nuestras recomendaciones.
+Como investigador de usuarios, quiero saber cuándo el alcance a las listas es exitoso, para poder planificar una nueva versión para el siguiente servidor de listas de la lista de prioridades.
+Como empleado de NSF, quiero programar registros regulares en persona, para que podamos continuar comunicando los objetivos del proyecto a nuestros interesados.
+Como desarrollador, quiero saber cuáles son las tres hipótesis iniciales, para poder planificar el trabajo en torno al desarrollo de prototipos.
+Como asistente al taller, quiero tener un resumen de lo que aprendimos, para poder entender nuestros próximos pasos y cómo se aplican a mí.
+Como diseñador, quiero saber cuáles podrían ser las primeras indicaciones de hipótesis, para poder comenzar a planificar el primer prototipo.
+Como miembro del equipo, quiero tener un horario de más espacios de coworking, para poder trabajar en conjunto con el resto del equipo de manera más regular.
+Como persona de NSF interesada en asistir a entrevistas de usuarios, quiero saber cuándo están programadas y el tipo de usuario que se entrevistará.
+Como miembro del equipo de NSF, quiero tener un lugar donde pueda acceder a todos los informes y documentación relacionados, para poder consultarlos fácilmente ahora y en el futuro.
+Como miembro del equipo, quiero saber cuándo es el punto medio de registro y qué se cubrirá, para poder planificar en consecuencia.
+Como empleado de NSF, quiero unirme a Github, para poder participar en los problemas según lo asignado.
+Como empleado de NSF, quiero aprender cómo se usa Github, para poder participar en los problemas según lo asignado.
+Como investigador de usuarios, quiero comenzar a identificar a los participantes de las entrevistas, para poder comprender qué necesitan los educadores y los influyentes científicos de un futuro sitio web nsf.gov.
+Como VisualDesigner, quiero diseñar diferentes estilos para el sitio web nsf.gov, de modo que podamos discutir diferentes conceptos de diseño con las partes interesadas.
+Como investigador de usuarios, quiero configurar una prueba de reclutamiento de sitios web, para poder ver si podemos reclutar usuarios en tiempo real desde el sitio web.
+Como gerente de reclutamiento web, quiero confirmar que el reclutador está configurado y funcionando correctamente, para poder implementarlo en más páginas.
+Como VisualDesigner, quiero crear un moodboard para ayudar con los conceptos de diseño visual para el sitio web nsf.gov, de modo que podamos discutir diferentes conceptos de diseño con las partes interesadas.
+Como asistente al taller, quiero ver un resumen de los principales hallazgos del evento.
+Como investigador de usuarios, quiero asegurarme de que las personas correctas de NSF estén invitadas a las entrevistas de usuarios, para que puedan observar las entrevistas y hacer recomendaciones en consecuencia.
+Como investigador de usuarios, quiero comenzar a redactar un plan de investigación para poder comenzar a reclutar participantes.
+Como editor de contenido, quiero poder agregar videos de Brightcove.
+Como autor, quiero poder sangrar / anular sangría de contenido.
+Como VisualDesigner, quiero demostrar el valor del diseño visual al equipo de proyecto de NSF, de modo que el diseño visual sea una parte integral de un rediseño.
+Como miembro del equipo, quiero saber qué tareas relacionadas con el diseño visual podríamos necesitar para planificar este sprint, de modo que pueda asignar tareas según sea necesario.
+Como miembro del equipo, quiero tener plantillas de correo electrónico de reclutamiento listas para usar, de modo que pueda comenzar a reclutar entrevistados lo antes posible.
+Como empleado de NSF, quiero ver cómo se ve y se comporta el formulario de reclutamiento de usuarios en una página de muestra, para poder comprender el impacto que tendrá el reclutamiento en la página de NSF.
+Como participante potencial de la investigación, quiero aprender sobre la investigación y dejar mi información de contacto.
+Como miembro del equipo, quiero tener un sentido de alto nivel del cronograma del proyecto, para poder planificar mi trabajo.
+Como administrador del sitio, quiero comprender cómo otras organizaciones similares están manejando el diseño visual, para poder tomar decisiones informadas sobre lo que parece funcionar bien y lo que no.
+Como miembro del equipo, quiero tener una plataforma que me permita crear rápidamente prototipos de ideas HTML.
+Como administrador del sitio, quiero comprender cómo otras organizaciones similares están manejando el contenido, para poder tomar decisiones informadas sobre lo que parece funcionar bien y lo que no.
+Como investigador de usuarios, quiero llevar a cabo un taller de definición de usuarios con NSF, para poder prepararlos mejor a ellos y al equipo para futuros trabajos de investigación.
+Como empleado de NSF, quiero saber dónde será la reunión inicial en persona para poder planear asistir.
+Como diseñador, quiero tener una guía de estilo / guía de diseño / guía de contenido, para que tengamos una forma uniforme de entregar el producto.
+Como miembro del equipo, quiero saber cuándo son las reuniones para poder planificar en consecuencia.
+Como miembro del equipo, quiero entender cómo se mueve el trabajo entre UX / contenido> diseño visual> desarrollo de front-end para un ciclo de sprint.

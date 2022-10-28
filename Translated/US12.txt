@@ -1,0 +1,64 @@
+Como desarrollador de aplicaciones, quiero incluir el código de un tipo de conjunto de datos en el artefacto de mi aplicación y crear un conjunto de datos de ese tipo al implementar la aplicación.
+Como desarrollador de aplicaciones, quiero implementar una nueva versión de un tipo de conjunto de datos como parte de la implementación de una nueva versión de la aplicación que lo incluye y espero que todas las instancias de conjuntos de datos de ese tipo que se crearon como parte de la implementación de la aplicación comiencen a usar el nuevo código.
+Como desarrollador de aplicaciones, quiero implementar una nueva versión de un tipo de conjunto de datos como parte de un artefacto de aplicación, sin afectar a otros conjuntos de datos de este tipo.
+Como desarrollador de aplicaciones, quiero explorar una instancia de conjunto de datos de un tipo que se implementó como parte de una aplicación.
+Como desarrollador de aplicaciones, quiero asegurarme de que cuando implemente un artefacto sin crear una aplicación, esto no creará ningún tipo de conjunto de datos o instancias.
+Como desarrollador de aplicaciones, quiero compartir un tipo de conjunto de datos en varias aplicaciones que incluyen el código del tipo de conjunto de datos en sus artefactos.
+Como desarrollador de aplicaciones, quiero asegurarme de que cuando implemente una nueva versión de una aplicación que incluye un tipo de conjunto de datos compartido, todas las instancias de conjunto de datos creadas por esta aplicación comiencen a usar el nuevo código, pero todas las instancias de conjunto de datos creadas por otras aplicaciones permanezcan sin cambios.
+Como desarrollador de aplicaciones, quiero asegurarme de que cuando implemente una nueva versión de una aplicación que incluya una versión anterior de un tipo de conjunto de datos implementado por otra aplicación y espero que las instancias de conjunto de datos creadas por esta aplicación usen el código de tipo de conjunto de datos incluido en Esta aplicación.
+Como desarrollador de aplicaciones, quiero asegurarme de que cuando implemente una nueva versión de una aplicación que incluya una versión diferente de un tipo de conjunto de datos implementado por otra aplicación y esta aplicación comparta una instancia de conjunto de datos de este tipo con la otra aplicación, la implementación fallará. con un error de conflicto de versiones.
+Como desarrollador de aplicaciones, quiero compartir un tipo de conjunto de datos que había implementado anteriormente como parte de una aplicación.
+Como desarrollador de conjuntos de datos, quiero implementar un tipo de conjunto de datos independiente de cualquier aplicación y permitir que las aplicaciones creen y usen instancias de conjuntos de datos de ese tipo.
+Como desarrollador de conjuntos de datos, quiero tener la opción de forzar a las aplicaciones a que se inyecte el código del conjunto de datos en tiempo de ejecución.
+Como desarrollador de conjuntos de datos, quiero tener un arquetipo que me ayude a empaquetar correctamente el tipo de mi conjunto de datos.
+Como desarrollador de conjuntos de datos, quiero separar la interfaz de la implementación de un tipo de conjunto de datos.
+Como desarrollador de aplicaciones, solo quiero depender de la interfaz de un tipo de conjunto de datos en mi aplicación y que el sistema inyecte la implementación en tiempo de ejecución.
+Como desarrollador de aplicaciones, quiero escribir pruebas unitarias para una aplicación que depende de la interfaz de un tipo de conjunto de datos.
+Como desarrollador de conjuntos de datos, quiero asignar versiones explícitas al código de un tipo de conjunto de datos.
+Como desarrollador de conjuntos de datos, quiero implementar una nueva versión de un tipo de conjunto de datos sin afectar las instancias del conjunto de datos de ese tipo.
+Como desarrollador de aplicaciones, quiero crear una instancia de conjunto de datos con una versión específica de un tipo de conjunto de datos.
+Como desarrollador de conjuntos de datos, quiero explorar una instancia de conjunto de datos creada a partir de un tipo de conjunto de datos que se implementó por sí mismo.
+Como desarrollador de conjuntos de datos, quiero eliminar las versiones desactualizadas de un tipo de conjunto de datos y espero que esto falle si hay instancias de conjuntos de datos con esa versión del tipo.
+Como desarrollador de conjuntos de datos, quiero enumerar todas las instancias de conjuntos de datos que usan un tipo de conjunto de datos o una versión específica de un tipo.
+Como científico de datos, quiero poder crear una instancia de conjunto de datos de un tipo de conjunto de datos existente sin escribir código.
+Como científico de datos, quiero poder actualizar una instancia de conjunto de datos a una nueva versión de su código.
+Como usuario de hidratador, quiero crear una canalización que lea o escriba una instancia de conjunto de datos existente.
+Como usuario de hidratador, quiero crear una canalización que lea o escriba una nueva instancia de conjunto de datos y quiero crear esa instancia de conjunto de datos como parte de la creación de la canalización.
+Como usuario de hidratador, quiero especificar una versión explícita de los tipos de conjuntos de datos de las instancias del conjunto de datos creadas por mi canalización y espero que la creación de la canalización falle si eso da como resultado una actualización incompatible de una instancia de conjunto de datos existente que se comparte con otras aplicaciones o canalizaciones. .
+Como usuario de hidratador, quiero explorar los conjuntos de datos creados por mi tubería.
+Como usuario de hidratador, quiero asegurarme de que todas las instancias de conjuntos de datos creadas por aplicaciones estén disponibles como sumideros y fuentes para tuberías.
+Como desarrollador de aplicaciones, quiero asegurarme de que todas las instancias de conjuntos de datos creadas por las canalizaciones de Hydrator sean accesibles para la aplicación.
+Como desarrollador de complementos, quiero incluir el código para un tipo de conjunto de datos en el artefacto del complemento, de modo que cuando se cree una canalización que usa este complemento, se cree una instancia de conjunto de datos de ese tipo y sea explorable y esté disponible para las aplicaciones.
+Como desarrollador de complementos, quiero usar un tipo de conjunto de datos personalizado que se implementó de forma independiente o como parte de una aplicación dentro del complemento.
+Como desarrollador de complementos, quiero actualizar el código de un tipo de conjunto de datos utilizado por una instancia de conjunto de datos creada por ese complemento cuando implemento una nueva versión del complemento y actualizo la canalización para usar esa versión.
+Como desarrollador de canalizaciones, quiero actualizar una instancia de conjunto de datos a una versión más nueva del código después de que se creó la canalización.
+Como desarrollador de conjuntos de datos, quiero tener la opción de implementar un paso de actualización para cuando una instancia de conjunto de datos se actualiza a una nueva versión del tipo de conjunto de datos.
+Como desarrollador de conjuntos de datos, quiero tener una forma de rechazar una actualización de una instancia de conjunto de datos a una versión más nueva de este tipo si la actualización no es compatible.
+Como desarrollador de conjuntos de datos, quiero tener la opción de implementar un procedimiento de migración que se pueda ejecutar después de una actualización de una instancia de conjunto de datos a una nueva versión de este tipo.
+Como desarrollador, quiero desconectar un conjunto de datos para poder realizar un procedimiento de migración o mantenimiento de larga duración.
+Como desarrollador de conjuntos de datos, quiero implementar operaciones administrativas personalizadas como "compactación" o "reequilibrio" que no son comunes a todos los tipos de conjuntos de datos.
+Como desarrollador de aplicaciones, quiero realizar operaciones administrativas personalizadas en instancias de conjuntos de datos desde mi aplicación y la CLI y REST o la IU.
+Como usuario, quiero averiguar qué propiedades son compatibles con el tipo de conjunto de datos, qué valores están permitidos y cuáles son los valores predeterminados al crear una instancia de conjunto de datos.
+Como usuario, quiero especificar el esquema de un conjunto de datos de manera uniforme en todos los tipos de conjuntos de datos.
+Como usuario, quiero especificar el esquema como una cadena JSON.
+Como usuario, quiero especificar el esquema como una cadena de esquema SQL.
+Como usuario, quiero configurar el tiempo de vida de manera uniforme en todos los tipos de conjuntos de datos.
+Como usuario, quiero ver las propiedades que se usaron para configurar una instancia de conjunto de datos.
+Como usuario, quiero saber qué propiedades de un conjunto de datos se pueden actualizar.
+Como usuario, quiero actualizar las propiedades de una instancia de conjunto de datos y espero que esto falle si las nuevas propiedades no son compatibles con un mensaje de error significativo.
+Como usuario, quiero actualizar una sola propiedad de una instancia de conjunto de datos sin conocer todas las demás propiedades.
+Como usuario, quiero eliminar una sola propiedad de una instancia de conjunto de datos sin conocer todas las demás propiedades.
+Como usuario, quiero activar un proceso de migración para un conjunto de datos si la actualización de sus propiedades lo requiere.
+Como usuario, quiero asegurarme de que si falla la reconfiguración de un conjunto de datos, los cambios no hayan surtido efecto, de modo que todos los pasos necesarios para reconfigurar un conjunto de datos deben realizarse como una única acción atómica.
+Como desarrollador de aplicaciones, quiero asegurarme de que la creación de la aplicación falle si no se puede crear alguno de sus conjuntos de datos.
+Como desarrollador de aplicaciones, quiero asegurarme de que la redistribución de la aplicación falle si alguno de sus conjuntos de datos no se puede reconfigurar.
+Como desarrollador de aplicaciones, quiero tolerar los conjuntos de datos existentes si sus propiedades son diferentes pero compatibles al crear un conjunto de datos como parte de la implementación de la aplicación.
+Como diseñador de canalizaciones, quiero recibir un mensaje de error significativo cuando la creación de la canalización falla cuando uso un conjunto de datos existente como receptor o fuente, para saber que el esquema o cualquier otra propiedad del conjunto de datos es incompatible con lo que requiere la canalización. .
+Como usuario, quiero especificar como parte de la configuración del conjunto de datos si es explorable.
+Como usuario, quiero especificar el esquema de exploración por separado.
+Como usuario, quiero asegurarme de que la creación del conjunto de datos falle si el conjunto de datos no se puede habilitar para explorar.
+Como usuario, quiero asegurarme de que la reconfiguración del conjunto de datos falle si falla la actualización correspondiente de la tabla de exploración.
+Como usuario, quiero asegurarme de que una operación de conjunto de datos falle si no realiza los cambios necesarios para explorar.
+Como usuario, quiero asegurarme de que una actualización de explore nunca lleve a una pérdida silenciosa de datos o datos disponibles para explorar.
+Como usuario, quiero habilitar la exploración para un conjunto de datos que no se configuró para explorar inicialmente.
+Como usuario, quiero deshabilitar la exploración para un conjunto de datos que se configuró para explorar inicialmente.

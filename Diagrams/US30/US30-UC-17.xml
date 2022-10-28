@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="Electron" modified="2021-07-17T22:14:46.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/14.6.13 Chrome/89.0.4389.128 Electron/12.0.7 Safari/537.36" etag="sJsL9_wGTLkcI5pkFSkL" compressed="false" version="14.6.13" type="device">
+  <diagram id="KbKOsayBm5BBeUZDMjFN" name="Página-1">
+    <mxGraphModel dx="2247" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PgKsFMfgXHZKjGigyRi4-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PgKsFMfgXHZKjGigyRi4-9" target="PgKsFMfgXHZKjGigyRi4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKsFMfgXHZKjGigyRi4-3" value="ver_razón_cita" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="300" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKsFMfgXHZKjGigyRi4-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endFill=1;" edge="1" parent="1" source="PgKsFMfgXHZKjGigyRi4-9" target="PgKsFMfgXHZKjGigyRi4-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="164.551633405006" y="108.38024242293204" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PgKsFMfgXHZKjGigyRi4-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PgKsFMfgXHZKjGigyRi4-9" target="PgKsFMfgXHZKjGigyRi4-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKsFMfgXHZKjGigyRi4-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PgKsFMfgXHZKjGigyRi4-9" target="PgKsFMfgXHZKjGigyRi4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKsFMfgXHZKjGigyRi4-9" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;miembro_personal_médico&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKsFMfgXHZKjGigyRi4-10" value="ver_citas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="15" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKsFMfgXHZKjGigyRi4-11" value="ver_detalles_cita" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="105" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKsFMfgXHZKjGigyRi4-12" value="ver_paciente_asignado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="205" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKsFMfgXHZKjGigyRi4-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="PgKsFMfgXHZKjGigyRi4-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PgKsFMfgXHZKjGigyRi4-13" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;dispositivo_portátil&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,41 @@
+Como visitante de una aplicación web, quiero crear una cuenta para poder tener preferencias personales para la aplicación web.
+Como administrador de IFA, quiero tener un tablero en la aplicación web, para poder verificar fácilmente la información de las ligas / equipos.
+Como administración de IFA, quiero permitir el acceso gratuito a todos los datos relacionados con juegos / equipos / ligas, para poder mejorar la transparencia del sistema.
+Como administración de IFA, quiero permitir que cada visitante se registre en la aplicación web, para que puedan usar más funciones que ofrece la aplicación web.
+Como aficionado, quiero registrarme para recibir cualquier tipo de notificación (jugador / equipo / liga), para poder seguir a mi jugador / equipo / liga favorito de forma regular.
+Como visitante de una aplicación web, quiero acceder a la aplicación web en cualquier lugar del mundo, para no depender de la ubicación.
+Como administración de IFA, quiero que cada cuenta tenga su nombre de usuario y contraseña únicos, para que no haya problemas de inicio de sesión.
+Como equipo, quiero publicar noticias en las redes sociales sobre mi equipo, para poder mantener a mis fanáticos actualizados.
+Como fan, quiero agregar comentarios sobre todo el contenido de las redes sociales en la aplicación web, para poder expresar mis opiniones y pensamientos en línea.
+Como aficionado, quiero recibir información actualizada sobre las entradas que compré para los partidos, de modo que se me notifique si se pospone el juego.
+Como fan, quiero tener la aplicación en mi idioma nativo, para poder entender el contexto de la información incluida en la aplicación web.
+Como fan, quiero tener un tiempo de respuesta rápido mientras uso el sistema, para no perder tiempo esperando una respuesta.
+Como aficionado, quiero tener acceso a las estadísticas de los partidos, para poder estar informado de lo que sucedió en un partido.
+Como aficionado, quiero tener acceso a los análisis del equipo favorito, para poder predecir los próximos partidos.
+Como fan, quiero elegir las cosas en la aplicación web que me interesan, para poder acceder a la información sobre las cosas que me interesan al instante.
+Como administración de IFA, quiero permitir que 50 000 personas tengan acceso a la aplicación web al mismo tiempo, para que no haya problemas de accesibilidad al iniciar sesión en el sistema.
+Como árbitro, quiero tener una aplicación que contenga una lista de eventos que podrían ocurrir en el juego, para poder proporcionar información al instante al sistema.
+Como árbitro, quiero tener un pequeño dispositivo en el que pueda informar sobre los eventos que ocurran durante el partido, para que el sistema proporcione actualizaciones de cada juego.
+Como árbitro, quiero reportar datos al sistema automáticamente cuando ocurre el evento, para que la información se actualice en cada momento.
+Como árbitro, quiero brindar información al sistema en forma digital, para que la información se pueda transmitir más rápido.
+Como administrador de la IFA, quiero crear estadísticas a partir de las actualizaciones en vivo de los árbitros de los juegos, para poder informar a los fanáticos de manera eficiente.
+Como administración de IFA, quiero crear la plataforma para la programación, por lo que podría sugerir un horario determinado a todas las partes interesadas.
+Como administración de IFA, quiero manejar toda la programación a través de un formulario digital, para que el sistema de programación sea más eficiente.
+Como administración de la IFA, quiero determinar las reglas sobre cómo programar los juegos, de modo que se pueda evitar el sesgo.
+Como representante de IFA, quiero verificar y aprobar un cronograma, para evitar sesgos.
+Como liga, quiero poder hacer cambios en el horario, para poder ajustar el horario a los equipos y árbitros.
+Como representante de la IFA, quiero recibir una razón explícita de los equipos y las ligas para cambiar el calendario del juego, de modo que se pueda evitar el sesgo.
+Como representante de IFA, quiero poder confirmar cada cambio en la programación, para evitar sesgos.
+Como equipo, quiero que cada partido que jugamos sea de al menos cuatro días de diferencia, para que el equipo tenga tiempo suficiente para prepararse para el próximo partido.
+Como árbitro, quiero que el sistema me conecte con los juegos que estaré a cargo, para que pueda seguir la información sobre mis partidos fácilmente.
+Como árbitro, quiero que el sistema me notifique si el juego se pospone, para poder reprogramar mis planes.
+Como administración de la IFA, quiero que cada horario se ajuste a la zona horaria de la liga, para que no haya malentendidos.
+Como Administración de IFA, quiero determinar las políticas y reglas presupuestarias, para que no haya fraudes en los sistemas de presupuestación de los equipos.
+Como administración de IFA, quiero tener acceso al presupuesto de los equipos a través de la aplicación web, para poder controlar continuamente el sistema de presupuestación.
+Como administración de IFA, quiero poder obtener un informe de la transacción de cada equipo, para poder tener una perspectiva real sobre el presupuesto de un equipo.
+Como Administración de la IFA, quiero restringir el acceso a la elaboración de presupuestos solo a la Administración y los equipos de la IFA, para mantener la confidencialidad de los presupuestos.
+Como administración de IFA, quiero ser alertado sobre desviaciones de las reglas de control presupuestario, para que no haya fraudes en el presupuesto de los equipos.
+Como administración de IFA, quiero tener un medio de comunicación entre las partes interesadas, de modo que se pueda mejorar la comunicación entre las partes interesadas.
+Como equipo, quiero establecer una persona responsable que se encargue de gestionar el perfil del equipo en el sistema, para que nuestras necesidades estén representadas en el sistema.
+Como CIO, quiero fusionar varios sistemas existentes en uno, para que haya una comunicación eficiente y transparencia entre las partes interesadas.
+Como CIO, quiero diferentes interfaces de usuario para diferentes partes interesadas, de modo que cada parte interesada tenga una interfaz ajustada que se adapte a sus necesidades.

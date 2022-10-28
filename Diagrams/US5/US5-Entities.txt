@@ -1,0 +1,47 @@
+-Listado de entidades:
+
+Paquete datos
+Complemento
+Datos
+Pipeline
+Datos empaquetados
+jQuery 
+Python
+Clojure 
+Julia 
+C ++
+Elasticsearch
+EPrints
+Mongo
+DAT
+Dspace
+Feather
+HDF5
+Servicio 
+Repositorio 
+Usuario
+Protocolo 
+Frictionless
+Excel 
+SPSS 
+STATA 
+EML
+Herramienta
+Conjunto datos
+Estadísticas básicas
+Proxy
+Vista previa
+Descarga 
+GitHub 
+CKAN
+OpenOffice 
+Metadato
+LibreOffice 
+Hoja calculo
+Microsoft Power BI
+NetCDF
+Aplicación 
+Open Refine
+Persistencia
+API datos
+MS-SQL

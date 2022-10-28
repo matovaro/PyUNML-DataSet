@@ -1,0 +1,62 @@
+-Listado de entidades: 
+
+Metadato
+Proyecto
+Dato
+Personal
+Investigador
+DMP
+Sistema
+Informacion
+Comité de Ética
+Ciclo de vida
+Sistema institucional
+Recurso
+Documento de datos
+Publicacion
+CRIS
+Registro
+Datos terceros
+Seccion costo
+Rol
+Investigador
+Publicacion
+Administrador datos
+Licencia Particular
+Derechos de uso
+Conjunto datos
+Ciclo vida
+Repositorio
+Servicio
+Contenido datos
+Software
+Requisito
+Seguridad datos
+Tecnología 
+Anonimización 
+Archivo
+Gerente
+Investigacion
+Descripcion
+procedencia planificada 
+Sistema almacenamiento
+Gestion datos
+Informe 
+Protocolo
+Institución 
+Volumen datos
+Cumplimiento legal
+Privacidad 
+Política
+
+
+
+
+
+
+
+
+
+
+
+

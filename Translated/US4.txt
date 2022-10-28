@@ -1,0 +1,53 @@
+Como usuario de publicación de datos, quiero poder editar un conjunto de datos que he publicado, para poder corregir o mejorar los datos existentes.
+Como usuario de publicación de datos, quiero poder editar el modelo de datos que ya he importado, para poder corregir errores o realizar mejoras en la API creada para mis datos.
+Como usuario de publicación de datos, quiero poder eliminar un conjunto de datos que he publicado, para poder eliminar datos no deseados de OpenSpending.
+Como administrador de la plataforma, quiero poder Ocultar cualquier conjunto de datos ya agregado como Público, para poder mantener el estado Público / Oculto para otros usuarios.
+Como administrador de la plataforma, quiero tener una vista de todos los conjuntos de datos publicados por todos los usuarios, para poder realizar acciones de gestión en cualquier conjunto de datos.
+Como administrador de la plataforma, quiero poder eliminar cualquier conjunto de datos publicado, para poder ocuparme de las solicitudes de eliminación o limpiar los conjuntos de datos de prueba.
+Como usuario de publicación de datos, quiero poder editar la fuente de datos de los datos que ya he importado, para poder corregir errores o realizar mejoras en la API creada para mis datos.
+Como usuario de publicación de datos, quiero que Packager admita Constantes, para poder modelar dimensiones que pueden no existir en el archivo de origen.
+Como usuario de publicación de datos, quiero poder importar datos en Excel, para no tener que convertir formatos de datos para usar el empaquetador de datos.
+Como usuario de publicación de datos, quiero saber qué necesitan mis datos para poder visualizarlos en un mapa, para poder visualizarlos en un mapa.
+Como usuario de publicación de datos, quiero poder importar datos en JSON, para no tener que convertir formatos de datos para usar el empaquetador de datos.
+Como usuario de publicación de datos, quiero poder importar datos de una hoja de cálculo de Google, de modo que no tenga que convertir formatos de datos para usar el empaquetador de datos.
+Como usuario de publicación de datos, quiero poder importar datos desde el archivo descriptor del paquete de datos fiscales, para no tener que convertir formatos de datos para usar el empaquetador de datos.
+Como usuario de publicación de datos, quiero poder proporcionar al administrador de la plataforma fuentes adicionales de GeoJSON, para poder mejorar las visualizaciones de mis datos basadas en mapas.
+Como usuario consumidor de datos, quiero poder filtrar, ordenar y agregar datos por múltiples dimensiones y medidas, para poder obtener vistas más granulares de los datos.
+Como usuario consumidor de datos, quiero poder descargar un CSV de los datos que se utilizan en cualquier visualización que esté viendo, para poder utilizar los datos en otras herramientas.
+Como usuario consumidor de datos, quiero poder cambiar la visualización de todas las medidas monetarias en un conjunto de monedas, de modo que pueda entender las cantidades localizadas en cifras no localizadas.
+Como usuario consumidor de datos, quiero ver descripciones textuales que acompañen a las visualizaciones incrustadas, para poder entender más fácilmente lo que estoy viendo.
+Como usuario consumidor de datos, quiero poder compartir un estado de vista como una URL a las redes sociales, para poder compartir los datos que he encontrado con otros.
+Como usuario consumidor de datos, quiero poder descargar una imagen de un estado de vista particular, para poder usarla sin conexión.
+Como usuario consumidor de datos, quiero poder compartir una imagen de un estado de vista particular a las redes sociales que lo respaldan, para poder proporcionar un contexto más rico en esos canales de comunicación para los datos que estoy compartiendo.
+Como usuario consumidor de datos, quiero poder tener un zoom escalonado en las visualizaciones de mapas, para poder tener un mejor control sobre la experiencia de navegación dentro de una vista de mapa.
+Como usuario consumidor de datos, quiero tener un uso consistente del color en las visualizaciones del mapa, para poder comprender mejor la lógica visual de la vista del mapa.
+Como desarrollador, quiero poder personalizar el nombre y el icono de la marca, y el color primario de todas las aplicaciones de Javascript frontend, para poder personalizar la marca según mis propias necesidades.
+Como usuario de la API, quiero poder entender si un usuario es un editor, para poder ofrecer una funcionalidad basada en los privilegios del editor de conjuntos de datos.
+Como usuario de la API, quiero poder comprender si un usuario es un administrador, para poder ofrecer una funcionalidad basada en los privilegios de administración de la plataforma.
+Como usuario de API, quiero poder obtener regiones | ciudades limítrofes cuando consulto una ciudad | región, para poder proporcionar un contexto visual más amplio para las visualizaciones de mapas.
+Como usuario de API, quiero poder solicitar polígonos dinámicamente en función de la consulta realizada, para poder proporcionar mapas que coincidan con la consulta.
+Como usuario de API, quiero tener una API flexible que utilice códigos HASC para países, regiones y ciudades, de modo que pueda visualizar datos presupuestarios en mapas.
+Como usuario de API, quiero poder obtener una salida CSV de cualquier consulta basada en cubos, para poder usar el trabajo con herramientas que leen CSV.
+Como usuario de API, quiero poder obtener un conjunto de medidas monetarias transferidas a diferentes monedas, para poder usar esto en escenarios que puedan permitir la comparación por normalización.
+Como usuario de API, quiero poder usar metadatos para obtener resultados de múltiples conjuntos de datos, de modo que pueda crear experiencias de usuario basadas en más de un conjunto de datos más fácilmente.
+Como usuario de API, quiero poder usar datos para obtener resultados de múltiples conjuntos de datos, de modo que pueda crear experiencias de usuario basadas en más de un conjunto de datos más fácilmente.
+Como usuario de API, quiero poder normalizar medidas por población, de modo que trabajo con conjuntos de datos en referencia a sus restricciones contextuales.
+Como usuario de API, quiero poder normalizar medidas por área geográfica, de modo que trabajo con conjuntos de datos en referencia a sus restricciones contextuales.
+Como usuario de API, quiero poder normalizar las medidas por PIB, por lo que trabajo con conjuntos de datos en referencia a sus restricciones contextuales.
+Como usuario de API, quiero poder normalizar medidas por GINI e índices socioeconómicos relacionados, de modo que trabajo con conjuntos de datos en referencia a sus limitaciones contextuales.
+Como usuario de la API, quiero poder obtener un porcentaje relativo de una medida con respecto al total del conjunto de datos del que proviene, para poder crear visualizaciones alternativas de los datos.
+Como usuario de API, quiero poder almacenar de forma persistente el estado de visualización en la base de datos, para que se pueda compartir más fácilmente y contribuir a una galería de visualización.
+Como usuario de publicación de datos, quiero que mi conjunto de datos se actualice automáticamente a medida que cambia el archivo / archivos de origen, para que OpenSpending siempre muestre los datos actuales.
+Como miembro de la comunidad OpenSpending, quiero tener un blog que destaque todos y cada uno de los proyectos en el espacio fiscal abierto, para poder relacionarme con openspending.org como el eje central de la apertura fiscal.
+Como usuario, quiero poder establecer mi propio nombre de usuario, para que mis datos sean más fáciles de descubrir.
+Como usuario de publicación de datos, quiero poder agregar un conjunto de datos en un estado Oculto, para poder trabajar en un conjunto de datos antes de que sea detectable a través de las interfaces de usuario de OpenSpending.
+Como usuario de publicación de datos, quiero poder Ocultar un conjunto de datos que ya he agregado como Público, para poder corregir mis errores o tener un conjunto de datos principalmente para mi propio uso.
+Como usuario de publicación de datos, quiero tener una vista de todos los conjuntos de datos que he publicado, para poder realizar acciones de gestión en mis propios conjuntos de datos.
+Como usuario de publicación de datos, quiero tener un cliente Python en funcionamiento, para poder agregar datos al almacén de datos de forma masiva desde la línea de comandos o desde mis propios programas.
+Como miembro de la comunidad de OpenSpending, quiero tener una aplicación en la que pueda encontrar ejemplos de uso de visualizaciones de datos fiscales, de modo que pueda encontrar una guía para crear la mía propia con Open Spending.
+Como usuario de publicación de datos, quiero saber si mi archivo CSV es válido, para poder solucionar posibles problemas de datos antes de publicarlo en Open Spending.
+Como usuario consumidor de datos, quiero poder buscar cualquier conjunto de datos publicado y accesible públicamente por su título y metadatos, para poder encontrar los conjuntos de datos que me interesan.
+Como usuario consumidor de datos, quiero visualizar de forma predeterminada en el mapa de árbol, el árbol de burbujas, el mapa y la tabla dinámica el año más reciente cuando mi conjunto de datos contiene varios años, para no confundirme con las cantidades.
+Como usuario de API, quiero poder cambiar los colores de las visualizaciones integradas en mi propia plataforma, para poder personalizar las visualizaciones.
+Como usuario de API, quiero poder cambiar parte del estilo del visor integrado en mi propia plataforma, para poder personalizarlo con el esquema de color de mi propia organización.
+Como administrador de la plataforma, quiero poder traducir las jerarquías de tipos de datos del Visor mientras estoy en modo incrustado, para que mis usuarios puedan entender la interfaz en su idioma nativo.

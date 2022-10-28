@@ -1,0 +1,37 @@
+-Listado de Entidades: 
+
+Sistema
+Dato
+Idioma
+Servicio
+Liga
+Equipo
+Jugador
+Persona
+Usuario
+Herramienta
+País
+Partido
+Tabla Clasificación
+Competición
+Horario
+Regla
+Conflicto
+Cronograma
+Empleado
+Evento
+Estadística
+Franja Horario
+Lugar
+Calendario
+Teléfono
+Escritorio
+Programación
+Oficial
+Juego
+Rol
+Privilegio
+Finanza
+Estadística
+Estrategia
+Presupuesto                       

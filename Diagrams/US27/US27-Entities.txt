@@ -1,0 +1,19 @@
+- Listado de entidades: 
+
+Historia clinica
+Resultado
+Prueba
+Dato
+Cita
+Laboratorio
+Medicion
+Medico
+Paciente
+Registro
+Agenda
+farmacia
+Medicamento
+Informacion
+Urgencia
+Usuario
+Sistema

@@ -1,0 +1,17 @@
+Nuevo_equipo
+IFA
+Arbitro
+Arbitro_central
+Arbitro_lateral
+Usuario
+Usuario_invitado
+Usuario_registrado
+Periodista
+Jugador
+Director
+Equipo 
+Individuo
+Resultado
+Juego
+Informacion
+Estadistica

@@ -1,0 +1,51 @@
+Como usuario, quiero hacer clic en la dirección, para que me lleve a una nueva pestaña con Google Maps.
+Como usuario, quiero poder ver información pública de forma anónima, de modo que conozca los centros de reciclaje cercanos antes de crear una cuenta.
+Como usuario, quiero poder ingresar mi código postal y obtener una lista de las instalaciones de reciclaje cercanas, para poder determinar cuáles debo considerar.
+Como usuario, quiero poder obtener el horario de cada instalación de reciclaje, para poder organizar la entrega en mis días libres o fuera del horario laboral.
+Como usuario, quiero tener un horario de recogida flexible, para poder usar el sitio web de manera más conveniente.
+Como usuario, quiero poder seleccionar diferentes tipos de residuos reciclables, por lo que tengo y obtengo una lista de instalaciones que aceptan cada tipo y sus horarios de apertura, para poder encontrar una ruta y horario óptimos.
+Como usuario, quiero agregar centros de donación como favoritos en mi perfil, para poder verlos más tarde.
+Como usuario, quiero poder dar mi ID de correo electrónico, para poder recibir notificaciones de nuevos eventos a medida que se publican.
+Como usuario, quiero poder ver un mapa de los contenedores de reciclaje públicos en mi área.
+Como usuario, quiero poder ver un mapa de los sitios de entrega de desechos especiales alrededor de mi área.
+Como usuario, quiero poder ver los eventos de eliminación segura que se están organizando actualmente en mi área.
+Como usuario, quiero elegir un horario de recogida flexible, para poder utilizar el sitio web de forma más conveniente.
+Como usuario, quiero ver la documentación de usuario del sitio web para saber cómo utilizar la aplicación web.
+Como usuario, deseo recibir comentarios cuando ingrese un código postal no válido.
+Como usuario, quiero poder crear una cuenta, para poder crear mi propio perfil.
+Como administrador, quiero poder agregar o eliminar la información de las instalaciones de reciclaje, para que los usuarios obtengan la información más reciente.
+Como administrador, quiero poder leer los comentarios y las quejas de los usuarios, para que podamos agregar más funciones y seguir mejorando el servicio que les brindamos.
+Como usuario, quiero poder verificar el historial de transacciones y mantener un registro, para poder regresar cuando sea necesario.
+Como usuario, quiero tener una gran UI y UX de los sitios, para tener una experiencia agradable al navegar por ellos.
+Como usuario, quiero poder acceder al sitio y hacer todas las demás cosas en todos mis dispositivos electrónicos.
+Como administrador, quiero poder bloquear usuarios específicos según la dirección IP, para poder evitar el spam en los sitios web.
+Como administrador, quiero ver un panel que monitorea el estado de todos los sitios, para poder tener una idea de lo que la gente está haciendo en nuestros sitios y conocer el estado del servicio.
+Como administrador, quiero tener todos los datos encriptados, para que la información importante no sea robada durante una violación del servidor o un ataque.
+Como ejecutivo, quiero tener acceso completo a los datos relacionados con mi empresa, para poder tener una idea del desempeño de mi empresa.
+Como empleado, quiero acceder al sistema de planificación de rutas durante el trabajo, para poder ser guiado por el vecindario.
+Como empleado del departamento de recursos humanos, quiero tener acceso a la información completa de todos los empleados que trabajan para esta empresa.
+Como desarrollador, quiero acceder a una API desde el sitio web, para poder integrarla e implementar ciertas funciones en mi propia aplicación iOS.
+Como usuario, quiero poder recibir recompensas tentadoras, de modo que tenga una razón para usar el sitio web.
+Como usuario, quiero que mi información personal se mantenga de forma segura en la base de datos del sitio web, para no sufrir robo de identidad o acoso telefónico.
+Como administrador, quiero manejar todas las actividades de los usuarios para poder administrarlas de manera más eficiente.
+Como empresa, quiero tener un sitio web que sea fácil de usar, para poder cargar o eliminar cosas paso a paso.
+Como empleado, quiero recibir notificaciones rápidas para poder procesar los casos por primera vez.
+Como contador de la empresa, quiero ver todas las tarifas de actividad disponibles en línea, para poder crear fácilmente un estado de cuenta.
+Como desarrollador, quiero usar bootstrap en el proceso de desarrollo, para poder diseñar fácilmente mi sitio web.
+Como desarrollador, quiero asistir a algunas lecciones de UI / UX, para poder desarrollar un sitio web con características increíbles y hermosas.
+Como usuario, quiero ver todas las ubicaciones de los centros de reciclaje en un mapa, para poder verificar qué rutas tomar para depositar los desechos.
+Como usuario, quiero subir el programa de mi semana, para poder obtener recomendaciones de los centros de reciclaje que mejor se adapten a mi disponibilidad.
+Como usuario, quiero vincular mi cuenta de correo electrónico a mi perfil, para poder obtener una contraseña temporal en caso de que olvide la mía.
+Como usuario, quiero ponerme en contacto con los administradores para darles su opinión o pedirles ayuda.
+Como administrador, quiero agregar información del centro de reciclaje para poder mantener la base de datos actualizada a lo largo del tiempo.
+Como administrador, quiero ver los registros de errores de los usuarios para poder solucionar o revisar los problemas que enfrentan los usuarios del sistema.
+Como administrador, quiero incorporar centros de reciclaje en la plataforma para poder aumentar la precisión de la información.
+Como superusuario, deseo actualizar la información del centro de reciclaje para poder proporcionar la información más reciente sobre el centro de reciclaje.
+Como superusuario, quiero ver las estadísticas de los usuarios para poder ver en tiempo real cuántos usuarios han visitado la información de mi centro de reciclaje y sus desechos reciclables.
+Como superusuario, quiero responder a las preguntas de los usuarios, para poder responder cualquier pregunta sobre mi centro de reciclaje.
+Como administrador, quiero poder tener un panel que muestre estadísticas de uso y ubicaciones, para poder identificar los vecindarios con la mayor cantidad de abandonos e intentar involucrar más instalaciones.
+Como administrador, quiero poder comunicarme directamente con las instalaciones, para poder mantenerlas actualizadas sobre las funciones que tenemos en nuestro sitio web.
+Como usuario, quiero poder navegar a través de la lista de facolities y ver cuáles son amigables con el medio ambiente, para poder saber con certeza que mis residuos no dejarán una huella ecológica negativa.
+Como representante de las instalaciones de reciclaje, quiero poder actualizar mi información y el tipo de material que acepto, para evitar cualquier mala comunicación con los usuarios.
+Como representante de una instalación de reciclaje, quiero tener acceso a las estadísticas y los horarios de los usuarios, de modo que pueda ajustar mis horas y / o actualizar el equipo y la capacidad para poder acomodar mayores cantidades de materiales reciclables.
+Como centro de reciclaje, quiero poder comunicarme directamente con el administrador del sitio y transmitir cualquier problema o inquietud que tenga, para que lo solucionen.

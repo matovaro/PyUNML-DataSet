@@ -1,0 +1,12 @@
+Reutilizador_datos
+Admin
+Dato
+Depositante
+Entidad_financiera
+Coordinador_externo
+Colaborador_externo
+Editor
+Desarrollador
+Servicio_univIT
+Gerente_informacion
+Gerente_centro

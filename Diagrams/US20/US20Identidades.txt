@@ -1,0 +1,5 @@
+Administrador
+Archivero
+Investigador
+Asistente
+Representante

@@ -1,0 +1,7 @@
+Investigador
+Administrador
+User
+Supervisor
+Miembro
+IngVersiones
+Operador

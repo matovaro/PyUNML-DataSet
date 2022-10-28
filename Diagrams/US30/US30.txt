@@ -1,0 +1,28 @@
+Como administrador de instalaciones, quiero recibir una alerta si algo no funciona en una habitación para poder solucionarlo.
+Como enfermera y médico, necesito tener acceso al registro médico electrónico (EMR) de un paciente para poder obtener una buena imagen de la salud del paciente.
+Como enfermera, quiero saber con qué médico tengo que trabajar.
+Como enfermera, quiero ver una alerta cuando un paciente se va a casa para saber cuándo limpiar la cama.
+Como miembro del departamento legal, quiero que los datos de los pacientes solo sean accesibles para las personas que necesitan acceso para ayudar a los pacientes a fin de que se adhiera al GDPR.
+Como miembro del personal administrativo, quiero poder ver en qué salas se reservan las citas para que nada se sobreventa
+Como miembro del personal administrativo, quiero tener una descripción general de todas las camas que tenemos para tener una idea clara de cuán ocupado está el hospital.
+Como miembro del personal médico, quiero que los datos recopilados por el dispositivo médico se agreguen al EMR para obtener una imagen completa de la salud del paciente.
+Como miembro del personal médico, quiero saber a qué paciente estoy asignado
+Como miembro del personal médico, quiero saber en qué cama puedo encontrar a un paciente determinado.
+Como miembro del personal médico, quiero tener acceso a la programación de salas a través de cualquier dispositivo portátil para poder hacer mi trabajo de manera más eficiente.
+Como miembro del personal médico, quiero tener acceso a los datos de las citas a través de cualquier dispositivo portátil para poder hacer mi trabajo de manera más eficiente.
+Como miembro del personal médico, quiero tener acceso a los datos del paciente a través de cualquier dispositivo portátil para poder hacer mi trabajo de manera más eficiente.
+Como miembro del personal médico, quiero tener fácil acceso a todos los datos que se recopilan con los dispositivos médicos para poder obtener una buena imagen de la salud de los pacientes.
+Como miembro del personal médico, quiero ver por qué mi paciente programó una cita para que yo esté preparado para la cita.
+Como miembro del personal, quiero que el EMR sea consistente para todos los pacientes en todos los departamentos para que la seguridad del paciente esté garantizada.
+Como paciente, quiero cambiar mi información general.
+Como paciente, quiero concertar una cita online para no tener que llamar ni venir al hospital.
+Como paciente, quiero poder dar el motivo de mi cita para que los médicos sepan cuánto tiempo llevará.
+Como paciente, quiero poder reprogramar para poder hacer otra cita cuando algo me impida ir.
+Como paciente, quiero poder ver en qué sala es mi cita
+Como paciente, quiero que el hospital elimine todos los datos que tengan sobre mí.
+Como paciente, quiero saber qué datos recopila el hospital sobre mí.
+Como paciente, quiero tener una visión general clara de cuándo es posible programar una cita.
+Como paciente, quiero ver la disponibilidad de médicos para poder reservar una cita con mi médico favorito.
+Como recepcionista, quiero poder obtener una descripción general del calendario de citas.
+Como recepcionista, quiero poder programar citas para que los pacientes aún puedan llamar o acudir para programar una cita.
+Como recepcionista, quiero poder reprogramar citas para poder reprogramar cuando una cita ya no sea posible

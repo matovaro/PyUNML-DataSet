@@ -1,0 +1,68 @@
+Como curador de colecciones, quiero establecer una fecha después de la cual los datos caducarán y se eliminarán u ocultarán y luego se eliminarán.
+Como curador de la colección, quiero ver que la fecha de eliminación de registros programada se muestre en las páginas de elementos y componentes.
+Como administrador del repositorio, quiero hacer un seguimiento de quién es financieramente responsable de cada elemento del repositorio, quién probablemente debería ser una persona de contacto, incluido el nombre, el teléfono, el correo electrónico, tal vez el cargo y la dirección.
+Como administrador de repositorios, quiero poder ejecutar un informe periódicamente que muestre el almacenamiento consumido por cada contacto financiero.
+Como curador de colecciones, quiero mapear un elemento o elementos de una colección a otra, de modo que un elemento pueda pertenecer administrativamente a una colección pero pueda aparecer en otras colecciones.
+Como miembro de la facultad, quiero agregar un delimitador de fecha a una cadena de búsqueda, de modo que pueda limitar una búsqueda para devolver solo resultados de antes, después o entre una fecha o fechas determinadas.
+Como desarrollador, quiero determinar si podemos utilizar los servicios de auditoría de eventos de Fedora 4 integrados.
+Como DPC, quiero que se creen eventos cuando una publicación se publica y no se publica, quién lo hizo, comenta, para poder registrar cuándo y por qué algo no está disponible.
+Como administrador de repositorios, quiero especificar la política de replicación remota para cada colección.
+Como administrador de repositorio, quiero optar por replicar de forma remota o no y posiblemente replicar más allá del sitio remoto principal.
+Como curador de la colección, quiero que el repositorio ponga en cola mi colección para replicarla al ingerirla en nuestro sitio de almacenamiento remoto y mostrar el estado de la replicación remota en cada elemento y página de componente en la interfaz de personal.
+Como curador de colecciones, quiero tener un resumen de todos los estados de replicación remota a nivel de colección en mi tablero.
+Como curador de la colección, quiero que mi colección sea encriptada con una clave mantenida en ese servidor, una suma de verificación hecha y almacenada del archivo encriptado, y el archivo encriptado replicado en nuestro sitio de almacenamiento remoto.
+Como curador de colecciones, quiero levantar el embargo de un objeto de una manera simple.
+Como repoadmin, quiero que Symplectic Elements se comunique bidireccionalmente e integre con DDR, que proporciona un conector de Fedora y Emory está usando una instancia de Fedora oculta para la que Hydra recopila objetos.
+Como curador de la colección, quiero que los elementos estén disponibles bajo los permisos que fueron configurados una vez que se haya alcanzado la fecha de embargo.
+Como curador de colecciones, quiero crear formularios de depósito específicos para la colección.
+Como curador de colecciones, quiero permitir que algunas colecciones tengan la opción de establecer una fecha de embargo en el momento del depósito.
+Como curador de la colección, quiero que los metadatos del artículo sean visibles mientras el artículo está bajo embargo.
+Como curador de la colección, quiero que el elemento se permita según los permisos de acceso establecidos en el objeto después de que se alcancen los datos del embargo.
+Como repoadmin, quiero que a los usuarios se les presente una licencia o una selección de licencias, específica para la colección, y que se denegue el depósito si el remitente no acepta la licencia.
+Como repoadmin, quiero que la licencia se registre en metadatos y se muestre junto al elemento.
+Como archivista de DigitalRecords, quiero tener un método para procesar por lotes los ETD que recibimos de ProQuest.
+Como archivista de DigitalRecords, quiero tener la herramienta de ingesta por lotes para reconocer y establecer embargos, los permisos para los elementos embargados deben permitir que todos vean los metadatos, y el curador de la colección y los administradores del repositorio descargar los archivos.
+Como archivista de DigitalRecords, quiero tener el repositorio para levantar embargos en la fecha de lanzamiento y establecer los controles de acceso a la configuración establecida en el artículo en esa fecha.
+Como visitante, quiero ver el estado del embargo y la fecha de lanzamiento claramente mostrados y quizás resaltados de alguna manera.
+Como archivista de DigitalRecords, quiero tener un método para agregar y eliminar a varias personas para depositar grupos en colecciones específicas, para establecer una fecha en la que se cierre la ventana de depósito y para que estos permisos se otorguen a estos depositantes. permiso.
+Como archivero de DigitalRecords, quiero editar la duración de los embargos.
+Como archivista de DigitalRecords, quiero exponer el registro descriptivo de cada elemento ETD para su reutilización externa a Fedora.
+Como archivista de DigitalRecords, quiero otorgar privilegios de embargo a otros administradores de repositorios.
+Como archivista de DigitalRecords, quiero tener un método para agregar y eliminar personas individuales de los grupos de depósito.
+Como curador de colecciones, quiero tener una herramienta para realizar el control de la autoridad del autor.
+Como curador de colecciones, quiero mover elementos de una colección a otra.
+Como repoadmin, quiero exponer el contenido del repositorio a través de OAI-PMH.
+Auditoría e informes.
+Como archivista de DigitalRecords, quiero ver y descargar metadatos de embargo resumidos para todos los ETD en el repositorio.
+Como remitente de lotes, quiero proporcionar mis datos y metadatos en un formato simple y documentado al personal del repositorio para su ingesta.
+Como administrador del repositorio, quiero ver los usuarios activos y autenticados y los usuarios anónimos.
+Como administrador del repositorio, quiero programar un mensaje para los usuarios para que se muestre en cada página del repositorio entre momentos seleccionados para cosas como la notificación del próximo tiempo de inactividad.
+Como administrador de repositorio, quiero ver una pantalla de errores recientes deduplicados para una fácil comprensión, como lo proporciona Symplectic Elements.
+Como administrador de repositorios, quiero ver un panel de estadísticas sobre el tamaño de las colecciones, incluida una lista de colecciones, la cantidad de elementos y componentes en cada una, el almacenamiento total consumido por cada colección, la visualización de la actividad del depósito.
+Como curador de colecciones, quiero ver un widget de panel que muestre un resumen de los envíos recientes a mi colección.
+Como repoadmin, quiero seguir proporcionando acceso al repositorio en caso de que el servidor falle.
+Como repoadmin, quiero proporcionar el SLA del servidor a los contribuyentes de datos.
+Como administrador de repositorios, quiero actualizar el índice del repositorio sin interrumpir el acceso a la interfaz pública.
+Como repoadmin, quiero proporcionar una interfaz de datos vinculados al repositorio.
+Como repoadmin, quiero tener elementos simplécticos para comunicar
+bidireccionalmente con el repositorio.
+Como desarrollador, quiero actualizar a Fedora 4 y migrar nuestras aplicaciones y datos.
+Como curador de colecciones, quiero que se realicen cambios en los metadatos de los elementos con DOI asignados al repositorio para que se propaguen al EZID.
+Como curador de la colección, quiero identificar canónicamente a los autores y creadores de mis artículos mediante un identificador único, para que sea más fácil ver todos los trabajos de esa persona juntos.
+Como curador de la colección, quiero ver los referentes de los visitantes que usan enlaces extraídos del resolutor para llegar a mis artículos.
+Como colaborador de datos, quiero referirme al Plan de recuperación ante desastres en las propuestas de subvenciones y los Planes de gestión de datos.
+Como depositante, deseo recibir comentarios después de la ingesta que me adviertan si los archivos que envié no se ajustan a sus especificaciones de formato, si no son válidos o si no están bien formados.
+Como remitente de lotes, quiero acceder a la documentación que describe el proceso de ingesta de carpetas.
+Como depositante, quiero ver qué tipo de cosas acepta el repositorio y qué formatos se aceptan y recomiendan.
+Como depositante, quiero encontrar fácilmente información sobre qué datos se pueden asignar a un DOI, cómo obtener uno y qué metadatos se requieren.
+Como curador de colecciones, quiero crear grupos de usuarios para administrar los permisos en el repositorio de una manera fácil.
+Como curador de colecciones, quiero restringir el acceso a mi colección o artículos a las direcciones IP de Duke.
+Como curador de colecciones, quiero que los usuarios se comuniquen conmigo directamente desde el repositorio para solicitar acceso a objetos restringidos.
+Como propietario de una colección, quiero que los remitentes de mi colección no puedan modificar los elementos existentes en esa colección.
+Como superusuario, quiero entrar y salir del ámbito de superusuario.
+Como curador de colecciones, quiero cambiar los permisos en uno o más elementos simultáneamente.
+Como curador de colecciones, quiero poder requerir autenticación para acceder a los objetos, a menos que la solicitud provenga de una dirección IP incluida en la lista blanca, una lista de direcciones.
+Como administrador de repositorio, quiero ver las versiones disponibles de un objeto y restaurar una versión desde la interfaz de personal.
+Como curador de colecciones, quiero ver todos los permisos de mis objetos.
+Como investigador que no pertenece a Duke, quiero describir mi equipo y los objetos del mío en el repositorio después de que se hayan depositado si se nos ha asignado permiso para editar metadatos.
+Como miembro de la facultad, quiero ir al panel de control de mi repositorio para administrar los miembros de mis clases, otorgar permisos de envío pegando una lista de NetID, ver la confirmación de que DDR reconoce las NetID, la capacidad de eliminar manualmente los permisos, la capacidad de configurar el inicio y fechas de finalización para una ventana de envío y una pantalla de estado para ilustrar claramente quién ha enviado y quién no.

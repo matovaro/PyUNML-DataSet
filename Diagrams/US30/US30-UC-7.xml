@@ -1,0 +1,40 @@
+<mxfile host="Electron" modified="2021-07-17T08:59:41.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/14.6.13 Chrome/89.0.4389.128 Electron/12.0.7 Safari/537.36" etag="Qo18taPv1YH9uhkEzKK2" compressed="false" version="14.6.13" type="device">
+  <diagram id="KbKOsayBm5BBeUZDMjFN" name="Página-1">
+    <mxGraphModel dx="1086" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="krc5g9rCq_NVQ47eXEbp-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="krc5g9rCq_NVQ47eXEbp-28" target="krc5g9rCq_NVQ47eXEbp-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krc5g9rCq_NVQ47eXEbp-1" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Enfermero&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="330" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krc5g9rCq_NVQ47eXEbp-28" value="Alertar" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="380" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="krc5g9rCq_NVQ47eXEbp-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="krc5g9rCq_NVQ47eXEbp-37" target="krc5g9rCq_NVQ47eXEbp-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krc5g9rCq_NVQ47eXEbp-37" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Paciente&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krc5g9rCq_NVQ47eXEbp-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;startArrow=none;" parent="1" source="ZGJEeAwfXwWTUX_tA_Ty-1" target="krc5g9rCq_NVQ47eXEbp-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krc5g9rCq_NVQ47eXEbp-39" value="ir_a_casa" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="220" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGJEeAwfXwWTUX_tA_Ty-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="215" y="310" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGJEeAwfXwWTUX_tA_Ty-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=1;dashed=1;" parent="1" source="krc5g9rCq_NVQ47eXEbp-39" target="ZGJEeAwfXwWTUX_tA_Ty-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="290" as="sourcePoint" />
+            <mxPoint x="255" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

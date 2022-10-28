@@ -1,0 +1,99 @@
+Como administrador de repositorio, quiero conocer todas las colecciones y objetos en el DAMS de los que tengo la responsabilidad de custodia.
+Como administrador del repositorio, quiero poder actualizar la información del repositorio en un solo lugar y tener la seguridad de que las actualizaciones se propagarán a todos los lugares relevantes.
+Como gerente de repositorio, quiero restringir el acceso curatorial a los activos de mis unidades a los miembros del personal de mi unidad y a los gerentes de DAMS que tienen acceso universal.
+Como usuario, quiero enumerar todas las colecciones y objetos en los DAMS que pertenecen a una unidad de biblioteca.
+Como usuario, quiero poder contactar con repositorios.
+Como administrador de DAMS, quiero poder listar para examinar todas las colecciones formales representadas en DAMS junto con las relaciones adecuadas.
+Como gestor de repositorios, quiero conocer todas las colecciones de las que tengo la responsabilidad curatorial.
+Como administrador de repositorios, quiero componer colecciones, limitando la colección a los elementos que comparten la misma procedencia, limitando la colección para representar una parte de una colección que tiene una procedencia singular, o ensamblar una colección de otras colecciones y objetos.
+Como administrador de repositorios, quiero decir que una colección está relacionada con otra colección.
+Como administrador de repositorios, quiero describir una colección, incluido su título, sus fechas inclusivas / masivas, su idioma (s) y muchos otros aspectos.
+Como administrador del repositorio, quiero indicar nombres relacionados con la colección, ya sea como creador, fuente o tema.
+Como administrador de repositorio, quiero indicar temas relacionados con la colección.
+Como administrador del repositorio, quiero indicar otras descripciones de la colección que están fuera del DAMS y de probable importancia para los usuarios.
+Como administrador de repositorios, quiero saber todos los eventos que ocurren en una colección.
+Como usuario, quiero poder navegar por colecciones en DAMS.
+Como usuario, quiero poder limitar mi búsqueda a colecciones específicas.
+Como administrador de repositorios, quiero conocer todos los componentes que pertenecen a un objeto.
+Como administrador del repositorio, quiero conocer todos los archivos que pertenecen a un objeto.
+Como administrador de repositorios, quiero describir un objeto, incluido su título, fecha (s), idioma (s) y otros aspectos.
+Como administrador de repositorios, quiero indicar nombres relacionados con un objeto.
+Como administrador de repositorios, quiero indicar los temas relacionados con un objeto.
+Como administrador de repositorios, quiero indicar el estado de los derechos de autor de un objeto.
+Como administrador de repositorios, quiero indicar cualquier estatuto pertinente a un objeto.
+Como administrador de repositorio, quiero indicar cualquier licencia pertinente a un objeto.
+Como administrador de repositorio, quiero indicar cualquier otro derecho pertinente a un objeto.
+Como administrador de repositorio, quiero indicar cualquier versión externa o descripción de un objeto que pueda ser de importancia probable para un usuario.
+Como administrador de repositorios, quiero saber todos los eventos realizados en un objeto durante el ciclo de vida del objeto.
+Como administrador de DAMS, quiero saber a qué repositorio pertenece un objeto.
+Como administrador de DAMS, quiero saber a qué colección (s) pertenece un objeto.
+Como usuario, quiero saber a qué repositorio pertenece un objeto.
+Como usuario, quiero saber a qué colección (s) pertenece un objeto.
+Como usuario, quiero ver todos los componentes de un objeto.
+Como usuario, quiero tener acceso a los archivos de contenido de un objeto.
+Como usuario, quiero saber el estado de los derechos de un objeto.
+Como usuario, quiero saber sobre otras versiones del objeto o sus metadatos que podrían serme útiles.
+Como administrador de repositorios, quiero representar la estructura física y / o lógica de un objeto.
+Como administrador de repositorios, quiero enumerar todos los componentes, en su orden apropiado, para un objeto.
+Como administrador de repositorios, quiero vincular, cuando sea apropiado, un componente a otro componente o a un archivo.
+Como administrador del repositorio, quiero describir cada componente como necesario, incluido el título, la (s) fecha (s), el (los) idioma (s) y otras facetas.
+Como administrador de repositorio, quiero indicar cualquier nombre que sea pertinente para el componente.
+Como administrador de repositorio, quiero indicar cualquier tema que sea pertinente al componente.
+Como administrador de repositorio, quiero indicar si el componente tiene un estado de copyright diferente al del objeto en su conjunto.
+Como administrador de repositorios, quiero indicar si un estatuto pertenece al componente, además del objeto en su conjunto.
+Como administrador de repositorio, quiero indicar si una licencia pertenece al componente, además del objeto en su conjunto.
+Como administrador de repositorio, quiero indicar si otros derechos pertenecen al componente, además del objeto en su conjunto.
+Como administrador de repositorios, quiero conocer todos los eventos que ocurren en un componente durante su ciclo de vida.
+Como administrador de DAMS, quiero presentar en su orden asignado todos los componentes que componen un objeto.
+Como usuario, quiero poder ver y navegar por la jerarquía de componentes de un objeto.
+Como administrador de repositorio, quiero conocer todos los archivos de contenido en el DAMS para los objetos de mi repositorio.
+Como administrador de repositorios, quiero asociar un archivo de contenido con un objeto o con un componente de objeto.
+Como administrador del repositorio, quiero saber cualquier evento que le haya ocurrido a un archivo de contenido para cualquiera de los objetos de mi repositorio.
+Como administrador de DAMS, quiero indicar a los administradores de preservación aspectos de un archivo maestro útiles para monitorear su integridad y obsolescencia inminente, incluido el tamaño del archivo, la fecha de creación, el formato del archivo y la versión del formato.
+Como administrador de DAMS, quiero indicar a los administradores de preservación el método de suma de verificación y suma de verificación para cada archivo maestro para un objeto dado.
+Como administrador de DAMS, quiero indicar la información de captura de origen para un archivo donde sea útil hacerlo.
+Como administrador de DAMS, quiero saber, a través de administradores de preservación, de cualquier objeto cuya integridad o autenticidad esté en duda o que haya sido actualizado a un formato de archivo más actual.
+Como usuario, quiero acceder a los archivos de contenido que componen un objeto, para poder decidir si un archivo es demasiado grande para descargarlo.
+Como administrador de repositorio, quiero proporcionar un título, en todas las formas útiles, para las colecciones, objetos y componentes de objeto de mi repositorio.
+Como administrador del repositorio, quiero saber cualquier cambio que se produzca en los títulos de las colecciones, los objetos y los componentes del objeto del repositorio.
+Como administrador de DAMS, quiero presentar colecciones, objetos y componentes de objetos por título.
+Como usuario, quiero buscar colecciones, objetos y componentes de objetos por título.
+Como administrador de repositorio, quiero indicar para un objeto o componente de objeto el lugar de publicación, el editor, edición, etc., cuando sea pertinente.
+Como administrador de repositorios, quiero conocer los cambios realizados en la información de origen de un objeto, incluidas sus partes componentes.
+Como usuario, quiero saber para un objeto o sus componentes el lugar de publicación, el editor, etc.
+Como administrador de repositorios, quiero describir varias facetas de una colección, objeto o componente de objeto que no son direccionables a través del título, la fecha, el nombre y las entidades temáticas.
+Como administrador del repositorio, quiero conocer todas las modificaciones realizadas en las notas de las colecciones, los objetos o los componentes del objeto de mi repositorio.
+Como usuario, quiero conocer varias facetas de una colección, objeto o componente de objeto, como el alcance y el contenido, varios identificadores, las condiciones que rigen el uso / acceso, etc.
+Como administrador de repositorios, quiero indicar el idioma (s) presente en una colección, objeto o componente de objeto.
+Como administrador de repositorios, quiero saber si se han realizado cambios en los idiomas indicados para una colección, un objeto o un componente de objeto.
+Como usuario, quiero limitar mis búsquedas de colecciones, objetos o componentes de objetos a un idioma específico.
+Como administrador del repositorio, quiero registrar un registro de nombre para cada identidad única asociada con las colecciones y los objetos de mi repositorio.
+Como usuario, quiero buscar colecciones y objetos por nombre.
+Como administrador de repositorio, quiero indicar que un nombre pertinente a una colección, objeto o componente de objeto tiene un rol específico, como ilustrador, fotógrafo, etc.
+Como usuario, quiero establecer un alcance mediante búsquedas por nombre a un rol específico, como ilustrador, fotógrafo, etc.
+Como administrador de repositorios, quiero indicar todos los temas que son pertinentes a una colección, objeto o componente de objeto.
+Como usuario, deseo buscar colecciones, objetos y componentes de objetos por los encabezados pertinentes, incluidos título, tema, género / forma, nombre geográfico, función, ocupación, nombre, cartografía, etc.
+Como administrador de repositorios, quiero indicar las coordenadas geográficas de cualquier recurso que crea útil para un usuario final.
+Como usuario, quiero ver el contexto geográfico de una colección, objeto o componente de objeto, cuando sea pertinente.
+Como administrador de repositorios, quiero indicar todas las demás versiones o descripciones pertinentes de un recurso que son externas al DAMS.
+Como usuario, quiero conocer todas las demás versiones o descripciones pertinentes del recurso.
+Como administrador del repositorio, quiero saber si la suma de comprobación de alguno de los archivos de contenido de mi repositorio ha cambiado.
+Como administrador de DAMS, quiero saber, a través del administrador de preservación, todos los archivos para los que la suma de verificación ha cambiado desde la última vez que se registró.
+Como administrador de repositorios, quiero saber, cuando sea pertinente, el hardware y el software que se utilizan para generar un archivo de contenido.
+Como administrador de DAMS, quiero saber qué objetos o componentes de objetos aún están protegidos por derechos de autor y no se pueden mostrar sin una licencia o sin incurrir en riesgo.
+Como gerente de DAMS, quiero saber cuándo es probable que caduquen los derechos de autor de un objeto o componente de objeto según el estatuto jurisdiccional de derechos de autor.
+Como administrador de DAMS, quiero saber cuándo se modifica el estado de los derechos de autor de un objeto o componente de un objeto, ya sea de forma manual o automática.
+Como usuario, quiero saber si un objeto o componente de un objeto está protegido por derechos de autor y, cuando sea posible, quién es el titular de los derechos.
+Como gerente de DAMS, quiero conocer todos los estatutos pertinentes a un objeto o componente de un objeto.
+Como gerente de DAMS, quiero saber cuándo está programada la expiración de la pertinencia de un estatuto para un objeto o componente de objeto.
+Como gerente de DAMS, quiero saber cuándo se ha modificado la aplicación de un estatuto a un objeto o componente de un objeto, ya sea de forma manual o automática.
+Como administrador de DAMS, quiero saber si el contenido con derechos de autor tiene una licencia aplicable.
+Como administrador de DAMS, quiero saber si un objeto o componente de objeto está sujeto a una política de biblioteca que restringe el acceso de alguna manera.
+Como administrador de DAMS, quiero saber cuándo está programada la expiración de la aplicación de una política de biblioteca a un objeto o componente de objeto.
+Como administrador de DAMS, quiero saber si la aplicación de una política de biblioteca a un objeto o componente de objeto se ha modificado, ya sea de forma manual o automática.
+Como administrador de DAMS, quiero conocer todos los usos de un objeto o componente de objeto que están permitidos o restringidos según el estado de derechos del objeto o componente de objeto.
+Como gerente de DAMS, quiero saber las fechas en las que un permiso o restricción está activo.
+Como gerente de DAMS, quiero saber cuándo se modifican los actos permitidos y restringidos y / o sus fechas activas.
+Como administrador de DAMS, quiero realizar un seguimiento de todos los eventos programados para su grabación en DAMS.
+Como gerente de DAMS, quiero conocer el (los) agente (s) responsable (s) de realizar un evento.
+Como administrador de DAMS, quiero saber el resultado del evento, por ejemplo, se eliminó el objeto NN.

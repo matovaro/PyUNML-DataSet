@@ -1,0 +1,58 @@
+Como paciente, quiero acceder a mi propio registro médico para poder ver mi historial médico.
+Como empleado de UHOPE, quiero ingresar la información del paciente solo una vez en la base de datos de registros médicos electrónicos, para no tener que ingresarla varias veces en diferentes bases de datos.
+Como empleado de UHOPE, quiero ver la información del paciente a la que se me permite acceder que un empleado de UHOPE de otro departamento haya ingresado en la base de datos de registros médicos electrónicos, para que la información no tenga que intercambiarse manualmente entre diferentes bases de datos.
+Como recepcionista, quiero buscar el archivo de un paciente en la base de datos de registros médicos electrónicos, para no tener que pedir su información cada vez que un paciente llama para una cita e ingresarla manualmente.
+Como recepcionista, quiero editar la información en el archivo de un paciente en la base de datos de registros médicos electrónicos solo una vez, para no tener que editarlo varias veces en diferentes bases de datos.
+Como médico, quiero ingresar la información de la cita en el sistema, para poder verificar lo que hice la próxima vez que venga el mismo paciente.
+Como médico, solo quiero acceder a los archivos médicos de mis propios pacientes, para que ningún otro médico pueda acceder a los archivos médicos de mis pacientes.
+Como recepcionista, quiero ver el expediente médico del paciente para poder confirmar que alguien es la persona adecuada para la cita.
+Como paciente, quiero ver los resultados de una prueba que se me realizó, para poder verla cuando quiera.
+Como paciente, quiero ver por qué me han tratado, para poder comprender mejor cómo me ayudó el médico.
+Como médico, quiero editar el expediente médico de un paciente para asegurarme de que reciba la vacuna correcta.
+Como UHOPE, quiero tener una base de datos de registros médicos electrónicos que tenga acceso a la base de datos nacional de registros médicos, para que podamos recopilar los archivos médicos de los nuevos pacientes.
+Como UHOPE, quiero tener un centro de autoservicio que contenga los mismos datos que la base de datos de registros médicos electrónicos, para que pueda permitir que mis empleados realicen análisis de datos.
+Como empleado de UHOPE, quiero ver todos los datos en el centro de autoservicio, para poder decidir
+qué datos realizar el análisis de datos
+Como empleado de UHOPE, quiero buscar datos específicos en el centro de autoservicio por palabra clave, para poder realizar análisis de datos.
+Como empleado de UHOPE, quiero seleccionar qué variables quiero usar en el centro de autoservicio, para poder realizar análisis de datos.
+Como enfermera, quiero ver el historial médico de un paciente en mi teléfono móvil, para poder comprobar su tipo de sangre más rápido que con una computadora.
+Como recepcionista, quiero ver el horario de un médico en una tableta, para poder verificar su disponibilidad mientras camino a algún lugar
+Como enfermera, quiero tener dispositivos hospitalarios móviles que transfieran automáticamente la información recopilada al expediente médico del paciente, para no tener que insertar la información manualmente.
+Como enfermera, quiero tener dispositivos hospitalarios móviles que transfieran automáticamente los datos que midió al expediente médico del paciente, para no tener que insertar los datos manualmente.
+Como recepcionista, quiero cambiar manualmente la hora de inicio de una cita, para poder proporcionar al sistema la información correcta en caso de que una cita comience más tarde de lo esperado.
+Como recepcionista, quiero cambiar manualmente la hora de finalización de una cita, para poder proporcionar al sistema la información correcta en caso de que la cita tarde más de lo esperado
+Como paciente, quiero ver los horarios disponibles de mi médico para poder programar una cita yo mismo.
+Como UHOPE, quiero que el sistema de programación apruebe automáticamente la cita de un paciente, de modo que la recepcionista no tenga que aprobarla manualmente.
+Como recepcionista, quiero desaprobar manualmente las citas, para poder cancelar una cita en caso de que el médico esté enfermo.
+Como paciente, quiero elegir el motivo para programar una cita, de modo que pueda permitir que mi médico se prepare para mi cita.
+Como recepcionista, quiero que el sistema de programación envíe automáticamente un correo electrónico al paciente cuando cancele la cita, para que el paciente sea notificado.
+Como recepcionista, quiero tener un sistema de programación que me muestre el horario de la habitación, para poder asignar citas a ciertas habitaciones.
+Como recepcionista, quiero tener un sistema de programación que me muestre el horario de todas las enfermeras, para poder asignar una enfermera a una cita.
+Como recepcionista, quiero tener un sistema de programación que me muestre el horario de todos los médicos, para poder reprogramar las citas si es necesario.
+Como recepcionista, quiero elegir manualmente un intervalo de tiempo para programar una cita para un paciente, de modo que pueda ayudar a un paciente cuando llame para una cita.
+Como paciente, quiero cancelar mi cita, para poder notificar al hospital en caso de que no pueda asistir.
+Como UHOPE, quiero permitir que los pacientes cancelen sus citas hasta 12 horas antes de su cita a través del sistema de programación, para que la recepcionista tenga tiempo suficiente para reprogramar al médico.
+Como médico, quiero ver mi horario, para poder ver quién es mi próximo paciente y poder prepararme para la cita.
+Como médico, quiero ver el motivo de la visita de un paciente, para poder prepararme para la cita.
+Como UHOPE, quiero permitir que el sistema de facturación cree automáticamente una factura basada en la hora de inicio y finalización de una cita, para que un empleado del departamento de facturación no tenga que crearla manualmente.
+Como UHOPE, quiero permitir que el sistema de facturación cree automáticamente una factura basada en la información de la cita, para que un empleado del departamento de facturación no tenga que crearla manualmente.
+Como UHOPE, quiero habilitar el sistema de facturación para que tenga una base de datos de precios que estén vinculados a tratamientos específicos, para que el sistema de facturación pueda crear facturas automáticamente.
+Como empleado del departamento de facturación, quiero ver la hora de inicio y finalización de una cita, para poder verificar si la factura es correcta.
+Como empleado del departamento de facturación, quiero ver la fecha de una cita para poder comprobar si la factura es correcta.
+Como UHOPE, quiero enviar una factura al paciente dentro de los 30 días posteriores a la cita, para que el paciente pueda acudir a varias citas pero solo tenga que pagar una.
+Como UHOPE, quiero facturar al paciente el mes en que ingresó aunque la factura se envíe un mes después, para que la factura corresponda a la fecha en que ingresó el paciente.
+Como empleado del departamento de facturación, quiero ver la información de la cita que el médico ingresó en el sistema, para poder verificar si la factura es correcta.
+Como UHOPE, quiero tener un sistema de gestión hospitalaria que cumpla con las regulaciones de GDPR, para que no nos metamos en problemas.
+Como paciente, quiero cambiar mi dirección en mi cuenta personal, para que mi información coincida con mi dirección real.
+Como usuario, quiero tener un número de identificación único, para poder identificarme en el sistema.
+Como usuario, quiero ingresar mi número de identificación único y mi contraseña para iniciar sesión, para poder acceder al sistema.
+Como empleado de UHOPE, quiero iniciar sesión con autenticación de dos factores usando mi teléfono solo la primera vez que quiero iniciar sesión en el sistema cada día, para minimizar el tiempo para iniciar sesión durante el día.
+Como paciente, siempre quiero iniciar sesión con autenticación de dos factores usando mi teléfono, para que nadie más que yo pueda acceder a mi información personal.
+Como administrador del sistema, quiero cambiar los derechos de acceso de los usuarios para poder controlar lo que los usuarios pueden y no pueden hacer.
+Como administrador del sistema, quiero cambiar los derechos de acceso de los grupos de usuarios para poder controlar lo que el usuario puede y no puede hacer
+Como UHOPE, quiero tener un sistema de gestión hospitalaria que esté en línea las 24 horas del día y los 7 días de la semana, para que los empleados de UHOPE siempre puedan hacer su trabajo.
+Como UHOPE, quiero tener datos en la Base de Datos de Historial Médico Electrónico que sea accesible las 24 horas del día y los 7 días de la semana, para que los empleados de UHOPE siempre puedan hacer su trabajo.
+Como UHOPE, quiero crear acceso al Sistema de Gestión del Hospital para al menos los 7600 empleados al mismo tiempo, para que cada empleado pueda hacer su trabajo.
+Como UHOPE, quiero tener al menos una copia de seguridad en todo momento de cada pieza de información en todo el sistema, para que los datos estén siempre disponibles incluso si algo le sucede al sistema.
+Como paciente, quiero ver los expedientes médicos de mis hijos menores de edad para poder verificar su información.
+Como UHOPE, quiero duplicar el expediente médico de cada paciente, para poder transferirlo a la Base de Datos Nacional de Registros Médicos.

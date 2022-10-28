@@ -1,0 +1,69 @@
+Como usuario anónimo, quiero ver una lista de patrocinadores, para poder agradecer a todos los patrocinadores increíbles.
+Como usuario anónimo, quiero ver una lista de perfiles de usuario para saber quién asiste a la conferencia.
+Como coordinador de capacitación, quiero enviar un correo electrónico a todos los capacitadores a la vez desde el sitio web para obtener información y actualizaciones, para que sea más fácil de usar.
+Como asistente, quiero tener un mapa muy claro de dónde están los edificios y las salas, para poder llegar a clase a tiempo.
+Como capacitador, quiero editar mi nodo de capacitación yo mismo, para que los coordinadores de capacitación no tengan que hacerlo ni enlaces a diapositivas.
+Como aprendiz, quiero limitarme a un registro por día por usuario autenticado, para que no tengamos espacios duplicados.
+Como coordinador de capacitación, quiero tener una vista de administrador que ayude a rastrear el estado de registro de cada asistente para que podamos ver si el asistente, reembolsado, no se presentó.
+Como asistente, quiero que me agreguen a una lista de espera de capacitación, para que puedan ser considerados para una clase.
+Como aprendiz, quiero aceptar los términos de cancelación con una casilla de verificación, para que puedan ser responsables.
+Como coordinador de capacitación, quiero vincular una fecha límite de cancelación a cualquier flujo de trabajo de registro / cancelación que exista, de modo que no perdamos dinero ni lugares.
+Como aprendiz, quiero agregar a "mi agenda" si hay una función de programación en el sitio, para que puedan programar su experiencia en el evento.
+Como aprendiz, quiero ver a qué capacitaciones me he inscrito, para que puedan programar su experiencia en el evento.
+Como capacitador, quiero tener una vista adjunta a su nodo de capacitación que muestre toda la información de los asistentes. Los capacitadores pueden ver toda la asistencia a la clase al principio porque hay muy pocos capacitadores y se les confía la privacidad, de modo que el coordinador de capacitación no lo ve. No tiene que hacer todo el trabajo para obtener información de inicio de sesión para la configuración del entorno.
+Como coordinador de entrenamiento, quiero tener una vista de administrador en la que se muestre toda la información del alumno y se pueda filtrar para mostrar una sola sesión de entrenamiento, de modo que pueda ver que WTF está sucediendo.
+Como usuario anónimo, quiero tener una página dedicada para cada clase para obtener más información sobre la oferta Se debe mostrar la siguiente información: logotipo, título, capacitadores, ubicación, posiblemente una vista de mapa, fecha y hora, nivel de habilidad, inscripciones restantes, enlace a registrarse para la clase. La ruta de la URL debe ser compatible con SEO / training / training-title, de modo que pueda elegir la clase correcta Y el capacitador pueda twittear y promocionar su clase.
+Como usuario anónimo, quiero tener las opciones de capacitación claramente marcadas para la siguiente información: día y hora de la capacitación, título, resumen breve, capacitadores, nivel, número de inscripciones, inscripciones restantes, ubicación de la capacitación, enlace a los detalles completos de la formación, regístrese ahora enlace, de modo que pueda comprar cursos de formación en una sola página Y encontrar su clase en una página.
+Como usuario anónimo, quiero tener una página de inicio de capacitación con una sección de introducción y una lista de todas las ofertas de capacitación y promocionar la convocatoria de capacitaciones, de modo que pueda comprar capacitación, todo en una página y podemos tener una convocatoria de capacitación para selección. .
+Como usuario anónimo, quiero tener un enlace en la página de inicio a una lista de opciones de capacitación, para poder tomar capacitación.
+Como usuario anónimo, quiero saber dónde está la sala de codificación y a qué hora está abierta, para poder codificar con mis amigos.
+Como administrador, quiero reembolsar el dinero del patrocinio que se procesó a través de stripe, para que la gente recupere su dinero.
+Como usuario autenticado, quiero encontrar un enlace en la página de patrocinios para convertirme en un patrocinador de nivel de $ 350, para poder pagar y convertirme en patrocinador.
+Como usuario anónimo, quiero ver una lista de asistentes asociados con esta empresa, para saber quién de esta organización patrocinadora está asistiendo.
+Como usuario autenticado, quiero identificarme y pagar por un patrocinio de la empresa de $ 350, para poder convertirme fácilmente en un patrocinador en este nivel sin tener que interactuar con el personal de badcamp para obtener un patrocinio.
+Como administrador, quiero crear y mantener lugares, de modo que pueda proporcionar detalles de ubicación para ayudar a los usuarios a encontrar lo que buscan.
+Como usuario anónimo, quiero ver los detalles del lugar para poder tener una idea de la ubicación y ver los eventos que ocurren allí.
+Como usuario anónimo, quiero ver una lista de las sesiones asociadas con los patrocinadores asistentes, para saber dónde puedo relacionarme con este patrocinador y dónde son líderes de opinión.
+Como usuario autenticado, quiero ver una página de pago para pagar mis patrocinios individuales como tercer paso del proceso de registro para pagar mi patrocinio.
+Como administrador, quiero asignar patrocinadores a eventos, capacitaciones y cumbres para que aparezcan en la página de detalles del patrocinador.
+Como usuario anónimo, quiero ver todos los eventos, capacitaciones y cumbres que patrocina un patrocinador para saber dónde puedo relacionarme con este patrocinador y dónde son líderes de opinión.
+Como usuario autenticado, deseo ingresar la información de pago y que se cargue a mi tarjeta por un patrocinio individual, para poder pagar un patrocinio individual.
+Como patrocinador, quiero vincular a los asistentes de BADCamp a mi página de patrocinio, para poder mostrar nuestro nivel de asistencia.
+Como usuario autenticado, quiero actualizar mi perfil de usuario para poder conectarme con otros Drupalists en BADCamp.
+Como usuario anónimo, quiero suscribirme a la newsletter de BADCamp, para estar al día de las últimas comunicaciones sobre BADCamp.
+Como administrador, quiero etiquetar las publicaciones de mi blog para que las consuma Drupal Planet, de modo que se incluyan en el blog de Drupal Planet.
+Como administrador, quiero crear publicaciones de blog para poder compartir la información más reciente sobre BADCamp con el público.
+Como usuario anónimo, quiero leer el blog para poder estar informado sobre los últimos acontecimientos de BADCamp.
+Como patrocinador, quiero patrocinar una cumbre que coincida con mi marca, para poder exponerme a clientes potenciales y, de lo contrario, promocionar mis credenciales de Drupal.
+Como asistente, quiero registrarme para una cumbre, para poder reservar mi asiento en la cumbre.
+Como asistente, quiero obtener instrucciones detalladas sobre el lugar de la cumbre, para poder llegar fácilmente a la cumbre el día del evento.
+Como asistente, quiero ver en qué cumbres estoy inscrito, para poder confirmar mi asistencia y evitar que accidentalmente haga doble reserva con una capacitación u otra cumbre.
+Como coordinador de la cumbre, quiero ver una lista de los asistentes inscritos en mi cumbre, para poder comunicarme con mis asistentes por correo electrónico antes del evento.
+Como coordinador de la cumbre, quiero enumerar información básica sobre mi cumbre, para poder informar a los posibles asistentes sobre por qué deberían asistir a mi cumbre.
+Como coordinador de la cumbre, quiero enumerar los patrocinadores de mi cumbre, para poder asegurarme de que los patrocinadores se sientan recompensados ??y estén interesados ??en patrocinar en años futuros.
+Como coordinador de la cumbre, quiero enumerar una agenda para mi cumbre, de modo que pueda atraer a los asistentes y dar comentarios positivos a los presentadores para alentar la participación.
+Como usuario anónimo, quiero ver cuántos asientos quedan para la cumbre, para poder asegurarme de registrarme a tiempo para reservar mi lugar.
+Como usuario anónimo, quiero ver detalles específicos sobre las cumbres, para poder aprender más sobre la cumbre que me interesa para ver si coincide con mis intereses, registrarme para el evento y obtener información sobre el día que me ayude a obtener a la ubicación.
+Como usuario anónimo, quiero ver una lista de todas las cumbres, para poder determinar a qué cumbre podría estar interesado y poder asistir.
+Como usuario anónimo, quiero aprender sobre los niveles de patrocinio, para poder determinar el nivel correcto de patrocinio para mi organización.
+Como usuario autenticado, quiero usar un editor WYSIWYG para todo el contenido de formato largo, para no tener que saber HTML para actualizar mi contenido.
+Como patrocinador, quiero vincular mi perfil de patrocinio desde mis listas de trabajo, para que los reclutas puedan aprender más sobre mi organización.
+Como usuario anónimo, quiero aprender a publicar trabajos como patrocinador y contactar a la persona patrocinadora, para tener la oportunidad de publicar mi lista de trabajos en el sitio de BADCamp.
+Como patrocinador, quiero publicar un trabajo, para poder contratar talentos de Drupal de primer nivel.
+Como usuario autenticado, quiero ver la bolsa de trabajo, ¡para poder buscar un trabajo interesante en Drupal !.
+Como administrador, quiero asignar una habitación a un intervalo de tiempo y una ubicación, para poder completar el horario.
+Como usuario anónimo, quiero ver el horario, para poder planificar mi día y averiguar adónde ir.
+Como usuario anónimo, quiero ver la lista final de sesiones aprobadas, para poder ver qué está pasando en BADCamp.
+Como administrador, quiero aprobar sesiones masivas como aceptadas, para poder ahorrar tiempo.
+Como administrador, quiero marcar una sesión como aceptada para poder completar la programación.
+Como usuario anónimo, quiero recibir una notificación cuando se evalúen las sesiones, para saber si me han aceptado o rechazado.
+Como usuario anónimo, quiero recibir una notificación cuando envíe una sesión, para saber que mi sesión se realizó correctamente.
+Como usuario autenticado, quiero editar mi sesión, para que si cometo un error, pueda corregirlo.
+Como usuario anónimo, quiero registrarme para hablar en BADCamp, de modo que envíe una sesión.
+Como usuario autenticado, quiero enviar una sesión en BADCAMP, para poder evaluar mi sesión.
+Como patrocinador, quiero personalizar mi página de patrocinio para poder promocionar mi marca.
+Como usuario anónimo, quiero ver una lista de todas las cumbres que incluyen cuándo son, para poder determinar a qué cumbre quiero asistir.
+Como usuario autenticado, quiero que se me ofrezcan varias opciones de patrocinio individual en la segunda página de registro, para poder ser increíble y apoyar económicamente al campamento.
+Como usuario anónimo, quiero encontrar fácilmente un enlace en el menú que enlaza con el formulario de registro, para poder registrarme fácilmente en el campamento.
+Como usuario anónimo, quiero completar un formulario de registro de usuario, para poder registrarme en el campamento y obtener una cuenta en el sitio web.
+Como usuario anónimo, quiero buscar información de la sesión para poder ir a una sesión.

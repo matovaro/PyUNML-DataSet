@@ -1,0 +1,11 @@
+Dato
+Historico_trafico
+Nivel_ambiental
+Indicador
+Nivel_ruido
+Emision_CO2
+Nivel_contaminacion
+Empleado
+Mapa
+Mapa_trafico
+Mapa_calor

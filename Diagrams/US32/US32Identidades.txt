@@ -1,0 +1,7 @@
+Usuario
+Resultados_pruebas
+Paciente
+Enfermera
+Especialista_laboratorio
+Recepcionista
+Medico

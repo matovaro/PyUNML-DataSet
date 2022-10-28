@@ -1,0 +1,60 @@
+-Listado de Entidades:
+
+Dato 
+Elemento
+Colección 
+Resumen
+Estado
+Objeto
+Formulario
+Herramienta
+Widget
+Metadato
+Usuario
+Grupo 
+Articulo 
+Repositorio
+Permiso 
+Solicitud
+Registro 
+Interfaz 
+Clave
+Archivo
+Autor
+Creador
+Identificador
+Visitante
+Resolutor
+Responsable Financiero
+Contacto Financiero
+Informe
+Política Replicación
+Mensaje
+Pagina
+Notificación
+Pantalla
+Panel Estadística
+Almacenamiento
+Actividad
+Índice
+Versión
+Fecha
+Delimitador
+Lista
+Servicio
+Evento
+Aplicación
+Publicación
+Symplectic Elements
+Licencia
+Contenido
+Servidor
+Contribuyente
+Método
+Deposito
+Privilegio
+Formato
+Doi
+Carpeta
+Equipo
+

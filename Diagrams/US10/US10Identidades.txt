@@ -1,0 +1,6 @@
+Visitante
+Analista
+Administrador
+Consumidor
+Editor
+Propietario

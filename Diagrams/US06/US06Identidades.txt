@@ -1,0 +1,11 @@
+Administrador
+Capacitador
+Editor
+Empresa
+Entrenador
+Visitante
+Miembro
+Entrenador
+Formador
+Reclutador
+Practicante

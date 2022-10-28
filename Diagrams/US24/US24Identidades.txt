@@ -1,0 +1,10 @@
+Documento
+Resultados_pruebas
+Receta
+Enferemera
+Farmaceutico
+Paciente
+Medico
+Recepcionista
+Analista
+Admin

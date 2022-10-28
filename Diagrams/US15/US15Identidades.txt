@@ -1,0 +1,10 @@
+UserRegistrado
+Aprendiz
+Capacitador
+UserAnonimo
+Administrador
+CoordCapacitacion
+Patrocinador
+Asistente
+CoordCumbre
+CoordEntretenimiento

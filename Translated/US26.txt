@@ -1,0 +1,42 @@
+Como IFA, quiero que toda la información sobre los juegos actuales se actualice en los portales del sistema en tiempo real para que el portal del sistema sea la única fuente oficial de información sobre la liga y sus juegos.
+Como IFA, quiero limitar la capacidad de informar sobre los juegos en mi sistema a los árbitros solo para que tenga una fuente de información autorizada sobre el juego.
+Como árbitro principal, quiero tener una herramienta de informes basada en dispositivos móviles para poder informar los eventos del juego en tiempo real.
+Como árbitro lateral, quiero tener una herramienta de informes basada en dispositivos móviles para poder informar los eventos del juego en tiempo real.
+Como prospecto / nuevo equipo, quiero tener acceso a un portal dedicado para poder registrar a mi equipo en la liga.
+Como director de equipo, quiero poder añadir, editar o eliminar los datos de mis jugadores para poder gestionar la contratación de nuevos jugadores o la transferencia de los existentes.
+Como IFA, quiero acceder a los registros de los equipos, incluidas las transacciones, transferencias de jugadores y eventos para poder realizar un seguimiento de las actividades de las ligas.
+Como IFA, quiero poder considerar árbitros nuevos / potenciales a través del sistema para poder evaluar su perfil para el reclutamiento.
+Como IFA, quiero poder modificar los parámetros del sistema de programación de juegos para poder controlar el proceso de programación automática.
+Como IFA, quiero que el sistema genere automáticamente un calendario de juegos para cada liga en función de los parámetros especificados para minimizar los sesgos.
+Como IFA, quiero que mis agentes puedan modificar los horarios de juego generados automáticamente para que los eventos y situaciones especiales se consideren con anticipación.
+Como IFA, quiero que cada modificación manual del horario de juego sea aprobada por dos agentes (iniciador y aprobador) para minimizar los sesgos y errores.
+Como IFA, quiero poder cambiar el horario del juego más tarde con la justificación adecuada después de que se anunció para poder acomodar eventos imprevistos (clima, emergencias ...).
+Como árbitro, quiero comunicar mis preferencias de horario con la IFA con anticipación para que se acomoden mis compromisos personales.
+Como IFA, quiero que el sistema de asignación de árbitros tenga en cuenta los requisitos predefinidos al establecer el calendario de árbitros para minimizar la necesidad de reasignar árbitros (reprogramar árbitros).
+Como IFA, quiero que el sistema notifique a los árbitros sobre la cancelación de juegos por teléfono en lugar del portal en línea para asegurarme de que reciban y reconozcan las actualizaciones sobre cancelaciones.
+Como IFA, quiero monitorear los presupuestos de los equipos.
+Como IFA, quiero acceder a los presupuestos de los equipos en tiempo real en lugar de anualmente para supervisar el cumplimiento de las políticas.
+Como IFA, quiero limitar el acceso al presupuesto de cada equipo solo a los oficiales del equipo y a la gerencia de IFA para mantener la confidencialidad de los presupuestos.
+Como gerente de equipo, quiero poder conectar mi sistema al IFA para poder informar en tiempo real.
+Como IFA, quiero brindar acceso abierto a toda la información sobre juegos, equipos y resultados para mejorar la transparencia de las ligas.
+Como IFA, quiero que el sistema presente estadísticas sobre juegos, jugadores, equipos y entrenadores para poder administrar la fuente oficial de dichas estadísticas.
+Como fan invitado, quiero tener acceso a toda la información sobre juegos, equipos, estadísticas de ligas y resultados para no tener que buscar datos en diferentes fuentes.
+Como aficionado registrado, quiero tener acceso a toda la información sobre partidos, equipos y resultados para no tener que buscar datos en diferentes fuentes.
+Como fan registrado, quiero poder seguir a mis equipos, jugadores y / o juegos preferidos para poder recibir notificaciones automáticas sobre los equipos, jugadores y / o juegos.
+Como fan registrado, quiero recibir notificaciones de recordatorio antes de los juegos que sigo.
+Como fan registrado, quiero recibir notificaciones de recordatorio sobre cancelaciones de juegos a través del portal.
+Como periodista / agente de noticias, quiero poder exportar información sobre los equipos, jugadores y / o partidos para tener una única fuente de información oficial.
+Como jugador, quiero poder actualizar mi perfil en el portal de fans.
+Como IFA, quiero que el sistema esté estructurado como un sistema con diferentes interfaces (fanáticos, equipos, IFA) para evitar inconsistencias y datos redundantes.
+Como IFA, quiero que el sistema admita hasta 50.000 ventiladores simultáneamente.
+Como IFA, quiero que el tiempo de respuesta del sistema para los fanáticos, la administración del equipo y la administración de IFA no exceda de 1 segundo para mejorar la experiencia de los usuarios.
+Como IFA, quiero que las actualizaciones en tiempo real de los árbitros de los juegos tengan prioridad sobre cualquier otro flujo de datos en el sistema para que las actualizaciones sean lo más rápidas posible.
+Como árbitro, quiero estar conectado al sistema en tiempo real durante los juegos para poder proporcionar las actualizaciones de estado lo más rápido posible sin ralentizarme ni obstaculizar mi capacidad para administrar el juego.
+Como IFA, quiero que el sistema sea localizable para que pueda adaptarse a diferentes regulaciones locales, idiomas, monedas y zonas horarias.
+Como IFA, quiero que el equipo de TI de IFA pueda decidir la asignación de datos a diferentes centros de datos para que el sistema cumpla con diferentes regulaciones de datos.
+Como IFA, quiero que el sistema mantenga la información archivada de años anteriores para que sea accesible para el personal de los medios y los fanáticos interesados ??(por ejemplo, juegos de azar).
+Como IFA, quiero que toda la información relacionada con el presupuesto esté encriptada para mantener la confidencialidad del presupuesto.
+Como IFA, quiero que el sistema se pueda implementar de manera modular para poder priorizar mis etapas de implementación 9.
+Como IFA, quiero que el sistema se adapte a los nuevos módulos para poder agregar nuevas funcionalidades en las próximas versiones 10.
+Como IFA, quiero que se subcontrate el desarrollo, la implementación y el mantenimiento del sistema.
+Como IFA, quiero que el equipo de TI de IFA actúe como cliente del desarrollador del sistema para que se encargue de toda la comunicación entre IFA y el desarrollador.

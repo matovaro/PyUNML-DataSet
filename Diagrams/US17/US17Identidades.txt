@@ -1,0 +1,10 @@
+Administrador
+Admin_apps
+Admin_repo
+Admin_sistemas
+Usuario
+UsuarioBDE
+UsuarioRO
+Migracion
+Investigador
+Archivero

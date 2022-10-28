@@ -1,0 +1,11 @@
+Desarrollador
+Admin
+Usuario
+Usuario_API
+Dato
+Ususario_publicacion
+Usuario_datos
+Modelo_dato
+JSON
+Google_sheets
+Excel

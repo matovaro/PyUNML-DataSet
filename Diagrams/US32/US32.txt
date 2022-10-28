@@ -1,0 +1,35 @@
+Como usuario, debería poder utilizar el sistema en cualquier momento
+Como paciente, quiero asignar un médico a mi perfil médico para que pueda acceder a él.
+Como médico, no debería poder ver los registros médicos de los pacientes a los que no estoy asignado, de modo que se mantenga la confidencialidad del paciente.
+Como médico, debería poder asignar otro médico al registro médico, en caso de que sea necesario involucrar a varios médicos de diferentes especialidades.
+Como médico, debería poder transferir la historia clínica digital a este sistema, para tener toda la información consolidada en un solo lugar.
+Como paciente, quiero poder acceder a mi registro médico, para poder ver los detalles del registro médico.
+Como médico, quiero poder acceder al registro médico del paciente para poder ver los detalles del registro médico.
+Como especialista de laboratorio, quiero poder acceder al registro médico del paciente, para poder ver los detalles del registro médico.
+Como paciente, quiero poder editar partes específicas de mi registro médico, para poder mantener mi registro actualizado.
+Como médico, quiero poder editar partes específicas del registro médico del paciente al que estoy asignado, para poder mantener el registro actualizado y para que otros usuarios involucrados puedan ver los cambios que he realizado.
+Como especialista de laboratorio, quiero poder editar partes específicas del registro médico del paciente al que estoy asignado, para poder mantener el registro actualizado y para que otros usuarios involucrados puedan ver los cambios que he realizado.
+Como paciente, quiero poder vincular mi dispositivo de fitness a este software, para poder utilizar los datos que genera mi dispositivo de fitness.
+Como paciente, quiero poder cargar mis datos de fitness en este software, para que los médicos puedan tener más información sobre mi vida diaria.
+Como especialista de laboratorio, quiero poder cargar los resultados de laboratorio en el registro médico, para que el médico asignado y el paciente puedan ver los resultados.
+Como enfermera, quiero poder vincular un dispositivo externo al software, para que los datos generados se puedan cargar automáticamente en el software.
+Como médico, quiero poder vincular un dispositivo externo al software, para que los datos generados se puedan cargar automáticamente en el software.
+Como paciente, quiero poder ver los resultados de dispositivos externos (presión arterial, tomografías computarizadas, etc., para poder monitorear mi progreso a lo largo del tiempo.
+Como médico, quiero poder ingresar los resultados de los dispositivos externos manualmente, de modo que, en caso de que haya un mal funcionamiento en el proceso de vinculación o en el dispositivo externo, aún pueda ingresar el resultado en el registro médico.
+Como médico, quiero poder editar y agregar notas a diferentes partes de los registros médicos, para poder evaluar mejor la situación y mantenerme informado para la próxima vez que lea el registro médico.
+Como paciente, quiero poder otorgar o rechazar la autorización para vincular un dispositivo externo (i banda de fitness) a mi historial médico, para poder mantener mi confidencialidad.
+Como paciente, debería poder controlar quién puede ver los datos generados por mis dispositivos externos, para poder mantener mi privacidad.
+Como paciente, quiero poder iniciar sesión en el software usando DigiD, porque es conveniente y ahorra tiempo.
+Como usuario, quiero tener un inicio de sesión único (nombre de usuario y contraseña), para que el sistema sea más seguro.
+Como médico, debería poder solicitar que los especialistas del laboratorio realicen un examen médico, de modo que pueda tenerlo en el historial médico del paciente.
+Como médico, debería poder calificar la importancia de la prueba médica (urgente o no), para que los especialistas del laboratorio puedan administrar mejor su tiempo y trabajar en lo que es más importante primero.
+Como especialista de laboratorio, debería poder ver las pruebas médicas solicitadas para poder empezar a trabajar en ellas.
+Como especialista de laboratorio, debería poder agregar una nota a los resultados de las pruebas de laboratorio, para que el médico pueda comprender mejor los resultados.
+Como paciente, quiero poder ver los resultados de mis pruebas de laboratorio en mi historial médico, para tener todo en un solo documento.
+Como especialista de laboratorio, quiero poder vincular una prueba de laboratorio con un registro médico, de modo que todo pueda estar contenido en un solo documento.
+Como recepcionista, quiero poder reservar una cita para un paciente con un médico.
+Como recepcionista, quiero poder asignar una cama para un paciente, para que el paciente tenga un lugar donde quedarse mientras está en el hospital.
+Como recepcionista, quiero poder asignar un médico para un paciente, de modo que si el paciente no conoce a ningún médico, pueda hacerlo por ellos.
+Como usuario, quiero poder acceder al sistema desde diferentes dispositivos (teléfono móvil, tabletas, computadoras, etc.) para poder usar lo que esté disponible para acceder al software.
+Como usuario, quiero poder acceder a cualquier documento sin importar en qué departamento esté, para poder tener una mejor accesibilidad
+Como usuario, quiero poder acceder al sistema / para tener la máxima disponibilidad y asegurarme de que mis usuarios puedan usar el sistema en cualquier momento.

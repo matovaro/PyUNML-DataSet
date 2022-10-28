@@ -1,0 +1,32 @@
+Como empleado de UMD, quiero ver una simulación en tiempo real de la situación actual del tráfico en Wonderland, para poder tomar decisiones más informadas.
+Como empleado de UMD, quiero un mapa actualizado de las calles de Wonderland (que incluya diferentes tipos de carreteras y obstáculos), para tener una base precisa para el simulador de tráfico.
+Como empleado de UMD, quiero ver el tráfico actual en el mapa (recopilado de los sensores en Wonderland), para conocer la situación actual, incluidas las áreas ocupadas y las congestiones.
+Como empleado de UMD, quiero poder ver un mapa de calor del tráfico, para poder ver rápidamente cómo se propaga la aglomeración en Wonderland en este momento.
+Como empleado de UMD, quiero ver las medidas ambientales (tomadas en puntos de la ciudad), en tiempo real en el mapa, para saber cómo la situación actual del tráfico está afectando al medio ambiente.
+Como empleado de UMD, quiero ver las emisiones generales de co2 en tiempo real, para saber qué tan dañina es la situación del tráfico para el medio ambiente.
+Como empleado de UMD, quiero ver el nivel de ruido en tiempo real por punto de medición en el mapa, para poder ver si los niveles de ruido no exceden los límites legales.
+Como empleado de UMD, quiero ver el nivel general de contaminación del aire en tiempo real, para saber qué tan dañina es la situación del tráfico para el medio ambiente.
+Como empleado de UMD, quiero ver los niveles de contaminación del aire en tiempo real por punto de medición en el mapa, para poder verlo cuando una determinada área se está contaminando demasiado.
+Como empleado de UMD, quiero que se guarden todos los datos históricos, para poder crear información significativa sobre estos datos en un momento posterior.
+Como empleado de UMD, Quiero guardar los datos del simulador (mapa, tráfico y mapa de calor) de cada momento junto con ese tiempo específico, para poder verlos en un momento posterior.
+Como empleado de UMD, Quiero guardar las medidas ambientales de cada momento junto con ese momento específico, para poder analizarlas en un momento posterior.
+Como empleado de UMD, quiero poder comparar datos históricos de tráfico, de modo que pueda usar los datos para crear análisis significativos.
+Como empleado de UMD, Quiero poder seleccionar un período de tiempo específico para ver los "datos" de
+Como empleado de UMD, Quiero poder comparar los datos de 2 momentos diferentes uno al lado del otro, para poder comparar las 2 situaciones entre sí.
+Como empleado de UMD, Quiero usar datos históricos para comparar múltiples situaciones para comparar los resultados de 2 soluciones diferentes que hemos construido.
+Como empleado de UMD, Quiero poder realizar análisis repetibles para situaciones que son similares, para que el flujo de trabajo se acelere
+Como empleado de UMD, quiero poder hacer predicciones sobre situaciones de tráfico futuras basadas en situaciones similares en el pasado, para poder tomar decisiones más informadas.
+Como empleado de UMD, quiero saber cuándo se espera que un área esté demasiado concurrida, para poder trabajar en una solución para evitar el problema.
+Como empleado de UMD, quiero hacer predicciones sobre las consecuencias de cambiar la planificación urbana de Wonderland, para poder confiar en los datos a la hora de tomar una decisión.
+Como empleado de UMD, quiero ver la credibilidad del simulador de predicción, para saber cuánto puedo confiar en los datos del sistema.
+Como empleado de UMD, quiero comparar los niveles ambientales predichos del simulador con los niveles reales medidos por los sensores.
+Como empleado de UMD, quiero que los sistemas sean fáciles de usar, para poder comprender rápidamente todas las funciones del sistema.
+Como empleado de UMD, quiero poder agregar más fuentes de datos de forma independiente más adelante, para poder mantenerme actualizado con los datos más completos.
+Como empleado de UMD, cuando las medidas de más sensores estén disponibles, quiero agregarlas al mapa, para que mi simulador sea lo más preciso posible.
+Como empleado de UMD, cuando haya nuevas fuentes de datos disponibles, quiero usarlas para que mi simulador sea lo más preciso posible.
+Como empleado de UMD, quiero que el sistema esté siempre disponible, para poder acceder a él cuando lo necesite.
+Como empleado de UMD, quiero poder acceder al sistema las 24 horas del día, los 7 días de la semana, para poder trabajar en turnos flexibles.
+Como empleado de UMD, quiero que el sistema se inicie en 2 minutos, para poder actuar rápidamente cuando sea necesario.
+Como empleado de UMD, quiero una plataforma que las personas del departamento puedan operar de forma independiente, para no tener que preguntarle a un experto.
+Como empleado de UMD, quiero que el software pueda acceder desde computadoras remotas, para que mis empleados puedan trabajar desde casa.
+Como empleado de UMD, quiero poder tomar instantáneas de días específicos, o partes del día, para poder ejecutar simulaciones en esos escenarios.

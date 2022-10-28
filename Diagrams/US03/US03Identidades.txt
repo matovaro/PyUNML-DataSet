@@ -1,0 +1,8 @@
+Administrador
+Ejecutivo
+Representante
+Intalacion
+Usuario
+Superusuario
+Recursos
+Contador

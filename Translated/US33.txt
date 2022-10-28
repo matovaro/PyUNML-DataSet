@@ -1,0 +1,36 @@
+Como IFA, quiero unir diferentes sistemas existentes para evitar tener que guardar datos redundantes.
+Como IFA, quiero que el sistema pueda manejar varios idiomas, de modo que pueda dar servicio a ligas en diferentes países.
+Como IFA, quiero que el sistema sea confiable mientras sea utilizado por al menos 50.000 personas al mismo tiempo, para que la experiencia del usuario sea satisfactoria.
+Como fan, quiero acceder al sistema en mi teléfono, para poder acceder a él donde sea que esté.
+Como oficial del partido, quiero acceder al sistema en mi teléfono, para poder acceder a él en el campo o mientras viajo al juego.
+Como empleado de IFA, quiero poder acceder al sistema desde un escritorio, para poder ingresar más fácilmente nuevos datos en el sistema.
+Como gerente de equipo, quiero poder acceder al sistema desde un escritorio, de modo que cometa menos errores al administrar mis activos.
+Como miembro del personal del equipo, quiero poder acceder al sistema desde un escritorio, para poder trabajar más fácilmente junto con otros miembros del personal.
+Como IFA, quiero que los usuarios del sistema solo obtengan acceso a las herramientas que son relevantes para ellos, para que el sistema sea menos confuso.
+Como IFA, quiero administrar ligas dentro del sistema, de modo que tenga un lugar para acceder a todos los datos necesarios.
+Como IFA, quiero poder ingresar diferentes conjuntos de reglas para diferentes competiciones, de modo que no se cometan errores al actualizar las tablas de clasificación, programar partidos o auditar presupuestos.
+Como administrador de IFA, quiero poder agregar nuevas ligas al sistema, para poder mantener el sistema actualizado.
+Como administrador de IFA, quiero poder registrar nuevos equipos en el sistema, de modo que pueda mantener el sistema actualizado.
+Como gerente de IFA, quiero poder aprobar nuevos equipos que estén registrados en el sistema de IFA, para poder mantener la integridad.
+Como gerente de IFA, quiero poder aprobar las nuevas ligas que se agregan al sistema, para poder mantener la integridad.
+Como empleado de IFA, quiero que la programación de juegos esté automatizada, para poder aliviar parte de mi carga de trabajo.
+Como IFA, quiero evitar sesgos como darles a los equipos un horario más ligero, para poder evitar cualquier reclamo de ventajas injustas.
+Como empleado de IFA, quiero automatizar la asignación de oficiales de partidos a los juegos, para poder aliviar parte de mi carga de trabajo.
+Como IFA, quiero aplicar automáticamente las reglas de la liga, como no permitir que los mismos oficiales de partido arbitren el mismo equipo varias veces, para evitar reclamos sobre los oficiales de partido que causen una ventaja injusta.
+Como IFA, quiero evitar conflictos entre los horarios de los juegos y los horarios personales de los oficiales de partidos, para no tener que reprogramar los juegos como resultado de esto.
+Como oficial de partido, quiero que se tengan en cuenta mis franjas horarias, fechas y lugares preferidos para oficiar los juegos al hacer mi horario, de modo que no tenga que trabajar en un momento que sea inconveniente para mí.
+Como IFA, quiero que la anulación de un cronograma generado requiera al menos dos empleados certificados de IFA, de modo que pueda evitar errores. Como auditor de presupuestos de IFA, quiero poder controlar y auditar la gestión presupuestaria de un equipo dentro del sistema, para poder reducir mi carga de trabajo.
+Como IFA, quiero que los equipos ingresen cada transacción que realizan en el sistema para poder asegurarme de que el equipo está siguiendo las reglas de su liga.
+Como auditor de presupuestos de IFA, quiero poder obtener rápidamente un informe generado por el sistema sobre la gestión del presupuesto de un equipo, para poder leer fácilmente su situación.
+Como gerente de equipo, quiero administrar las finanzas de mi equipo directamente dentro del sistema, para no tener que hacer un trabajo innecesario.
+Como gerente de equipo, quiero poder asignar roles y privilegios del sistema a diferentes miembros de mi equipo, para poder delegar tareas y ahorrar tiempo.
+Como fan, quiero que se me notifique lo antes posible sobre cambios importantes en el horario, como un inicio retrasado, para poder planificar en consecuencia.
+Como oficial del partido, quiero que se me notifique lo antes posible sobre cambios importantes en el calendario, como un inicio retrasado, para poder planificar en consecuencia.
+Como IFA, quiero que todas las partes interesadas de un evento de juego sean notificadas de la misma manera y al mismo tiempo, para que yo pueda ser más eficiente.
+Como fan, quiero poder elegir los eventos del juego de los que se me notificará, para no recibir demasiadas notificaciones de mi agrado.
+Como aficionado, quiero comprobar las estadísticas de diferentes partidos y las estadísticas de diferentes jugadores, para poder participar más en sus respectivas ligas.
+Como miembro del personal del equipo, quiero acceder a las estadísticas sobre diferentes partidos y diferentes jugadores, para poder elaborar una mejor estrategia.
+Como oficial del partido, quiero informar sobre los eventos del partido en vivo durante el partido, para no tener que registrar eventos dos veces.
+Como fan, quiero que los eventos del juego se informen en vivo para poder realizar un seguimiento de lo que está sucediendo lo más cerca posible.
+Como IFA, quiero que los oficiales del partido informen directamente sobre los eventos del juego, para poder evitar que las fuentes de datos no autorizadas sean relevantes.
+Como IFA, quiero que las estadísticas de los jugadores y los partidos se deriven directamente de los eventos del partido informados, de modo que no sea necesario realizar ningún trabajo adicional.

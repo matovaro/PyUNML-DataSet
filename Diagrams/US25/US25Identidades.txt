@@ -1,0 +1,11 @@
+Planificador
+Estimacion
+Nivel_ruido
+Costo_medida
+Indicador_contaminacion
+Informe
+Detallado_solucion
+Contaminacion
+Equidad
+Costo
+Resumen_ejecutivo

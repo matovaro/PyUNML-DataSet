@@ -1,0 +1,55 @@
+Como administrador del campamento, quiero almacenar la información de emergencia de los campistas en una base de datos, para poder notificar fácilmente a las partes necesarias en caso de una emergencia.
+Como administrador del campamento, quiero almacenar la información inmediata de los padres / tutores de los campistas, de modo que pueda llamarlos fácilmente para notificarlos en caso de un comportamiento extremadamente inaceptable.
+Como administrador del campamento, quiero crear una vía para que los padres puedan enviar comentarios e inquietudes generales, de modo que pueda seguir mejorando los servicios que proporciono.
+Como administrador del campamento, quiero hacer un seguimiento del uso de las instalaciones internas del campamento, para no crear horarios conflictivos para los diferentes grupos del campamento.
+Como administrador del campamento, quiero poder advertir a un trabajador del campamento que creo que hizo su trabajo de manera inapropiada.
+Como administrador del campamento, quiero poder agregar campistas, para poder realizar un seguimiento de cada campista individual.
+Como administrador del campamento, quiero poder agregar padres para que puedan inscribir a sus hijos en el campamento.
+Como administrador del campamento, quiero poder asignar diferentes puestos a los miembros del personal, de modo que sea posible organizar las actividades en términos de responsabilidades.
+Como administrador del campamento, quiero poder cargar formularios de consentimiento, para que los campistas o sus padres puedan acceder fácilmente a los formularios.
+Como administrador del campamento, quiero poder crear automáticamente etiquetas de identificación para los campistas, de modo que pueda reducir la cantidad de trabajo que necesito hacer.
+Como administrador del campamento, quiero poder crear grupos y agregar campistas a los grupos, para poder organizarlos fácilmente.
+Como administrador del campamento, quiero poder crear un formulario de registro tanto para el personal como para los niños, para poder mantenerme organizado.
+Como administrador del campamento, quiero poder crear y modificar las reglas que deben seguir los campistas y los trabajadores del campamento.
+Como administrador del campamento, quiero poder eliminar a los campistas de la base de datos, para poder mantener mis páginas libres de desorden.
+Como administrador del campamento, quiero poder eliminar a los padres de la base de datos, para poder mantener mis páginas libres de desorden innecesario.
+Como administrador del campamento, quiero poder eliminar las tareas / actividades que programé, para poder mantener el horario limpio de actividades innecesarias.
+Como administrador del campamento, quiero poder establecer recordatorios relacionados con tareas específicas que se deben realizar.
+Como administrador del campamento, quiero poder hacer etiquetas de identificación más rápido, para no tener que pasar dos horas haciendo más de 200 etiquetas de identificación.
+Como administrador del campamento, quiero poder hacer un seguimiento de qué campista envió qué formularios, para evitar problemas legales.
+Como administrador del campamento, quiero poder mantener mi información en un solo lugar, para que los administradores el próximo año puedan mejorar con respecto a los años anteriores.
+Como administrador del campamento, quiero poder mantener registros de campistas de años anteriores, de modo que se reduzca la cantidad de trabajo que tengo que hacer.
+Como administrador del campamento, quiero poder modificar la información de los campistas inscritos, para poder mantener actualizada la información de los campistas.
+Como administrador del campamento, quiero poder modificar la información de los padres agregados, para poder mantener actualizada la información de los padres.
+Como administrador del campamento, quiero poder modificar la información de un grupo, para poder mantener los grupos actualizados.
+Como administrador del campamento, quiero poder modificar las tareas / eventos que programé en caso de que haya un cambio, para poder mantener siempre actualizado el horario.
+Como administrador del campamento, quiero poder notificar a los padres a la vez, para que puedan ser notificados de cualquier evento próximo.
+Como administrador del campamento, quiero poder programar actividades para los campistas, de modo que los trabajadores del campamento puedan realizar un seguimiento de quién está y dónde en todo momento.
+Como administrador del campamento, quiero poder programar tareas / actividades para un grupo de campamento específico, de modo que pueda realizar un seguimiento de las actividades diarias / semanales y mensuales de cada grupo.
+Como administrador del campamento, quiero poder retirar a los campistas si ya no asisten al campamento, para poder mantener los registros organizados.
+Como administrador del campamento, quiero poder suspender a un campista que tuvo problemas de comportamiento.
+Como administrador del campamento, quiero poder ver los formularios médicos, para que podamos estar preparados para un ataque de alergia.
+Como administrador del campamento, quiero poder ver solo los eventos de un grupo / grupos específicos en el calendario de eventos, de modo que pueda leer fácilmente los datos en el calendario sin demasiado desorden.
+Como administrador del campamento, quiero poder ver todos mis grupos de campamento y los eventos programados para cada grupo de campamento, de modo que pueda notificar al consejero de lo que hará su grupo ese día.
+Como administrador del campamento, quiero proporcionar comentarios quincenales a los padres de los campistas, para que puedan estar al tanto del comportamiento y el desempeño de sus hijos en el campamento.
+Como administrador del campamento, quiero registrar rápidamente la asistencia todos los días, para poder rastrear qué niños están ingresando.
+Como consejero del campamento, quiero poder tomar la asistencia de mis hijos asignados, para poder asegurarme de que todos estén contabilizados.
+Como padre, quiero poder compartir las fotos que el campamento le haya tomado a mi hijo.
+Como padre, quiero poder conectarme con el personal en caso de una emergencia.
+Como padre, quiero poder crear una cuenta para poder inscribir a mis hijos en el campamento en línea.
+Como padre, quiero poder enviar mensajes a los consejeros de mi hijo, para poder expresar mis preocupaciones o verificar el progreso de mi hijo.
+Como padre, quiero poder enviar varios tipos de formularios a la dirección del campamento.
+Como padre, quiero poder firmar y enviar formularios de consentimiento en línea, para no tener que lidiar con que mi hijo pierda un formulario de consentimiento.
+Como padre, quiero poder hacer un seguimiento de la actividad y el horario de mi hijo en el campamento, para estar tranquilo.
+Como padre, quiero poder inscribir a mis hijos para que puedan ser admitidos en el campamento.
+Como padre, quiero poder ver qué formularios de consentimiento he enviado, para poder saber lo que todavía tengo que hacer.
+Como padre, quiero poder ver si hice todos los pagos necesarios.
+Como padre, quiero poder ver un cronograma de las actividades en las que participan mis hijos en el campamento, para poder estar más informado sobre lo que están haciendo en el campamento.
+Como padre, quiero poder ver y editar a mis hijos inscritos en el año del campamento, para poder saber a quién ya inscribí al campamento, quién aún está pendiente de admisión, etc.
+Como padre, quiero ver qué consejeros se asignan a mis hijos, para poder estar tranquilo.
+Como trabajador del campamento, puedo informar al gerente sobre un campista con un comportamiento inapropiado.
+Como trabajador del campamento, puedo informarle al gerente sobre las reparaciones necesarias que se necesitan para el campamento.
+Como trabajador del campamento, puedo informarle al gerente una lista de suministros que faltan en el campamento.
+Como trabajador del campamento, quiero poder ver de qué campistas estoy a cargo y dónde, para poder asegurarme de que estoy haciendo mi trabajo correctamente.
+Como trabajador del campamento, quiero poder ver de qué campistas estoy a cargo y dónde, para poder asegurarme de que estoy haciendo mi trabajo correctamente.
+Como trabajador del campo, podría presentar un informe de finalización de las tareas que se me asignaron.

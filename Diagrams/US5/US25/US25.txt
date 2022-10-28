@@ -1,0 +1,23 @@
+Como planificador de movilidad urbana, quiero modelar soluciones de congestión, para poder validar propuestas de movilidad urbana.
+Como planificador de movilidad urbana, quiero ajustar los límites de velocidad para poder revisar los efectos de la medida.
+Como planificador de movilidad urbana, quiero cambiar de dirección de carriles reversibles para poder revisar los efectos de la medida.
+Como planificador de movilidad urbana, quiero modelar rotondas, para poder revisar los efectos de la medida.
+Como planificador de movilidad urbana, quiero modelar semáforos adaptativos, para poder revisar los efectos de la medida.
+Como planificador de movilidad urbana, quiero cerrar carreteras para poder revisar los efectos de la medida.
+Como planificador de movilidad urbana, quiero aumentar el tráfico en ciertos lugares, para poder simular eventos abarrotados.
+Como planificador de movilidad urbana, quiero que me notifiquen si una medida genera congestión, para no pasar por alto la congestión.
+Como planificador de movilidad urbana, quiero que me notifiquen si una medida perjudica a un vecindario, para que se pueda aumentar la equidad.
+Como planificador de movilidad urbana, quiero revisar los niveles de emisión en un determinado sensor de contaminación, para que se consideren los efectos ambientales.
+Como planificador de movilidad urbana, quiero revisar los niveles de tráfico en un determinado sensor de tráfico, de modo que se consideren los niveles de tráfico
+Como planificador de movilidad urbana, quiero ver situaciones de tráfico en fechas pasadas, para poder analizar escenarios de tráfico en días similares.
+Como planificador de movilidad urbana, quiero obtener una estimación del costo de una medida, para poder revisar las consecuencias financieras de la medida.
+Como planificador de movilidad urbana, quiero conocer la emisión estimada de una congestión, para poder revisar los efectos de contaminación de una medida o evento.
+Como planificador de movilidad urbana, quiero conocer los niveles de ruido estimados del tráfico, para poder revisar los efectos ambientales de una medida o evento.
+Como planificador de movilidad urbana, quiero simular situaciones de crisis para poder ayudar a los servicios de emergencia.
+Como planificador de movilidad urbana, quiero informar sobre los efectos de contaminación de una medida, para poder ofrecer la validación de mi propuesta.
+Como planificador de movilidad urbana, quiero informar sobre la equidad de una medida, para poder ofrecer la validación de mi propuesta.
+Como planificador de movilidad urbana, quiero informar sobre el coste de una medida, para poder ofrecer la validación de mi propuesta.
+Como planificador de movilidad urbana, quiero informar sobre los efectos de la congestión de una medida, para poder ofrecer la validación de mi propuesta.
+Como planificador de movilidad urbana, quiero informar un resumen ejecutivo de una solución, para poder informar al alcalde de las consecuencias de una propuesta.
+Como planificador de movilidad urbana, quiero hacer un informe extenso sobre una solución, para poder informar a la consultora de las consecuencias de una propuesta.
+Como planificador de movilidad urbana, quiero obtener sugerencias de soluciones para una congestión del tráfico, de modo que pueda inspirarme para resolver el problema.

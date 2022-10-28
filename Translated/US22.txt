@@ -1,0 +1,60 @@
+Como usuario, quiero buscar y descubrir música mediante identificación de contenido o huellas dactilares.
+Como usuario, quiero buscar y descubrir música en función de mi perfil.
+Como usuario, quiero buscar y descubrir música basada en otros usuarios similares a mí.
+Como usuario, quiero buscar y descubrir música o tonos de devolución de llamada similares a un video musical determinado en función de la similitud de contenido.
+Como usuario, quiero buscar y descubrir música explotando metadatos enriquecidos y etiquetas de imagen, de modo que encuentre artistas relacionados, nuevos géneros u otra ruta de escucha relevante.
+Como usuario, quiero subir videos etiquetados y tener etiquetas disponibles para todos los pasos de procesamiento posteriores.
+Como usuario, quiero ver secuencias de miniaturas de segmentos de video.
+Como usuario, deseo obtener información sobre segmentos y elementos de video similares.
+Como usuario, quiero obtener información sobre elementos y segmentos de video perceptualmente similares.
+Como usuario, quiero recibir recomendaciones de contenido de perfiles similares.
+Como usuario, quiero recibir recomendaciones de contenido basadas en los eventos de noticias más relevantes en mi área.
+Como usuario, quiero identificar personas en videos y recibir información relacionada sobre ellas.
+Como usuario, quiero identificar productos en videos y recibir información relacionada sobre ellos.
+Como usuario, quiero identificar los logotipos de las emisoras en los videos y recibir información relacionada sobre ellos.
+Como usuario, quiero identificar marcas en videos y recibir información relacionada sobre ellas.
+Como usuario, quiero tomar una foto o subir una imagen, por lo que se me recomienda con videos relacionados con esa foto o imagen.
+Como usuario, quiero caminar, acceder a los contenidos mediante un mapa geográfico y estar informado si hay videos que cubran la zona, monumentos o cualquier otro punto de interés relevante.
+Como usuario, quiero buscar elementos de contenido mediante el reconocimiento de voz automático.
+Como administrador, quiero ver, validar y editar la segmentación de videos.
+Como administrador, quiero anotar segmentos de videos de noticias y extraer un tema para cada segmento.
+Como administrador, quiero filtrar y clasificar videos según los aspectos de calidad de A / V.
+Como administrador, quiero obtener una evaluación rápida de si el material de audio se ha editado antes de la carga.
+Como administrador, quiero filtrar previamente el contenido de desnudos.
+Como administrador, quiero filtrar previamente el contenido mediante la búsqueda basada en información de activos de bajo nivel.
+Como administrador, quiero validar automáticamente el contenido ingerido por infracción de derechos de autor.
+Como administrador, quiero filtrar previamente el contenido mediante la búsqueda en información de activos de alto nivel, como metadatos y etiquetas reconocidas por el sistema o proporcionadas por el usuario.
+Como administrador de Zooniverse, quiero evaluar qué tan interesante, atractiva o compleja es una imagen basada en análisis automatizados, anotaciones ciudadanas y comentarios en Talk.
+Como administrador de Zooniverse, quiero detectar cuándo se le debe pedir a un científico que mire un tema, según las anotaciones y la información de los comentarios de Talk.
+Como administrador de Zooniverse, quiero identificar los tipos de voluntarios.
+Como administrador de Zooniverse, quiero preclasificar las imágenes de Galaxy Zoo usando características de imagen simples de bajo nivel.
+Como administrador de Zooniverse, quiero detectar automáticamente imágenes de Snapshot Serengeti sin animales clasificables en ellas.
+Como administrador de Zooniverse, quiero realizar una detección automática de series de imágenes para el caso de un mal funcionamiento de la marca de tiempo en las imágenes de Snapshot Serengeti.
+Como administrador de Zooniverse, quiero realizar una preclasificación automática de especies animales en Snapshot Serengeti.
+Como administrador de Zooniverse, quiero realizar una preclasificación automática de atributos de animales en Snapshot Serengeti.
+Como administrador de Zooniverse, quiero realizar una detección automática del número de animales en Snapshot Serengeti.
+Como administrador de Zooniverse, quiero realizar una segmentación o localización automática de plancton en Plankton Portal.
+Como administrador de Zooniverse, quiero detectar automáticamente las imágenes del Portal de plancton sin plancton clasificable en ellas.
+Como administrador de Zooniverse, quiero realizar una detección automática del tamaño u orientación del plancton en las imágenes del Portal de plancton.
+Como administrador de Zooniverse, quiero realizar una preclasificación automática de las especies de plancton en las imágenes del Portal de plancton.
+Como administrador de Zooniverse, quiero realizar un análisis automático del movimiento del gusano para reducir la duración del video en Worm Watch Lab.
+Como administrador de Zooniverse, quiero detectar automáticamente la hora en un video de Worm Watch Lab donde el gusano pone un huevo.
+Como administrador de Zooniverse, quiero detectar características importantes como áreas de inundaciones, daños, refugios temporales, carreteras bloqueadas, etc. en las imágenes de satélite.
+Como administrador de Zooniverse, quiero evaluar la probabilidad / el peso de la clasificación de un voluntario en función de su experiencia.
+Como administrador de Zooniverse, quiero realizar un filtrado previo de las imágenes para eliminar artefactos como estrellas brillantes y errores de lectura de la cámara.
+Como administrador de Zooniverse, quiero detectar objetos en movimiento y transitorios en las imágenes.
+Como administrador de Zooniverse, quiero eliminar el ruido de fondo y los sonidos que distraen de los archivos de audio.
+Como administrador de Zooniverse, quiero agrupar llamadas de ballenas que sean similares.
+Como administrador de Zooniverse, quiero identificar la cantidad de ballenas que se escuchan en un solo archivo de audio.
+Como administrador de Zooniverse, quiero saber cuándo debo interrumpir a un voluntario.
+Como administrador de Zooniverse, quiero saber si debo interrumpir a un voluntario con un texto, una imagen o un video.
+Como administrador de Zooniverse, quiero saber cuándo debo educar a un voluntario.
+Como administrador de Zooniverse, quiero saber si debo educar a un voluntario con texto, una imagen o un video.
+Como administrador de Zooniverse, quiero saber qué educación debo darle a un voluntario.
+Como administrador de Zooniverse, quiero saber cuándo un voluntario ha hecho un comentario interesante sobre un tema.
+Como administrador de Zooniverse, quiero saber cuándo Zoonibot debería comentar sobre un tema.
+Como administrador de Zooniverse, quiero saber cuándo Zoonibot debería dar una explicación.
+Como administrador de Zooniverse, quiero saber qué debería decirle Zoonibot a un voluntario.
+Como administrador de Zooniverse, quiero agrupar sujetos por similitud.
+Como administrador de Zooniverse, quiero recomendar diferentes proyectos a los voluntarios en función de sus experiencias anteriores.
+Como administrador, quiero ver un resumen de los artículos para poder reutilizarlos.

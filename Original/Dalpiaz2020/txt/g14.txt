@@ -1,0 +1,36 @@
+As the IFA, I want to bring different existing systems together, so that I can avoid having to save redundant data.
+As the IFA, I want the system to be able to handle multiple languages, so that I can service leagues in different countries.
+As the IFA, I want the system to be reliable while being used by at least 50.000 people at the same time, so that the user experience will be satisfactory.
+As a fan, I want to access the system on my phone, so that I can access it wherever I am.
+As a match official, I want to access the system on my phone, so that I can access it on the field or while I am traveling to the game.
+As an IFA employee, I want to be able to access the system from a desktop, so that I can more easily enter new data into the system.
+As a team manager, I want to be able to access the system from a desktop, so that I make fewer mistakes when managing my assets.
+As a team staff member, I want to be able to access the system from a desktop, so that I more easily work together with other staff members.
+As the IFA, I want system users to only gain access to tools that are relevant for them, so that the system is less confusing.
+As the IFA, I want to manage leagues within the system, so that I have one place to access all necessary data.
+As the IFA, I want to be able to input different rulesets for different competitions, so that no mistakes will be made in updating leaderboards, scheduling matches or auditing budgets.
+As the IFA administrator, I want to be able to add new leagues to the system, so that I can keep the system up to date.
+As the IFA administrator, I want to be able to register new teams for the system, so that I can keep the system up to date.
+As the IFA manager, I want to be able to approve new teams that are registered in the IFA system, so that I can maintain integrity.
+As the IFA manager, I want to be able to approve new leagues that are added to the system, so that I can maintain integrity.
+As an IFA employee, I want the scheduling of games to be automated, so that I can relieve some of my workload.
+As the IFA, I want to avoid bias like giving teams a lighter schedule, so that I can avoid any claims of unfair advantages.
+As an IFA employee, I want to automate the allocating of match officials to games, so that I can relieve some of my workload.
+As the IFA, I want to automatically apply league rules like not allowing the same match officials to officiate the same team multiple times, so that I can avoid claims about match officials causing an unfair advantage.
+As the IFA, I want to avoid conflicts between the game schedules and the match officials’ personal schedules, so that I will not have to reschedule games as a result of this.
+As a match official, I want to have my preferred time slots, dates and locations for officiating games taken into consideration when making my schedule, so that I will not have to work at a time that is inconvenient for me.
+As the IFA, I want the overriding of a generated schedule to need at least two certified IFA employees, so that I can avoid mistakes. As an IFA budget auditor, I want to be able to control and audit a team’s budget management within the system, so that I can reduce my workload.
+As the IFA, I want the teams to input every transaction they make into the system so that I can make sure the team is following their league’s rules.
+As an IFA budget auditor, I want to be able to quickly obtain a system-generated report about a team's budget management, so that I can easily read up on their situation.
+As a team manager, I want to manage my team’s finances directly within the system, so that I will not have to do unnecessary work.
+As a team manager, I want to be able to assign roles and system privileges to different members on my team, so that I can delegate tasks and save time.
+As a fan, I want to be notified as soon as possible about important schedule changes like a delayed kick-off, so that I can plan accordingly.
+As a match official, I want to be notified as soon as possible about important schedule changes like a delayed kick-off, so that I can plan accordingly.
+As the IFA, I want all different stakeholders of a game event to be notified in the same way and at the same time, so that I can be more efficient.
+As a fan, I want to be able to choose which game events I will be notified of, so that I do not get too many notifications for my liking.
+As a fan, I want to check statistics of different matches and statistics of different players, so that I can be more engaged in their respective league.
+As a team staff member, I want to access statistics about different matches and different players, so that I can strategize better.
+As a match official, I want to report on match events live during the match, so that I do not have to register events twice.
+As a fan, I want game events to be reported live so that I can keep track of what is happening as closely as possible.
+As the IFA, I want the match officials to directly report on game events, so that I can prevent unauthorized data sources being relevant.
+As the IFA, I want player and match statistics to be derived directly from the reported match events, so that no extra work needs to be done 

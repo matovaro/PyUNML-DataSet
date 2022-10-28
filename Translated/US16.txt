@@ -1,0 +1,83 @@
+Como investigador principal, quiero registrar correctamente todos los metadatos para poder garantizar el correcto funcionamiento del proyecto en caso de cambios de personal.
+Como investigador, quiero indicar dónde se almacenarán mis datos durante el proyecto y dónde después del proyecto, para que permanezcan accesibles durante todas las etapas del ciclo de vida de los datos.
+Como investigador, quiero importar metadatos que capturé con una herramienta de metadatos, para no tener que volver a capturarlos en un DMP.
+Como administrador de datos, quiero saber cómo se usan los datos, para poder desarrollar escenarios de uso y soporte más detallados con los investigadores.
+Como propietario de un repositorio, quiero poder verificar la procedencia planificada de los datos que se enviarán al final de un proyecto, para poder calcular las tarifas de envío necesarias y verificar si pertenecen a nuestro grupo objetivo.
+Como gerente de TI, quiero conocer los requisitos de recursos de TI en las primeras etapas del ciclo de vida del proyecto, para poder habilitar la planificación de la adquisición de recursos.
+Como investigador principal, quiero planificar qué tipo de datos quiero registrar / almacenar, para poder asegurarme de que sea posible almacenarlos.
+Como miembro del personal de TI, quiero conocer los requisitos de seguridad de los datos para saber qué tipo de medidas de seguridad aplicar.
+Como administrador de datos, quiero tener la descripción de los conjuntos de datos recopilados que se utilizan o actualizan a lo largo del ciclo de vida del proyecto, para poder asegurarme de que las descripciones estén actualizadas y agregar detalles a medida que avanza el estudio.
+Como investigador, quiero saber qué temas son obligatorios y similares en todos los DMP, para poder ahorrar tiempo escribiéndolos rápidamente.
+Como administrador de datos, quiero saber cuál es el contenido de los datos, para poder decidir a qué colección o repositorio se ajustan los datos.
+Como investigador principal, quiero registrar información sobre mi DMP, para que un Comité de Ética pueda revisar esto para verificar el cumplimiento de los estándares éticos.
+Como oficial legal, quiero saber sobre la confidencialidad de los datos, para poder establecer opciones para compartir.
+Como bibliotecario de datos, quiero extraer punteros del DMP a los metadatos que se encuentran en otros sistemas, para poder importar estos metadatos a un catálogo de datos.
+Como miembro del personal de TI, quiero tener una estimación del volumen de datos producidos, para poder planificar el consumo de almacenamiento general.
+Como administrador, quiero saber quién financió el proyecto y sus requisitos, para poder realizar un seguimiento de las obligaciones específicas del financiador.
+Como administrador de archivo, quiero conocer el estado legal de los datos, para poder aplicar los requisitos legales en consecuencia.
+Como administrador de datos, quiero saber qué tipo de tipos de datos se producirán o recopilarán, para poder determinar qué servicios básicos de soporte y funcionalidades se requieren.
+Como miembro del personal de TI, quiero saber qué tipo de tipos de datos se producirán o recopilarán, para poder determinar qué servicios y funcionalidades de soporte básico se requieren.
+Como gestor de archivo, quiero conocer de antemano el período de conservación de los datos, para poder organizar mejor el servicio adaptando las acciones de conservación.
+Como administrador de datos, quiero documentar todos los derechos necesarios para administrar los datos, de modo que pueda curar y preservar los datos.
+Como administrador de datos, quiero saber cuál es el contenido de los datos, para poder verificar si se dispone de la experiencia necesaria para mantener la reutilización intelectual.
+Como jefe de investigación, quiero acceder a los identificadores persistentes de los conjuntos de datos proporcionados en el DMP, para poder verificar que se ha implementado el DMP.
+Como financiador, quiero poder leer los costos de la gestión de datos del DMP, para poder verificar si nuestras políticas funcionan según lo previsto.
+Como investigador, quiero que el DMP rellene previamente la información que ya he ingresado en otros sistemas institucionales, para no tener que volver a ingresar información para asegurarme de que el DMP contenga información precisa y estandarizada.
+Como parte interesada, quiero saber cuándo se creó o actualizó el plan de gestión de datos, para saber qué tan actualizado está el plan o si es necesario actualizarlo.
+Como parte interesada, quiero saber quién es responsable del DMP, para poder preguntarles más detalles.
+Como parte interesada, quiero tener referencias a la propuesta de proyecto, para poder buscar más información general.
+Como administrador de metadatos, quiero tener una breve descripción del proyecto, para poder estar informado sobre la descripción de los metadatos.
+Como rector, quiero saber cuántos datos se almacenarán para poder planificar recursos a largo plazo.
+Como administrador de datos, quiero saber el plan de tiempo para la recopilación de datos, para poder planificar la gestión de datos.
+Como bibliotecario de datos, quiero importar información administrativa sobre un proyecto en DMP, para poder rellenar previamente el DMP.
+Como gerente, quiero conocer todos los recursos y servicios utilizados para los datos, de modo que pueda estimar el costo real del proyecto.
+Como administrador de archivos, quiero reutilizar la información relacionada con el formato del archivo, de modo que pueda aplicar comprobaciones automatizadas para la validación del archivo.
+Como investigador, quiero saber cuántos recursos se necesitan durante el proyecto, para poder calcular los costos.
+Como investigador, quiero extraer la descripción de los datos recopilados, para poder reutilizarlos para la redacción de un documento de datos.
+Como investigador, quiero registrar publicaciones de investigación en el repositorio institucional o CRIS con registros DMP, para poder generar informes de resultados de investigación resultantes de un proyecto.
+Como investigador, quiero vincular publicaciones de investigación en el repositorio institucional o CRIS con registros de DMP, para poder generar informes de resultados de investigación resultantes de un proyecto.
+Como investigador, quiero almacenar acuerdos relacionados con datos de terceros utilizados en un proyecto, para que los datos se puedan citar, atribuir y utilizar correctamente.
+Como gerente de ética, quiero estar informado sobre los datos, para poder verificar la sensibilidad de los datos.
+Como operador de repositorio, quiero saber sobre el tipo de datos, para poder evaluar el tamaño y el sistema de almacenamiento.
+Como investigador, quiero conocer los costos para poder planificar mi investigación.
+Como administrador de repositorios, necesito detalles sobre el tipo de datos, para poder verificar si se puede organizar el archivo.
+Como oficial de TI, quiero saber qué tan seguros están los datos para poder garantizar el cumplimiento legal.
+Como financiador, quiero saber qué tan seguros son los datos para poder garantizar el cumplimiento legal.
+Como director de un centro de investigación, deseo recibir informes resumidos periódicos de los datos de la investigación, de modo que pueda comprender las tendencias en el uso de datos entre el personal y los estudiantes de posgrado.
+Como coordinador de posgrados, deseo recibir informes resumidos periódicos de los datos de investigación, de modo que pueda comprender las tendencias en el uso de datos entre el personal y los estudiantes de posgrado.
+Como oficial de apoyo a la investigación, quiero asegurar el cumplimiento de las reglas de los financiadores, para poder asegurar que se aceptarán todos los costos.
+Como financiador, quiero poder verificar todos los repositorios mencionados en un DMP, para poder verificar si el proyecto ha seguido nuestras reglas de financiamiento.
+Como investigador principal, quiero planificar qué tipo de datos quiero almacenar, para poder asegurarme de que sea posible almacenarlos.
+Como investigador principal, quiero saber qué tan seguros son los datos, para poder garantizar el cumplimiento legal.
+Como Director de Integridad de la Investigación, quiero acceder a informes que contienen detalles de proyectos de investigación en los que los datos se clasifican como sensibles o altamente sensibles, para poder confirmar que se aplican protocolos de seguridad a estos datos.
+Como archivo, quiero obtener información sobre el volumen de datos a preservar en una etapa temprana, para poder proporcionar la infraestructura de almacenamiento adecuada.
+Como investigador, quiero saber cuánto tiempo llevará archivar, para poder planificar los pasos posteriores.
+Como investigador principal, quiero saber quién es el propietario de los datos, para saber qué puedo hacer con ellos.
+Como administrador de datos, quiero tener referencias a la documentación de los datos y su proceso de creación, para que los datos se puedan reutilizar y administrar.
+Como administrador de archivos, quiero asegurarme de que los metadatos detallados estén asociados a los datos para que sean comprensibles para los futuros usuarios.
+Como administrador de datos, quiero saber qué tipo de tipos de datos se producirán o recopilarán, para poder asegurarme de que los recursos técnicos y los conocimientos técnicos necesarios están disponibles.
+Como miembro del personal de TI, quiero saber qué tipo de tipos de datos se producirán o recopilarán, para poder asegurarme de que están disponibles los recursos técnicos y los conocimientos técnicos necesarios.
+Como miembro del personal de TI, quiero saber cómo se utilizan los datos, para poder determinar qué tipo de servicios básicos y funcionalidades se requieren.
+Como administrador de datos, quiero saber si los datos recopilados dependen de otros conjuntos de datos de mi propia institución o de otras instituciones, para poder asegurar que estas dependencias se mantengan.
+Como miembro del personal de TI, quiero saber qué formatos se utilizan para poder determinar qué tipo de servicios técnicos y funcionalidades se requieren.
+Como miembro del personal de TI, quiero saber con qué software o tecnología se producen o utilizan los datos, para poder determinar qué tipo de servicios técnicos y funcionalidades se requieren.
+Como administrador de datos, quiero saber qué información es necesaria para reutilizar los datos, de modo que se pueda verificar si toda la información necesaria está disponible para los investigadores interesados ??en reutilizar los datos.
+Como administrador de datos, quiero saber qué formatos se utilizan, para saber qué tecnología o información de fondo podría ser necesaria para usar los datos.
+Como administrador de datos, quiero saber si los datos se pueden reproducir de manera eficiente, para poder determinar si los datos deben almacenarse y cómo.
+Como administrador de datos, quiero saber con qué software o tecnología se producen o utilizan los datos, de modo que sepa qué tecnología o información de fondo podría ser necesaria para (re) usar los datos.
+Como gerente de evaluación de investigaciones, quiero asegurarme de que todos los datos se citan correctamente con nuestra afiliación, de modo que se cuenten para nuestro recuento de citas.
+Como administrador, quiero verificar que todos los datos tengan el nivel de seguridad adecuado, para poder demostrar el cumplimiento.
+Como administrador de datos, quiero conocer los requisitos de seguridad de los datos, para poder verificar si los datos se pueden mantener seguros.
+Como administrador de datos institucionales, quiero poder extraer los conjuntos de datos que se envían a repositorios externos, para poder agregarlos a un catálogo de datos institucionales.
+Como administrador de datos institucionales, quiero conocer los requisitos de privacidad y seguridad de los datos, para poder planificar el sistema de almacenamiento y los permisos de uso compartido adecuados.
+Como investigador, quiero ver las secciones sobre costos de otros investigadores de mi departamento, para ver si podemos compartir las publicaciones del administrador de datos.
+Como investigador, quiero ver las secciones sobre roles presentados por otros investigadores en mi departamento, para poder ver si podemos compartir las publicaciones del administrador de datos.
+Como investigador, quiero ver las secciones sobre responsabilidades enviadas por otros investigadores de mi departamento, para ver si podemos compartir las publicaciones del administrador de datos.
+Como administrador de datos de la facultad, quiero ver las secciones sobre costos, para poder asegurar suficiente experiencia en administración de datos para respaldar el proyecto.
+Como administrador de datos de la facultad, quiero ver las secciones sobre roles, para poder asegurar suficiente experiencia en la gestión de datos para respaldar el proyecto.
+Como administrador de datos de la facultad, quiero ver las secciones sobre responsabilidades, de modo que pueda asegurar suficiente experiencia en la gestión de datos para respaldar el proyecto.
+Como administrador de datos, quiero aclarar los derechos necesarios para reutilizar los datos, de modo que sea legal reutilizarlos.
+Como investigador, quiero registrar mi intención de compartir los datos que he recopilado bajo los términos de una licencia en particular, para que otros investigadores que usan los datos comprendan los derechos de uso.
+Como administrador de datos, quiero planificar la anonimización de los datos, de modo que protejamos la privacidad de las personas que participan en la investigación lo mejor posible y aún así garanticemos la reutilización de los datos.
+Como administrador de repositorios, quiero tener metadatos en idiomas adicionales, para poder permitir el archivo de datos multilingües.
+Como administrador de datos, quiero saber si se aprobó el DMP, para poder continuar con los siguientes pasos requeridos.

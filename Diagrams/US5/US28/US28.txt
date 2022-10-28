@@ -1,0 +1,30 @@
+Como IFA, queremos poder definir y cambiar las políticas de las ligas, de modo que podamos controlar cómo se ejecutan los juegos.
+Como IFA, queremos poder definir la política presupuestaria por temporada, de modo que tengamos autoridad sobre las especificaciones de los presupuestos.
+Como IFA, queremos poder ver las especificaciones de los presupuestos de los equipos en tiempo real, para que podamos monitorear que cumplen con las regulaciones y políticas.
+Como IFA, queremos poder asignar árbitros a diferentes ligas, para que podamos planificar los horarios.
+Como IFA, queremos la grabación digital en tiempo real de los datos de los eventos del juego por parte de los árbitros, para que toda la información que obtengamos sea precisa, confiable y verdadera.
+Como IFA, queremos una programación automática que considere la política de programación y las restricciones de las partes interesadas, para evitar sesgos y no tener que reprogramar.
+Como IFA, queremos poder monitorear el uso de los diferentes recursos por parte de los grupos de interés, para que haya una transparencia constante.
+Como IFA, queremos que el sistema sea ampliable, de modo que se puedan agregar nuevos usuarios al sistema.
+Como IFA, queremos que el sistema admita al menos 50 000 usuarios, para que no se bloquee durante las horas pico.
+Como IFA, queremos poder comunicarnos con todas las partes interesadas a través del sistema sobre cosas como cancelaciones de juegos, para que todos sepan de inmediato y al mismo tiempo lo que está sucediendo.
+Como equipo, queremos poder gestionar nuestros propios recursos, para que podamos tomar las decisiones relacionadas con nuestros recursos.
+Como equipo, queremos poder crear nuestra propia página de redes sociales para el equipo, de modo que podamos crear contenido personal.
+Como equipo, queremos poder crear páginas de redes sociales para nuestros diferentes jugadores, para que puedan mantenerse en contacto con los fanáticos.
+Como equipo, queremos poder crear páginas de redes sociales para nuestros diferentes entrenadores, para que puedan mantenerse en contacto con la afición.
+Como equipo, queremos poder administrar nuestra propia página de redes sociales, para que podamos actualizar a nuestros fanáticos sobre lo que consideran importante.
+Como equipo, queremos poder registrar cada transacción, ingresos y gastos en el sistema, para no tener que enviar informes separados a la IFA.
+Como equipo, queremos poder elegir un administrador para una red social, de modo que podamos manejar la gestión de nuestro contenido.
+Como equipo, queremos poder comunicarnos con otras partes interesadas a través del sistema, de modo que no tengamos que utilizar métodos de comunicación externos.
+Como árbitro, quiero poder registrar los eventos del juego de manera eficiente en tiempo real, para no tener que perder el tiempo.
+Como árbitro, quiero que el sistema conozca mi horario y restricciones, de modo que no se me haga doble reserva.
+Como árbitro, quiero recibir notificaciones sobre cancelaciones y reprogramaciones, para poder reprogramar mis planes.
+Como árbitro, quiero poder comunicarme con otras partes interesadas en el sistema, para no tener que perder el tiempo buscando cómo contactar a diferentes personas.
+Como aficionado, quiero poder registrarme en el sistema, para poder seguir a diferentes equipos.
+Como fan, quiero poder acceder al sistema a través de una aplicación móvil, para poder acceder a él desde cualquier lugar.
+Como aficionado, quiero poder seguir a mis equipos favoritos para poder estar al día de lo que está sucediendo.
+Como fan, quiero poder seguir a mis jugadores favoritos, para poder estar al día de lo que está sucediendo.
+Como fan, quiero poder ver los horarios de los juegos en el sistema, para saber cuándo están encendidos los juegos.
+Como fan, quiero recibir notificaciones, para saber si algo se reprograma.
+Como fan, quiero estar actualizado sobre los eventos durante los juegos, para saber exactamente lo que está sucediendo ahora.
+Como aficionado, quiero que el sistema funcione en el idioma y la moneda de mi país, para no tener que traducir ni convertir nada.

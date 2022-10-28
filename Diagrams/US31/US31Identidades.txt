@@ -1,0 +1,12 @@
+Fan
+Arbitro
+Individuo
+Admin_IFA
+Visitante
+Aficionado
+Representante_IFA
+CIO
+Liga
+Organizacion
+Equipo
+Horario

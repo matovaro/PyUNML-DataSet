@@ -1,0 +1,34 @@
+Como paciente, quiero poder acceder a mi historia clínica desde mi dispositivo móvil, para poder revisar los resultados de las pruebas y las mediciones.
+Como paciente, quiero poder compartir los datos que se recopilan a través de mis dispositivos portátiles con los profesionales de la salud.
+Como paciente, quiero poder controlar quién tiene acceso a mis datos médicos, para poder restringir el acceso a mis datos si es necesario.
+Como paciente, quiero poder revisar el estado de las pruebas de laboratorio, para tener una indicación de cuándo estarán disponibles los resultados.
+Como paciente, quiero poder programar citas, para poder programar citas de forma remota utilizando mi cuenta de cliente.
+Como paciente, quiero poder renovar mis recetas de medicamentos.
+Como médico, quiero poder compartir datos de pacientes con laboratorios internos y externos.
+Como médico, quiero que los resultados de las mediciones se importen automáticamente a los registros médicos de los pacientes, para no tener que ingresarlos manualmente.
+Como médico, quiero poder acceder a los registros médicos de los pacientes para poder ver todos sus datos médicos relevantes.
+Como médico, quiero poder agregar datos a los registros médicos de los pacientes.
+Como médico, quiero poder tener una agenda, para poder ver quién y dónde es mi próxima cita con el paciente.
+Como médico, quiero poder solicitar pruebas de laboratorio, para poder revisar los resultados de estas pruebas.
+Como médico, quiero poder enviar recetas a las farmacias.
+Como médico, quiero poder revisar qué medicamentos tienen en stock las farmacias.
+Como médico, quiero poder revisar las prescripciones de ingesta de medicamentos, para poder asesorar a mis pacientes sobre la ingesta de medicamentos.
+Como médico, quiero tener una descripción general de las farmacias externas, incluidos sus nombres, direcciones y números de contacto.
+Como médico, quiero que las enfermeras solo tengan un control parcial sobre los registros médicos del paciente, para que no eliminen accidentalmente datos importantes.
+Como médico, quiero poder revisar el estado de las pruebas de laboratorio, para tener una indicación de cuándo estarán disponibles los resultados.
+Como médico, quiero poder adjuntar notas a las pruebas de laboratorio, para poder proporcionar al personal del laboratorio información adicional si es necesario.
+Como médico, quiero poder iniciar sesión en el sistema rápidamente, para no tener que perder tiempo durante las citas con los pacientes.
+Como enfermera, quiero poder editar el registro médico del paciente para poder ingresar los resultados de las mediciones.
+Como enfermera, quiero revisar la información médica relevante del paciente para poder preparar su habitación en consecuencia.
+Como recepcionista, quiero poder identificar a los pacientes a través de un número único
+Como recepcionista, quiero tener acceso al horario de los médicos para poder programar sus citas.
+Como recepcionista, quiero poder relacionar a los pacientes con los médicos, para poder programar citas para ellos.
+Como recepcionista, quiero tener una descripción general de las habitaciones disponibles para poder asignarles pacientes.
+Como técnico de laboratorio, quiero tener una descripción general de todas las pruebas que deben realizarse.
+Como técnico de laboratorio, quiero poder revisar el tipo y nivel de urgencia de cada prueba a realizar, así como el médico que ha solicitado la prueba.
+Como técnico de laboratorio, quiero poder recibir notificaciones sobre las solicitudes de pruebas que se deben realizar, para poder realizar las pruebas cuando sea necesario.
+Como técnico de laboratorio, quiero poder ingresar los resultados de las pruebas, para que los médicos puedan revisarlos.
+Como técnico de laboratorio, quiero poder adjuntar notas a las pruebas de laboratorio, para poder proporcionar a los médicos información adicional si es necesario.
+Como farmacéutico, quiero poder revisar el número de identificación de un paciente, la dosis del medicamento y el medicamento recetado.
+Como administrador del sistema, quiero poder ajustar los derechos de acceso de los usuarios.
+Como administrador del sistema, quiero que los usuarios inicien sesión utilizando la autenticación de dos pasos, de modo que la seguridad del sistema esté garantizada.

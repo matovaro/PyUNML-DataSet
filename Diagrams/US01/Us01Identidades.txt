@@ -1,0 +1,11 @@
+Propietario
+Usuario
+Usuario_FABS
+Usuario_agencia
+Usuario_web
+Usuario_datos
+Equipo_corredores
+Equipo_agencia
+Desarrollador
+Tester
+Diseñador
