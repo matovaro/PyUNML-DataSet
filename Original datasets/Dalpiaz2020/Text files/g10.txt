@@ -1,0 +1,28 @@
+As a nurse and doctor, I need to have access to the Electronic medical record (EMR) of a patient so that I can get a good picture of the patient’s health
+As a staff member, I want the EMR to be consistent for all patients across all department so that patient safety is ensured
+As administrative staff member, I want the be able to see in what room appointments are booked so that nothing gets overbooked
+As medical staff member, I want to know in which bed I can find a certain patient
+As a nurse, I want to see an alert when a patient goes home so that I know when to clean the bed
+As an administrative staff member, I want to have an overview of all the beds we have so that I have a clear picture of how occupied the hospital is
+As a facility manager, I want to receive an alert if something is defunct in a room so that I can fix it
+As a nurse, I want to know what doctor I have to work with
+As medical staff member, I want to know what patient I am assigned to
+As medical staff member, I want to see why my patient made an appointment so that I am prepared for the appointment
+As a patient, I want to make an appointment online so that I do not have to call or come to the hospital
+As a patient, I want to be able to see in what room my appointment is
+As a patient, I want to be able to give the reason of my appointment so that the doctors know how long it will take
+As a patient, I want to see the availability of doctors so that I can book an appointment with my favourite doctor
+As a patient, I want to be able to reschedule so that I can make another appointment when something prevents me from going
+As a receptionist, I want to be able to reschedule appointments so that I can reschedule when a appointment is no longer possible
+As a receptionist, I want to be able to get an overview of the appointment schedule
+As a receptionist, I want to be able to make appointments so that patients can still call or walk in to make an appointment
+As a patient, I want to have a clear overview of when it is possible to schedule an appointment
+As a legal department member, I want patient data to only accessible to people that need access to help patients so that the GDPR is adhered to
+As a patient, I want to have to know what data the hospital collects about me
+As a patient, I want to be able to have the hospital remove any data they have about me
+As a Patient, I want to change any of my general information
+As medical staff member, I want to have easy access to all data that is collected with medical devices so I can get a good picture of the patients health
+As medical staff member, I want to have access to patient data through any handheld devices so that I can do my work more efficiently
+As medical staff member, I want to have access to room scheduling through any handheld devices so that I can do my work more efficiently
+As medical staff member, I want to have access to appointment data through any handheld devices so that I can do my work more efficiently
+As a medical staff member, I want the data that is collected by the medical device to be added to the EMR so that I get a complete picture of the patients health

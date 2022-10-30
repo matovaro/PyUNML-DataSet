@@ -1,0 +1,30 @@
+As the IFA, we want to be able to define and change policies of the leagues, so that we can control how games run.
+As the IFA, we want to be able to define budget policy per season, so that we have authority over the specifications of budgets.
+As the IFA, we want to be able to see the specifications of the budgets of the teams in real-time, so that we can monitor that they fulfill the regulations and policies.
+As the IFA, we want to be able to assign referees to different leagues, so that we can plan the schedules.
+As the IFA, we want real-time digital recording of game event data by referees, so that all the information we get is accurate, reliable and true.
+As the IFA, we want automatic scheduling that considers the scheduling policy and stakeholder restrictions, so that we avoid biases and we do not have to do rescheduling.
+As the IFA, we want to be able to monitor the use of different resources by the stakeholders, so that there is constant transparency.
+As the IFA, we want the system to be expandable, so that new users can be added to the system.
+As the IFA, we want the system to support at least 50 000 users, so that it does not crash during peak times.
+As the IFA, we want to be able to communicate with all stakeholders through the system about things such as game cancellations, so that everyone knows immediately at the same time what is happening.
+As a team, we want to be able to manage our own resources, so that we can make the decisions related to our resources.
+As a team, we want to be able to create our own social media page for the team, so that we can create personal content.
+As a team, we want to be able to create social media pages for our different players, so that they can keep in touch with the fans.
+As a team, we want to be able to create social media pages for our different coaches, so that they can keep in touch with the fans.
+As a team, we want to be able to manage our own social media page, so that we can update our fans about what they find important.
+As a team, we want to be able to record every transaction, income and expenditure in the system, so that we do not have to send separate reports to the IFA.
+As a team, we want to be able to pick a manager for a social media, so that we are able to handle the management of our content.
+As a team, we want to be able to communicate with other stakeholders through the system, so that we do not have to use external communication methods.
+As a referee, I want to be able to record game events efficiently in real-time, so that I do not have to waste any time.
+As a referee, I want the system to know my schedule and restrictions, so that I am not double-booked.
+As a referee, I want to receive notifications about cancellations and rescheduling, so that I can reschedule my plans.
+As a referee, I want to be able to communicate with other stakeholders in the system, so that I do not have to waste time finding how to contact different people.
+As a fan, I want to be able to register in the system, so that I can follow different teams.
+As a fan, I want to be able to access the system through a mobile app, so that I can access it anywhere.
+As a fan, I want to be able to follow my favorite teams, so that I can keep up to date on what’s happening.
+As a fan, I want to be able to follow my favorite players, so that I can keep up to date on what’s happening.
+As a fan, I want to be able to see the game schedules in the system, so that I know when games are on.
+As a fan, I want to receive notifications, so that I know if something is rescheduled.
+As a fan, I want to be updated about events during the games, so that I know exactly what is happening now.
+As a fan, I want the system to work in the language and currency of my country, so that I do not have to translate or convert anything.

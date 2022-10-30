@@ -1,0 +1,42 @@
+As IFA, I want all the information about the current games to be updated on the system portalsin real-time so that the system portal is the only official source of information about the leagueand its games.
+As IFA, I want to limit the ability to report on the games in my system to referees only so thatI have one source of authorized information about the game.
+As the main referee, I want to have a mobile-based reporting tool so that I can report the gameevents in real-time.
+As a side referee, I want to have a mobile-based reporting tool so that I can report the gameevents in real-time.
+As a prospect/new team, I want to have access to a dedicated portal so that I can register myteam in the league.
+As a team manager, I want to be able to add/edit/delete my players’ details so that I can managerecruiting new players or transferring existing ones.
+As IFA, I want to access the teams’ records, including transactions, players transfers, andevents so that I can track the leagues’ activities
+As IFA, I want to be able to consider new/potential referees through the system so that I canevaluate their profile for recruitment.
+As IFA, I want to be able to modify the parameters of the game scheduling system so that I cancontrol the automatic scheduling process.
+As IFA, I want the system to automatically generate game schedule for each league based onthe specified parameters so that biases are minimized.
+As IFA, I want my agents to be able to modify the automatically generated game schedules sothat special events and situations are considered in advance.
+As IFA, I want each manual game schedule modification to be approved by two agents (initi-ator and approver) so that biases and mistakes are minimized.
+As IFA, I want to be able to change the game schedule later with adequate justification after itwas announced so that I can accommodate unforeseen events (weather, emergencies…).
+As a referee, I want to communicate my schedule preferences with the IFA in advance so thatmy personal commitments are accommodated.
+As IFA, I want the referees assignment system to take pre-defined requirements into accountwhile setting the referees schedule so that to minimize the need for reassigning referees (re-scheduling referees).
+As IFA, I want the system to notify referees about the cancelation of games over the phonerather than the online portal so that I ensure they received and acknowledged the updates aboutcancellations.
+As IFA, I want to monitor the teams’ budgets.
+As IFA, I want to access the teams’ budgets in real-time instead of annually so that I monitorpolicy adherence.
+As IFA, I want to limit access to each team’s budget only to the team’s officials and the IFAmanagement so that I maintain the budgets confidentiality.
+As a team manager, I want to be able to connect my system to the IFA’s so that I can report inreal-time.
+As IFA, I want to provide open access to all information about games, teams, and results so that I improve the leagues transparency.
+As IFA, I want the system to present statistics about games, players, teams, and coaches so that I can manage the official source of said statistics.
+As a guest fan, I want to have access to all information about games, teams, leagues statistics, and results so that I do not need to search data in different sources.
+As a registered fan, I want to have access to all information about games, teams, and results so that I do not need to search for data in different sources.
+As a registered fan, I want to be able to follow my preferred teams, players and/or games so that I can receive push notifications about the teams, players and/or games.
+As a registered fan, I want to receive reminder notifications before the games that I follow.
+As a registered fan, I want to receive reminder notifications about game cancellations through the portal.
+As a journalist/news agent, I want to be able to export information about the teams, players and/or games so that I have a single official source of information.
+As a player I want to be able to update my profile on the fan portal.
+As IFA, I want the system-to-be structured as one system with different interfaces (fans, teams, IFA) so that to avoid inconsistencies and redundant data.
+As IFA, I want the system to support up to 50,000 fans simultaneously.
+As IFA, I want the system response time for fans, team administration, and IFA administration to not exceed 1 second so that to enhance the users experience.
+As IFA, I want the referees’ real-time updates from the games to be prioritized over any other data flows in the system so that the updates are as fast as possible.
+As a referee, I want to be connected to the system in real-time during the games so that I can provide the status updates as fast as possible without slowing me down or hindering my ability to manage the game.
+As IFA, I want the system to be localizable so that it can accommodate different local regula-tions, languages, currencies and time zone
+As IFA, I want the IFA IT team to be able to decide data allocation to different data centers sothat the system complies with different data regulations.
+As IFA, I want the system to keep archived information of previous years so that they areaccessible to media personnel and interested fans (e.g., gambling)
+As IFA, I want all budget-related information to be encrypted so that I maintain the budgetconfidentiality.
+As IFA, I want the system to be implementable in a modular way so that I can prioritize myimplementation stages 9.
+As IFA, I want the system to be accommodating to new modules so that I can add new func-tionalities in the next versions 10.
+As IFA, I want the system development, implementation and mainten,ance to be outsourced.
+As IFA, I want the IFA IT team to act as the client for the system developer so that they handleall communication between IFA and the developer.

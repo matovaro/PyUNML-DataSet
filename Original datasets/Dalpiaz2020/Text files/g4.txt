@@ -1,0 +1,23 @@
+As an urban mobility planner, I want to model congestion solutions, so that I can validate urban mobility proposals
+As an urban mobility planner, I want to adjust speed limits, so that I can review the effects of the measure
+As an urban mobility planner, I want to switch directions of revertible lanes, so that I can review the effects of the measure
+As an urban mobility planner, I want to model roundabouts, so that I can review the effects of the measure
+As an urban mobility planner, I want to model adaptive traffic lights, so that I can review the effects of the measure
+As an urban mobility planner, I want to close down roads, so that I can review the effects of the measure
+As an urban mobility planner, I want to increase traffic in certain spots, so that I can simulate crowded events
+As an urban mobility planner, I want to be notified if a measure leads to congestion, so that I do not overlook the congestion
+As an urban mobility planner, I want to be notified if a measure disadvantages a neighborhood, so that fairness can be increased
+As an urban mobility planner, I want to review the emission levels at a certain pollution sensor, so that environmental effects are considered
+As an urban mobility planner, I want to review the traffic levels at a certain traffic sensor, so that traffic levels are considere
+As an urban mobility planner, I want to see traffic situations at past dates, so that I can analyze traffic scenarios on similar days
+As an urban mobility planner, I want to get an estimation of the cost of a measure, so that I can review the financial consequences of the measure
+As an urban mobility planner, I want to know the estimated emission of a congestion, so that I can review the pollution effects of a measure or event
+As an urban mobility planner, I want to know the estimated noise levels of traffic, so that I can review the environmental effects of a measure or event
+As an urban mobility planner, I want to simulate crisis situations, so that I can aide emergency services
+As an urban mobility planner, I want to report on the pollution effects of a measure, so that I can offer validation for my proposal
+As an urban mobility planner, I want to report on the fairness of a measure, so that I can offer validation for my proposal
+As an urban mobility planner, I want to report on the cost of a measure, so that I can offer validation for my proposal
+As an urban mobility planner, I want to report on the congestion effects of a measure, so that I can offer validation for my proposal
+As an urban mobility planner, I want to report an executive summary of a solution, so that I can inform the mayor of the consequences of a proposal
+As an urban mobility planner, I want to make an extensive report on a solution, so that I can inform the consultancy company of the consequences of a proposal
+As an urban mobility planner, I want to get suggested solutions for a traffic congestion, so that I can be inspired to solve the problem 

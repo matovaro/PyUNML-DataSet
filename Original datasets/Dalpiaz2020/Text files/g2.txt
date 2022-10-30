@@ -1,0 +1,40 @@
+As a doctor, I want to be able to write prescriptions for patients.
+As a doctor, I want to be able to automatically transfer prescriptions to pharmacy information systems.
+As a patient, I want to be able to view prescriptions written by doctors, so that I can use it as reference when I visit the pharmacy.
+As a pharmacist, I want to be able to view prescriptions that have been transferred, so that I know what patients need.
+As a patient, I want to be able to edit my personal information online.
+As a system administrator, I want all data to be stored in a central database, so that there are fewer discrepancies between departments.
+As a system administrator, I want Electronic Medical Records (EMRs) to be integrated with the new management system, so that there is a digital collection of a patient􀍛s medical information available.
+As a doctor, I want to be able to view the patient􀍛s medical history􀍘
+As a doctor, I want to be able to view the patient􀍛s personal information􀍘
+As a nurse, I want to be able to view the patient􀍛s medical history􀍘
+As a nurse, I want to be able to view the patient􀍛s personal information􀍘
+As a nurse, I want to be able to make notes of patients.
+As a receptionist, I want to be able to view the EMR of a patient, so that I have the information required to contact the patient.
+As a receptionist, I want to be able to schedule appointments.
+As a patient, I want to be able to schedule appointments online on a personal computer.
+As a doctor, I want mobile devices to be integrated with EMRs, so that any data collected by mobile devices can be stored on EMRs.
+As a patient, I want to be able to request new prescriptions via the online appointment scheduling.
+As a systems analyst, I want clinical data to be collected, so that I can perform prescriptive analytics as well as predictive analytics.
+As a systems analyst, I want to have access to clinical data that is collected by hospital employees, so that I can perform prescriptive analytics as well as predictive analytics.
+As a systems analyst, I want to be able to view the data on bed occupancy rate, so that I can perform analytics on the data.
+As a systems analyst, I want to be able to view the data on room scheduling, so that I can perform analytics on the data.
+As a systems analyst, I want to be able to view the employee schedules, so that I can use predictive analytics in order to find out how many employees are needed.
+As a system administrator, I want all the data viewed by systems analysts to be anonymized, so that patient safety is ensured.
+As a system administrator, I want the new system to comply to GDPR standards, in order to ensure that the data within the system is protected.
+As a doctor, I want the patient to be excluded from viewing any information that is not intended to be viewed by them, so that there are no security risks.
+As a system administrator, I want to be able to restrict components from being viewed by patients, so that the patient does not have access to data that is not meant for them.
+As a system administrator, I want to be able to grant different levels of access to users of the management system, so that certain functionalities can be excluded from those users.
+As a patient, I want to be able to access the components of the EMR that the hospital has intended me to see.
+As a patient, I want to be able to view my test results once they have returned from the lab.
+As a patient, I want to be able to access and view my EMR on a mobile device.
+As a patient, I want to be able to schedule an appointment on a mobile device.
+As a patient, I want to be able to request new prescriptions on a mobile device.
+As a patient, I want to be able to view prescriptions on a mobile device.
+As a doctor, I want to be able to use the hospital management system on a mobile device, so that I can access the system no matter my current location.
+As a doctor, I want to have access to all the functionalities on a mobile device that I also have access to on a personal computer.
+As a systems analyst, I want the start and end date of appointments to be registered into the management system, so that I can determine the average duration of an appointment.
+As a system administrator, I want the management system to only be accessible by users who have been granted access, so that patient data does not get leaked.
+As a system administrator, I want the management system to have a login system that prompts users to log into their private account.
+As a doctor, I want the data stored on the old management systems to be transferred to the new core management system, so that I do not lose any data.
+As a nurse, I want the data stored on the old management systems to be transferred to the new core management system, so that I do not lose any data.

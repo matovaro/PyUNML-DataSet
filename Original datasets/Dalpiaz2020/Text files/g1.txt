@@ -1,0 +1,58 @@
+As a patient, I want to access my own medical record, so that I can view my medical history
+As a UHOPE employee, I want to enter patient information only once in the Electronic Medical Record Database, so that I do not have to enter it multiple times in different databases
+As a UHOPE employee, I want to view patient information that I am allowed to access that a UHOPE employee from another department has entered into the Electronic Medical Record Database, so that information does not need to be manually exchanged between different databases
+As a receptionist, I want to search for a patient’s file in the Electronic Medical Record Database, so I do not have to ask his or her information every time a patient calls for an appointment and enter it manually
+As a receptionist, I want to edit information in a patient’s file in the Electronic Medical Record Database only once, so that I don’t have to edit it multiple times in different databases
+As a doctor, I want to enter the appointment information into the system, so that I can check what I did the next time the same patient comes in
+As a doctor, I want to only access medical files from my own patients, so that no other doctor can access the medical files of my patients
+As a receptionist, I want to view the patient’s medical file, so that I can confirm that someone is the right person for the appointment
+As a patient, I want to see the results of a test that was performed on me, so that I can look at it whenever I want
+As a patient, I want to see what I have been treated for, so that I can get a better understanding of how the doctor helped me
+As a doctor, I want to edit a patient’s medical file, so that I can make sure they get the right vaccine
+As UHOPE, I want to have an Electronic Medical Record Database that has access to the National Database for Medical Records, so that we can gather the medical files of new patients
+As UHOPE, I want to have a self-service center that holds the same data as the Electronic Medical Record Database, so that I can enable my employees to perform data analysis
+As a UHOPE employee, I want to see all of the data in the self-service center, so that I can decide on
+which data to perform data analysis
+As a UHOPE employee, I want to search for specific data in the self-service center by keyword, so that I can perform data analysis
+As a UHOPE employee, I want to select which variables I want to use in the self-service center, so that I can perform data analysis
+As a nurse, I want to view a patient’s medical record on my mobile phone, so that I can check his blood type quicker than using a computer
+As a receptionist, I want to view a doctor’s schedule on a tablet, so that I can check his availability while walking somewhere
+As a nurse, I want to have mobile hospital devices that automatically transfer the information it gathered to the patient’s medical file, so that I do not have to insert the information manually
+As a nurse, I want to have mobile hospital devices that automatically transfer the data it measured to the patient’s medical file, so that I do not have to insert the data manually
+As a receptionist, I want to manually change the start time of an appointment, so that I can provide the system with the correct information in case an appointment starts later than expected
+As a receptionist, I want to manually change the end time of an appointment, so that I can provide the system with the correct information in case the appointment takes longer than expected
+As a patient, I want to see my doctor’s available time slots, so that I can schedule an appointment myself
+As UHOPE, I want to have the scheduling system to automatically approve a patient’s appointment, so that the receptionist does not need to approve of this manually
+As a receptionist, I want to manually disapprove of appointments, so that I can cancel an appointment in case doctor is ill
+As a patient, I want to choose the reason for scheduling an appointment, so that I can enable my doctor to prepare for my appointment
+As a receptionist, I want to have the scheduling system to automatically send out an email to the patient when I cancel the appointment, so that the patient is notified
+As a receptionist, I want to have a scheduling system that shows me the room schedule, so that I can assign appointments to certain rooms
+As a receptionist, I want to have a scheduling system that shows me the schedule of all nurses, so that I can assign a nurse to an appointment
+As a receptionist, I want to have a scheduling system that shows me the schedule of all doctors, so that I can reschedule appointments if needed
+As a receptionist, I want to manually choose a timeslot to schedule an appointment for a patient, so that I can help a patient when he or she calls for an appointment
+As a patient, I want to cancel my appointment, so that I can notify the hospital in case I cannot make it
+As UHOPE, I want to enable patients to cancel their appointments up until 12 hours before their appointment through the scheduling system, so that the receptionist has enough time to reschedule the doctor
+As a doctor, I want to view my schedule, so that I can see who my next patient is and I can prepare for the appointment
+As a doctor, I want to see the reason for a patient coming in, so that I can prepare for the appointment
+As UHOPE, I want to enable the billing system to automatically create a bill based on the start and end time of an appointment, so that a billing department employee does not have to create it manually
+As UHOPE, I want to enable the billing system to automatically create a bill based the appointment information, so that a billing department employee does not have to create it manually
+As UHOPE, I want to enable the billing system to have a database of prices that are linked to specific treatments, so that the billing system can automatically create bills
+As a billing department employee, I want to see the start and end time of an appointment, so that I can check if bill is correct
+As a billing department employee, I want to see the date of an appointment, so that I can check if the bill is correct
+As UHOPE, I want to send a bill to the patient within 30 days after the appointment, so that the patient can come in for multiple appointments but only has to pay one bill
+As UHOPE, I want to bill the patient for the month they come in even though the bill is send out a month later, so that the bill corresponds to when the patient came in
+As a billing department employee, I want to view the appointment information that the doctor entered into the system, so that I can check if the bill is correct
+As UHOPE, I want to have a hospital management system that is compliant with the GDPR regulations, so that we don’t get in trouble
+As a patient, I want to change my address in my personal account, so that my information matches my real address
+As a user, I want to have a unique identification number, so that I can identify myself to the system
+As a user, I want to fill in my unique identification number and my password to log in, so that I can access the system
+As a UHOPE employee, I want to log in with two-factor authentication using my phone only the first time I want to log into the system each day, so that the time to log in during the day is minimized
+As a patient, I want to always log in with two-factor authentication using my phone, so that nobody else than me can access my personal information
+As a system administrator, I want to change access rights for users, so that I can control what users can and can’t do
+As a system administrator, I want to change access rights for user groups, so that I can control what user can and can’t do
+As UHOPE, I want to have a hospital management system that is online 24 hours per day and 7 days per week, so that UHOPE employees can always do their job
+As UHOPE, I want to have data in the Electronic Medical Record Database that is accessible 24 hours per day and 7 days per week, so that UHOPE employees can always do their job
+As UHOPE, I want to create access to the Hospital Management System for at least all 7600 employees at the same time, so that every employee can do their job
+As UHOPE, I want to have at least one back-up at all times of every piece of information in the entire system, so that the data is always available even if something happens to the system
+As a patient, I want to view my underage children’s medical files, so that I can check their information
+As UHOPE, I want to duplicate the medical file of every patient, so that I can transfer it to the National Database for Medical Records
