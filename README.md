@@ -203,5 +203,7 @@ For each of the translated files, there is a folder named with the same identifi
 - List of entities present
 
 ## Papers
-- Tovar, M. Camargo, J. _Automatic class extraction from Spanish text of
-user stories using natural language processing_.
+- Tovar, M & Camargo, J. (2022). Automatic class extraction from Spanish text of user stories
+using natural language processing. In: Narváez, F. (eds) Smart Technologies, Systems and
+Applications. SmartTech-IC 2022. Communications in Computer and Information Science.
+Springer, Cham. (In the process of being published)
